@@ -33,7 +33,7 @@ const COOKIES_PATH = process.env.X_COOKIES_PATH || './cookies.json';
 const SALIDA_PATH = process.env.SALIDA_PATH || '../../data/incidentes-chillan.json';
 // El feed no avisa cuándo se cierra un incidente, así que expiramos solos —
 // ajusta esto si ves que los pines duran mucho más o menos que la atención real.
-const HORAS_EXPIRACION = 4;
+const HORAS_EXPIRACION = 12;
 
 async function cargarExistentes() {
   try {

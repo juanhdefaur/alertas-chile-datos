@@ -60,7 +60,7 @@ X_COOKIES_PATH=./cookies.json SALIDA_PATH=../../data/incidentes-chillan.json nod
 ```
 
 Revisa `data/incidentes-chillan.json` — debería tener los incidentes vigentes
-de las últimas `HORAS_EXPIRACION` horas (4 por defecto, en `scrape.js`).
+de las últimas `HORAS_EXPIRACION` horas (12 por defecto, en `scrape.js`).
 
 ## 5. Activar el cron
 
