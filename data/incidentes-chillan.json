@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "viper-auto-2082588339631218800",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63071035,
+    "longitude": -72.08371389999999,
+    "fecha": "2026-07-29T22:05:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2082588339631218800"
+  },
+  {
+    "id": "viper-auto-2082572550584873349",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Isla Chincao / Isla San Felix, Chillán",
+    "nivelAlerta": "naranja",
+    "estado": "en_atencion",
+    "latitude": -36.61213205,
+    "longitude": -72.13073539999999,
+    "fecha": "2026-07-29T21:02:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2082572550584873349"
+  }
+]
