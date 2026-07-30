@@ -1,7 +1,7 @@
-# Scraper de despachos VIPER (Bomberos Chillán + Concepción)
+# Scraper de despachos VIPER (Bomberos Chillán, Concepción, Coihueco)
 
 Lee los tweets automáticos que VIPER publica para varios Cuerpos de Bomberos
-(ver `CUENTAS` en `scrape.js` — hoy `@bomberoschillan` y `@CentralCBC`),
+(ver `CUENTAS` en `scrape.js` — hoy `@bomberoschillan`, `@CentralCBC` y `@cbcoihueco`),
 extrae tipo de incidente + intersección, geocodifica con Nominatim y guarda
 el resultado en `data/incidentes-chillan.json`. La app lo lee desde ahí (vía
 `raw.githubusercontent.com`, sin backend propio).
@@ -27,8 +27,9 @@ a ... en las esquinas de ... y ..., en la comuna de ... Concurren N carros").
 ## 1. Crear la cuenta desechable
 
 Crea una cuenta nueva de X solo para esto. Sigue a
-[@bomberoschillan](https://x.com/bomberoschillan) y
-[@CentralCBC](https://x.com/CentralCBC) (opcional, pero ayuda a que el feed
+[@bomberoschillan](https://x.com/bomberoschillan),
+[@CentralCBC](https://x.com/CentralCBC) y
+[@cbcoihueco](https://x.com/cbcoihueco) (opcional, pero ayuda a que el feed
 cargue rápido). Ojo: son cuentas institucionales — publican tanto despachos
 automáticos de VIPER como comunicados generales; el scraper descarta solo lo
 que no calce con el formato de despacho.
