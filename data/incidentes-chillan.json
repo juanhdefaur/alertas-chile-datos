@@ -89,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082905907235582176"
+  },
+  {
+    "id": "viper-auto-2082937807983542411",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Avenida Los Carrera / Tucapel, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82273835,
+    "longitude": -73.05281335000001,
+    "fecha": "2026-07-30T21:14:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082937807983542411"
   }
 ]
