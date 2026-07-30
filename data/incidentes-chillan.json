@@ -11,5 +11,44 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082873498091782420"
+  },
+  {
+    "id": "viper-auto-2082919523548537131",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Las Heras / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.823712650000004,
+    "longitude": -73.0583065,
+    "fecha": "2026-07-30T20:01:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082919523548537131"
+  },
+  {
+    "id": "viper-auto-2082916822202900806",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Las Heras / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.823712650000004,
+    "longitude": -73.0583065,
+    "fecha": "2026-07-30T19:50:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082916822202900806"
+  },
+  {
+    "id": "viper-auto-2082906608212856927",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Maipú / Ongolmo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8222109,
+    "longitude": -73.04731735,
+    "fecha": "2026-07-30T19:10:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082906608212856927"
   }
 ]
