@@ -14,9 +14,23 @@
 // centralcor132: Coronel, mismo formato, muy activa (despachos con minutos
 //   de diferencia al momento de probarla).
 //
-// Probado y descartado: cbquillota ("VIPER Bomberos Quillota") está activa
-// pero usa un formato de tweet totalmente distinto ("CLAVE 15 ..." sin
-// "Estamos respondiendo a"), no compatible con el parser actual.
+// central_cbc: Coquimbo, MUY activa, pero mezcla dos formatos de tweet: el
+//   narrativo que ya soportamos ("Estamos respondiendo a...") y uno corto sin
+//   comuna ni conteo de carros ("SALE B-10 A 10-2-2 (TIPO) CALLE1 / CALLE2")
+//   que probablemente sea el MISMO incidente reportado de nuevo — a
+//   propósito NO soportamos el formato corto (arriesgaría pines duplicados
+//   para un mismo incidente real), así que acá capturamos menos de lo que
+//   la cuenta publica, pero sin inventar nada.
+//
+// Probado y descartado:
+// - cbquillota ("VIPER Bomberos Quillota"): activa pero usa un formato de
+//   tweet totalmente distinto ("CLAVE 15 ..." sin "Estamos respondiendo a").
+// - cbtalcahuano (Bomberos Talcahuano): la cuenta existe pero no publica
+//   despachos hace años (último post encontrado: ~4.8 años).
+// - viperone_cbms (Bomberos Metropolitano Sur, Santiago): activa pero usa
+//   SOLO el formato corto sin narrativa (mismo problema que la parte
+//   corta de Coquimbo) — sin soporte para eso, esta cuenta no aporta nada
+//   todavía.
 //
 // Lee cookies de sesión ya exportadas (ver README.md — este script NUNCA
 // pide ni maneja tu contraseña, solo usa cookies que tú mismo generas al
@@ -34,7 +48,7 @@ import { parsearTweetDespacho } from './parseTweet.js';
 import { nivelAlertaPorCarros } from './severidad.js';
 import { geocodificarInterseccion } from './geocode.js';
 
-const CUENTAS = ['bomberoschillan', 'CentralCBC', 'cbcoihueco', 'centralcor132'];
+const CUENTAS = ['bomberoschillan', 'CentralCBC', 'cbcoihueco', 'centralcor132', 'central_cbc'];
 const COOKIES_PATH = process.env.X_COOKIES_PATH || './cookies.json';
 // El nombre del archivo quedó de cuando esto era solo Chillán — se mantiene
 // así para no romper la URL que ya lee la app; el contenido ahora cubre
