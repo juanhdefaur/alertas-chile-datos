@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Scraper de @despachoscbch (VIPER/Bomberos Chillán) para alertas-chile. Ver README.md.",
+  "description": "Scraper de @bomberoschillan (VIPER/Bomberos Chillán) para alertas-chile. Ver README.md.",
   "scripts": {
     "test": "node parseTweet.test.js",
     "scrape": "node scrape.js"

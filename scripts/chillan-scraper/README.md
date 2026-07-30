@@ -1,4 +1,4 @@
-# Scraper de despachos Bomberos Chillán (@despachoscbch)
+# Scraper de despachos Bomberos Chillán (@bomberoschillan)
 
 Lee los tweets automáticos que VIPER publica para Bomberos Chillán, extrae
 tipo de incidente + intersección, geocodifica con Nominatim y guarda el
@@ -22,8 +22,10 @@ resultado en `data/incidentes-chillan.json`. La app lo lee desde ahí (vía
 ## 1. Crear la cuenta desechable
 
 Crea una cuenta nueva de X solo para esto. Sigue esa cuenta a
-[@despachoscbch](https://x.com/despachoscbch) (opcional, pero ayuda a que el
-feed cargue rápido).
+[@bomberoschillan](https://x.com/bomberoschillan) (opcional, pero ayuda a que
+el feed cargue rápido). Ojo: esta es la cuenta institucional — publica tanto
+despachos automáticos de VIPER como comunicados generales; el scraper
+descarta solo lo que no calce con el formato de despacho.
 
 ## 2. Exportar las cookies de sesión
 

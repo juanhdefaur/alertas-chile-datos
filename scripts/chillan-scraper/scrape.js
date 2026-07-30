@@ -1,7 +1,14 @@
-// Scraper de @despachoscbch (despacho automático de VIPER para Bomberos
-// Chillán). Lee cookies de sesión ya exportadas (ver README.md — este script
-// NUNCA pide ni maneja tu contraseña, solo usa cookies que tú mismo generas
-// al loguearte en tu navegador).
+// Scraper de @bomberoschillan (cuenta institucional del Cuerpo de Bomberos
+// de Chillán — ahí es donde realmente se publican los despachos automáticos
+// de VIPER, no en @despachoscbch, que está abandonada desde 2023). La cuenta
+// también publica comunicados generales mezclados con los despachos; el
+// parser (parseTweet.js) descarta automáticamente todo lo que no calce con
+// el formato exacto de despacho, así que esos posts institucionales
+// simplemente se ignoran.
+//
+// Lee cookies de sesión ya exportadas (ver README.md — este script NUNCA
+// pide ni maneja tu contraseña, solo usa cookies que tú mismo generas al
+// loguearte en tu navegador).
 //
 // Estrategia: Playwright navega al perfil ya logueado y lee el texto
 // renderizado de los tweets (no intercepta las llamadas internas GraphQL de
@@ -15,7 +22,7 @@ import { parsearTweetDespacho } from './parseTweet.js';
 import { nivelAlertaPorCarros } from './severidad.js';
 import { geocodificarInterseccion } from './geocode.js';
 
-const CUENTA = 'despachoscbch';
+const CUENTA = 'bomberoschillan';
 const COOKIES_PATH = process.env.X_COOKIES_PATH || './cookies.json';
 const SALIDA_PATH = process.env.SALIDA_PATH || '../../data/incidentes-chillan.json';
 // El feed no avisa cuándo se cierra un incidente, así que expiramos solos —
@@ -92,7 +99,7 @@ async function main() {
       longitude: ubicacion.longitude,
       fecha: t.fechaIso || new Date().toISOString(),
       curadoManualmente: false,
-      fuente: 'Automatizado — despacho VIPER vía @despachoscbch',
+      fuente: 'Automatizado — despacho VIPER vía @bomberoschillan',
       tweetUrl: t.url,
     });
   }

@@ -1,4 +1,4 @@
-// Parsea los tweets automáticos de @despachoscbch (VIPER → Bomberos Chillán).
+// Parsea los tweets automáticos de @bomberoschillan (VIPER → Bomberos Chillán).
 // Formato real observado (siempre el mismo cuerpo, cambia solo el prefijo):
 //   "10-6-2: Estamos respondiendo a una Emanación de gas en las esquinas de
 //    DIAGONAL LAS TERMAS y RIO VIEJO, en la comuna de CHILLÁN. Concurren 2
