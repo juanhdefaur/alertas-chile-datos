@@ -53,6 +53,10 @@ async function geocodificarCalle(nombreCalle, comuna) {
 // Devuelve { latitude, longitude, distanciaKm } o null si no se pudo
 // encontrar un cruce razonablemente confiable.
 export async function geocodificarInterseccion(calle1, calle2, comuna) {
+  // Puentes, rutas y otras ubicaciones sin "cruce" real vienen sin segunda
+  // calle (ver parseTweet.js) — ahí geocodificamos solo la primera.
+  if (!calle2) return geocodificarUnaCalle(calle1, comuna);
+
   const candidatosA = await geocodificarCalle(calle1, comuna);
   const candidatosB = await geocodificarCalle(calle2, comuna);
 
@@ -70,4 +74,12 @@ export async function geocodificarInterseccion(calle1, calle2, comuna) {
 
   if (!mejor || mejor.distanciaKm > DISTANCIA_MAXIMA_KM) return null;
   return mejor;
+}
+
+// Sin segunda calle no hay par que comparar — nos quedamos con el primer
+// resultado de Nominatim (el más relevante según su propio ranking).
+async function geocodificarUnaCalle(calle1, comuna) {
+  const candidatos = await geocodificarCalle(calle1, comuna);
+  if (candidatos.length === 0) return null;
+  return { latitude: candidatos[0].lat, longitude: candidatos[0].lon, distanciaKm: 0 };
 }

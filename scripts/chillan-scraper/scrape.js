@@ -133,10 +133,11 @@ async function main() {
     }
     if (!ubicacion) continue; // sin ubicación confiable, no lo publicamos
 
+    const lugar = parsed.calle2 ? `${parsed.calle1} / ${parsed.calle2}` : parsed.calle1;
     nuevos.push({
       id: `viper-auto-${t.url.split('/status/')[1]}`,
       tipo: 'incidente',
-      titulo: `${parsed.tipo} — ${parsed.calle1} / ${parsed.calle2}, ${parsed.comuna}`,
+      titulo: `${parsed.tipo} — ${lugar}, ${parsed.comuna}`,
       nivelAlerta: nivelAlertaPorCarros(parsed.carros),
       estado: 'en_atencion',
       latitude: ubicacion.latitude,
