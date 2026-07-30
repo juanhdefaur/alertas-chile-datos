@@ -1,0 +1,51 @@
+name: Scraper Bomberos Chillán
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependencias
+        working-directory: scripts/chillan-scraper
+        run: npm install
+
+      - name: Instalar navegador de Playwright
+        working-directory: scripts/chillan-scraper
+        run: npx playwright install --with-deps chromium
+
+      - name: Escribir cookies desde el secret
+        working-directory: scripts/chillan-scraper
+        run: echo "$X_COOKIES_JSON" > cookies.json
+        env:
+          X_COOKIES_JSON: ${{ secrets.X_COOKIES_JSON }}
+
+      - name: Ejecutar scraper
+        working-directory: scripts/chillan-scraper
+        run: node scrape.js
+        env:
+          SALIDA_PATH: ../../data/incidentes-chillan.json
+
+      - name: Borrar cookies del runner
+        if: always()
+        working-directory: scripts/chillan-scraper
+        run: rm -f cookies.json
+
+      - name: Publicar cambios si hay incidentes nuevos o vencidos
+        run: |
+          git config user.name "chillan-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/incidentes-chillan.json
+          git diff --staged --quiet || git commit -m "Actualiza incidentes Chillán automatizados"
+          git push
