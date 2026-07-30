@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082937807983542411"
+  },
+  {
+    "id": "viper-auto-2082944009257865462",
+    "tipo": "incidente",
+    "titulo": "emergencia — Pasaje 1 / Costanera - Jardines De Collao, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8251616,
+    "longitude": -73.01497090000001,
+    "fecha": "2026-07-30T21:38:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082944009257865462"
   }
 ]
