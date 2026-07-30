@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2082588339631218800",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63071035,
-    "longitude": -72.08371389999999,
-    "fecha": "2026-07-29T22:05:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2082588339631218800"
-  },
-  {
-    "id": "viper-auto-2082591863698026922",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Puente Llacolen, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8340398,
-    "longitude": -73.0787063,
-    "fecha": "2026-07-29T22:19:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082591863698026922"
-  },
-  {
     "id": "viper-auto-2082710650799661559",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Pedro Luna / Santa Sabina, Concepción",
