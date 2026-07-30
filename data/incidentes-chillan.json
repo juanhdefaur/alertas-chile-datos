@@ -37,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082591863698026922"
+  },
+  {
+    "id": "viper-auto-2082710650799661559",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Pedro Luna / Santa Sabina, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8014121,
+    "longitude": -73.04820285,
+    "fecha": "2026-07-30T06:11:28.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082710650799661559"
   }
 ]
