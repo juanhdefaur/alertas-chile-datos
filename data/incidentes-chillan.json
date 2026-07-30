@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082710650799661559"
+  },
+  {
+    "id": "viper-auto-2082873498091782420",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Lincoyán / Manuel Bulnes, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.822205049999994,
+    "longitude": -73.06007115,
+    "fecha": "2026-07-30T16:58:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082873498091782420"
   }
 ]
