@@ -26,7 +26,22 @@ function distanciaKm(lat1, lon1, lat2, lon2) {
   return 2 * R * Math.asin(Math.sqrt(a));
 }
 
+const esperar = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// Nominatim pide no pasar 1 request/segundo — importa que esto se respete
+// entre TODAS las llamadas (incluso de intersecciones distintas, con varios
+// incidentes seguidos en un mismo scrape), no solo entre las dos calles de
+// una misma intersección. Por eso el límite vive acá, en el único lugar que
+// realmente dispara requests a Nominatim, en vez de en cada llamador.
+let ultimaRequest = 0;
+async function esperarTurno() {
+  const desdeUltima = Date.now() - ultimaRequest;
+  if (desdeUltima < 1100) await esperar(1100 - desdeUltima);
+  ultimaRequest = Date.now();
+}
+
 async function geocodificarCalle(nombreCalle, comuna) {
+  await esperarTurno();
   const q = `${nombreCalle}, ${comuna}, Chile`;
   const url = `${BASE_URL}?q=${encodeURIComponent(q)}&format=json&limit=4&countrycodes=cl&accept-language=es`;
   const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept-Language': 'es' } });
@@ -35,14 +50,10 @@ async function geocodificarCalle(nombreCalle, comuna) {
   return data.map((r) => ({ lat: parseFloat(r.lat), lon: parseFloat(r.lon) }));
 }
 
-const esperar = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 // Devuelve { latitude, longitude, distanciaKm } o null si no se pudo
 // encontrar un cruce razonablemente confiable.
 export async function geocodificarInterseccion(calle1, calle2, comuna) {
   const candidatosA = await geocodificarCalle(calle1, comuna);
-  // Nominatim pide no pasar 1 request/segundo.
-  await esperar(1100);
   const candidatosB = await geocodificarCalle(calle2, comuna);
 
   if (candidatosA.length === 0 || candidatosB.length === 0) return null;

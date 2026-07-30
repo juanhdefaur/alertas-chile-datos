@@ -1,9 +1,14 @@
-# Scraper de despachos Bomberos Chillán (@bomberoschillan)
+# Scraper de despachos VIPER (Bomberos Chillán + Concepción)
 
-Lee los tweets automáticos que VIPER publica para Bomberos Chillán, extrae
-tipo de incidente + intersección, geocodifica con Nominatim y guarda el
-resultado en `data/incidentes-chillan.json`. La app lo lee desde ahí (vía
+Lee los tweets automáticos que VIPER publica para varios Cuerpos de Bomberos
+(ver `CUENTAS` en `scrape.js` — hoy `@bomberoschillan` y `@CentralCBC`),
+extrae tipo de incidente + intersección, geocodifica con Nominatim y guarda
+el resultado en `data/incidentes-chillan.json`. La app lo lee desde ahí (vía
 `raw.githubusercontent.com`, sin backend propio).
+
+Agregar otra ciudad es tan simple como sumar su handle de X a `CUENTAS` en
+`scrape.js`, siempre que use el mismo formato de tweet ("Estamos respondiendo
+a ... en las esquinas de ... y ..., en la comuna de ... Concurren N carros").
 
 ## Antes de empezar — léelo en serio
 
@@ -21,11 +26,12 @@ resultado en `data/incidentes-chillan.json`. La app lo lee desde ahí (vía
 
 ## 1. Crear la cuenta desechable
 
-Crea una cuenta nueva de X solo para esto. Sigue esa cuenta a
-[@bomberoschillan](https://x.com/bomberoschillan) (opcional, pero ayuda a que
-el feed cargue rápido). Ojo: esta es la cuenta institucional — publica tanto
-despachos automáticos de VIPER como comunicados generales; el scraper
-descarta solo lo que no calce con el formato de despacho.
+Crea una cuenta nueva de X solo para esto. Sigue a
+[@bomberoschillan](https://x.com/bomberoschillan) y
+[@CentralCBC](https://x.com/CentralCBC) (opcional, pero ayuda a que el feed
+cargue rápido). Ojo: son cuentas institucionales — publican tanto despachos
+automáticos de VIPER como comunicados generales; el scraper descarta solo lo
+que no calce con el formato de despacho.
 
 ## 2. Exportar las cookies de sesión
 

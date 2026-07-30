@@ -1,16 +1,19 @@
-// Scraper de @bomberoschillan (cuenta institucional del Cuerpo de Bomberos
-// de Chillán — ahí es donde realmente se publican los despachos automáticos
-// de VIPER, no en @despachoscbch, que está abandonada desde 2023). La cuenta
-// también publica comunicados generales mezclados con los despachos; el
-// parser (parseTweet.js) descarta automáticamente todo lo que no calce con
-// el formato exacto de despacho, así que esos posts institucionales
-// simplemente se ignoran.
+// Scraper de cuentas institucionales de Cuerpos de Bomberos que usan VIPER
+// (despacho automático) — cada una publica también comunicados generales
+// mezclados con los despachos; el parser (parseTweet.js) descarta
+// automáticamente todo lo que no calce con el formato exacto de despacho,
+// así que esos posts institucionales simplemente se ignoran.
+//
+// bomberoschillan: Chillán (@despachoscbch, la cuenta "de despacho" que
+//   parecía obvia, está abandonada desde 2023 — los despachos reales salen
+//   de la cuenta institucional).
+// CentralCBC: Concepción, mismo formato de tweet verificado a mano.
 //
 // Lee cookies de sesión ya exportadas (ver README.md — este script NUNCA
 // pide ni maneja tu contraseña, solo usa cookies que tú mismo generas al
 // loguearte en tu navegador).
 //
-// Estrategia: Playwright navega al perfil ya logueado y lee el texto
+// Estrategia: Playwright navega a cada perfil ya logueado y lee el texto
 // renderizado de los tweets (no intercepta las llamadas internas GraphQL de
 // X) — es menos "elegante" pero mucho más fácil de depurar y de mantener
 // cuando X cambie algo, que es justo lo que nos importa para un proyecto
@@ -22,8 +25,11 @@ import { parsearTweetDespacho } from './parseTweet.js';
 import { nivelAlertaPorCarros } from './severidad.js';
 import { geocodificarInterseccion } from './geocode.js';
 
-const CUENTA = 'bomberoschillan';
+const CUENTAS = ['bomberoschillan', 'CentralCBC'];
 const COOKIES_PATH = process.env.X_COOKIES_PATH || './cookies.json';
+// El nombre del archivo quedó de cuando esto era solo Chillán — se mantiene
+// así para no romper la URL que ya lee la app; el contenido ahora cubre
+// todas las comunas en CUENTAS.
 const SALIDA_PATH = process.env.SALIDA_PATH || '../../data/incidentes-chillan.json';
 // El feed no avisa cuándo se cierra un incidente, así que expiramos solos —
 // ajusta esto si ves que los pines duran mucho más o menos que la atención real.
@@ -55,6 +61,27 @@ function normalizarCookies(cookies) {
   }));
 }
 
+async function scrapearCuenta(page, cuenta) {
+  await page.goto(`https://x.com/${cuenta}`, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForSelector('article', { timeout: 30000 });
+  // Deja que carguen algunos tweets más aparte de los primeros.
+  await page.mouse.wheel(0, 1500);
+  await page.waitForTimeout(2000);
+
+  return page.$$eval('article', (nodos) =>
+    nodos.map((n) => {
+      const textoEl = n.querySelector('[data-testid="tweetText"]');
+      const linkEl = n.querySelector('a[href*="/status/"]');
+      const timeEl = n.querySelector('time');
+      return {
+        texto: textoEl ? textoEl.innerText : '',
+        url: linkEl ? linkEl.href : null,
+        fechaIso: timeEl ? timeEl.getAttribute('datetime') : null,
+      };
+    })
+  );
+}
+
 async function main() {
   const cookiesRaw = await fs.readFile(COOKIES_PATH, 'utf-8');
   const cookies = normalizarCookies(JSON.parse(cookiesRaw));
@@ -74,24 +101,17 @@ async function main() {
   await context.addCookies(cookies);
   const page = await context.newPage();
 
-  await page.goto(`https://x.com/${CUENTA}`, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await page.waitForSelector('article', { timeout: 30000 });
-  // Deja que carguen algunos tweets más aparte de los primeros.
-  await page.mouse.wheel(0, 1500);
-  await page.waitForTimeout(2000);
-
-  const tweets = await page.$$eval('article', (nodos) =>
-    nodos.map((n) => {
-      const textoEl = n.querySelector('[data-testid="tweetText"]');
-      const linkEl = n.querySelector('a[href*="/status/"]');
-      const timeEl = n.querySelector('time');
-      return {
-        texto: textoEl ? textoEl.innerText : '',
-        url: linkEl ? linkEl.href : null,
-        fechaIso: timeEl ? timeEl.getAttribute('datetime') : null,
-      };
-    })
-  );
+  const tweetsPorCuenta = [];
+  for (const cuenta of CUENTAS) {
+    try {
+      const tweets = await scrapearCuenta(page, cuenta);
+      tweetsPorCuenta.push(...tweets.map((t) => ({ ...t, cuenta })));
+    } catch (err) {
+      // Si una cuenta falla (perfil caído, selector cambió, etc.), seguimos
+      // con las demás en vez de perder todo el scrape.
+      console.warn(`No se pudo scrapear @${cuenta}:`, err.message);
+    }
+  }
 
   await browser.close();
 
@@ -99,7 +119,7 @@ async function main() {
   const idsExistentes = new Set(existentes.map((e) => e.tweetUrl));
 
   const nuevos = [];
-  for (const t of tweets) {
+  for (const t of tweetsPorCuenta) {
     if (!t.url || idsExistentes.has(t.url)) continue;
 
     const parsed = parsearTweetDespacho(t.texto);
@@ -114,7 +134,7 @@ async function main() {
     if (!ubicacion) continue; // sin ubicación confiable, no lo publicamos
 
     nuevos.push({
-      id: `chillan-auto-${t.url.split('/status/')[1]}`,
+      id: `viper-auto-${t.url.split('/status/')[1]}`,
       tipo: 'incidente',
       titulo: `${parsed.tipo} — ${parsed.calle1} / ${parsed.calle2}, ${parsed.comuna}`,
       nivelAlerta: nivelAlertaPorCarros(parsed.carros),
@@ -123,7 +143,7 @@ async function main() {
       longitude: ubicacion.longitude,
       fecha: t.fechaIso || new Date().toISOString(),
       curadoManualmente: false,
-      fuente: 'Automatizado — despacho VIPER vía @bomberoschillan',
+      fuente: `Automatizado — despacho VIPER vía @${t.cuenta}`,
       tweetUrl: t.url,
     });
   }
