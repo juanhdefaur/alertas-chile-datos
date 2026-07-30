@@ -1,41 +1,54 @@
 [
   {
-    "id": "viper-auto-2082588339631218800",
+    "id": "viper-auto-2082873498091782420",
     "tipo": "incidente",
-    "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
+    "titulo": "rescate vehicular — Lincoyán / Manuel Bulnes, Concepción",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -36.63071035,
-    "longitude": -72.08371389999999,
-    "fecha": "2026-07-29T22:05:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2082588339631218800"
-  },
-  {
-    "id": "viper-auto-2082572550584873349",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Isla Chincao / Isla San Felix, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61213205,
-    "longitude": -72.13073539999999,
-    "fecha": "2026-07-29T21:02:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2082572550584873349"
-  },
-  {
-    "id": "viper-auto-2082591863698026922",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Puente Llacolen, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8340398,
-    "longitude": -73.0787063,
-    "fecha": "2026-07-29T22:19:27.000Z",
+    "latitude": -36.822205049999994,
+    "longitude": -73.06007115,
+    "fecha": "2026-07-30T16:58:34.000Z",
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082591863698026922"
+    "tweetUrl": "https://x.com/CentralCBC/status/2082873498091782420"
+  },
+  {
+    "id": "viper-auto-2082919523548537131",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Las Heras / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.823712650000004,
+    "longitude": -73.0583065,
+    "fecha": "2026-07-30T20:01:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082919523548537131"
+  },
+  {
+    "id": "viper-auto-2082916822202900806",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Las Heras / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.823712650000004,
+    "longitude": -73.0583065,
+    "fecha": "2026-07-30T19:50:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082916822202900806"
+  },
+  {
+    "id": "viper-auto-2082906608212856927",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Maipú / Ongolmo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8222109,
+    "longitude": -73.04731735,
+    "fecha": "2026-07-30T19:10:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082906608212856927"
   }
 ]
