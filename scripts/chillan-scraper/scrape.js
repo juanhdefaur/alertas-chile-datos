@@ -8,6 +8,9 @@
 //   parecía obvia, está abandonada desde 2023 — los despachos reales salen
 //   de la cuenta institucional).
 // CentralCBC: Concepción, mismo formato de tweet verificado a mano.
+// cbcoihueco: Coihueco, mismo formato (con prefijo extra tipo "10-7-1:
+//   ACCIDENTE ELECTRICO /:" antes de "Estamos respondiendo", pero el parser
+//   ancla ahí así que no importa) — verificado activa (~7 posts/4 días).
 //
 // Lee cookies de sesión ya exportadas (ver README.md — este script NUNCA
 // pide ni maneja tu contraseña, solo usa cookies que tú mismo generas al
@@ -25,7 +28,7 @@ import { parsearTweetDespacho } from './parseTweet.js';
 import { nivelAlertaPorCarros } from './severidad.js';
 import { geocodificarInterseccion } from './geocode.js';
 
-const CUENTAS = ['bomberoschillan', 'CentralCBC'];
+const CUENTAS = ['bomberoschillan', 'CentralCBC', 'cbcoihueco'];
 const COOKIES_PATH = process.env.X_COOKIES_PATH || './cookies.json';
 // El nombre del archivo quedó de cuando esto era solo Chillán — se mantiene
 // así para no romper la URL que ya lee la app; el contenido ahora cubre
