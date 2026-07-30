@@ -14,7 +14,13 @@
 // comuna de..." — por eso el grupo de calle2 usa (.*?) (cero o más), no
 // (.+?): si queda vacío, en el código de más abajo lo tratamos como "una
 // sola calle", no como un cruce.
-const PATRON = /Estamos respondiendo a\s+(.+?)\s+en las esquinas de\s+(.+?)\s+y\s+(.*?),\s*en la comuna de\s+([^.]+)\.\s*Concurren\s+(\d+)\s+carros/i;
+//
+// Otro caso especial: con un solo carro, VIPER cambia a singular sin número
+// — "Concurre un carro" en vez de "Concurren 2 carros" — por eso el conteo
+// tiene dos alternativas: grupo de dígitos (plural) o "un carro" (singular,
+// se interpreta como 1 más abajo).
+const PATRON =
+  /Estamos respondiendo a\s+(.+?)\s+en las esquinas de\s+(.+?)\s+y\s+(.*?),\s*en la comuna de\s+([^.]+)\.\s*Concurren?\s+(?:(\d+)\s+carros|un\s+carro)/i;
 
 // "INCENDIO" (todo mayúscula) se ve como si gritara; "una Emanación de gas"
 // ya viene bien capitalizado. Solo normalizamos cuando TODO el texto está en
@@ -49,6 +55,6 @@ export function parsearTweetDespacho(texto) {
     calle1: tituloCalle(calle1Raw),
     calle2: calle2Raw.trim() ? tituloCalle(calle2Raw) : null,
     comuna: tituloCalle(comunaRaw),
-    carros: parseInt(carrosRaw, 10),
+    carros: carrosRaw ? parseInt(carrosRaw, 10) : 1,
   };
 }

@@ -28,6 +28,17 @@ const CASOS = [
     esperado: { calle1: 'Puente Llacolen', calle2: null, comuna: 'Concepción', carros: 2 },
   },
   {
+    // Con 1 solo carro, VIPER cambia a singular sin numero: "Concurre un carro".
+    texto:
+      '10-9: Estamos respondiendo a Otros servicios (no es una emergencia) en las esquinas de AVENIDA NUEVA ORIENTE y CERRO PANGAL, en la comuna de CHILLÁN. Concurre un carro de Bomberos de Chillan #Chillán #B3',
+    esperado: { calle1: 'Avenida Nueva Oriente', calle2: 'Cerro Pangal', comuna: 'Chillán', carros: 1 },
+  },
+  {
+    texto:
+      '10-15: Estamos respondiendo a una inflamación de ducto de chimenea en las esquinas de PADRE LAS CASAS y ZANARTU, en la comuna de CHILLÁN. Concurre un carro de Bomberos de Chillan #Chillán #B4',
+    esperado: { calle1: 'Padre Las Casas', calle2: 'Zanartu', comuna: 'Chillán', carros: 1 },
+  },
+  {
     texto: 'Esto no calza con nada y debería devolver null',
     esperado: null,
   },
