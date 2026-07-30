@@ -50,5 +50,44 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082906608212856927"
+  },
+  {
+    "id": "viper-auto-2082883963014508582",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Avenida Nueva Oriente / Cerro Pangal, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6147987,
+    "longitude": -72.07547565,
+    "fecha": "2026-07-30T17:40:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2082883963014508582"
+  },
+  {
+    "id": "viper-auto-2082930856025272700",
+    "tipo": "incidente",
+    "titulo": "emergencia — General Novoa / Lago Rinihue, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82055575,
+    "longitude": -73.02111595,
+    "fecha": "2026-07-30T20:46:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082930856025272700"
+  },
+  {
+    "id": "viper-auto-2082905907235582176",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Maipú / Ongolmo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8208819,
+    "longitude": -73.0441479,
+    "fecha": "2026-07-30T19:07:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082905907235582176"
   }
 ]
