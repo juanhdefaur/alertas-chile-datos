@@ -38,14 +38,38 @@ async function cargarExistentes() {
   }
 }
 
+// Cookie-Editor (extensión del navegador) exporta sameSite con los valores
+// crudos de la API de cookies de Chrome ("no_restriction", "lax", "strict",
+// "unspecified"), pero Playwright solo acepta "Strict" | "Lax" | "None".
+const SAME_SITE_MAP = {
+  no_restriction: 'None',
+  lax: 'Lax',
+  strict: 'Strict',
+  unspecified: 'Lax',
+};
+
+function normalizarCookies(cookies) {
+  return cookies.map((c) => ({
+    ...c,
+    sameSite: SAME_SITE_MAP[String(c.sameSite).toLowerCase()] || 'Lax',
+  }));
+}
+
 async function main() {
   const cookiesRaw = await fs.readFile(COOKIES_PATH, 'utf-8');
-  const cookies = JSON.parse(cookiesRaw);
+  const cookies = normalizarCookies(JSON.parse(cookiesRaw));
 
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
     userAgent:
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36',
+    // X traduce automáticamente los tweets si detecta que el idioma de la
+    // cuenta/navegador no calza con el del tweet — necesitamos el texto en
+    // español tal cual para que el parser funcione. El idioma de la CUENTA
+    // (Settings → Languages) es el que manda; esto es una segunda capa por
+    // si acaso.
+    locale: 'es-CL',
+    extraHTTPHeaders: { 'Accept-Language': 'es-CL,es;q=0.9' },
   });
   await context.addCookies(cookies);
   const page = await context.newPage();
