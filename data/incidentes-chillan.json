@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
     "tweetUrl": "https://x.com/bomberoschillan/status/2082572550584873349"
+  },
+  {
+    "id": "viper-auto-2082591863698026922",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Puente Llacolen, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8340398,
+    "longitude": -73.0787063,
+    "fecha": "2026-07-29T22:19:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
+    "tweetUrl": "https://x.com/CentralCBC/status/2082591863698026922"
   }
 ]
