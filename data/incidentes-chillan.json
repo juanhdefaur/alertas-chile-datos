@@ -284,5 +284,17 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2082982577279811657"
+  },
+  {
+    "id": "prueba-manual-1785461813082",
+    "tipo": "incidente",
+    "titulo": "PRUEBA DE VELOCIDAD — Plaza de Armas, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6066,
+    "longitude": -72.1034,
+    "fecha": "2026-07-31T01:36:53.083Z",
+    "curadoManualmente": false,
+    "fuente": "PRUEBA MANUAL (no es un incidente real, se borra apenas termine la prueba)"
   }
 ]
