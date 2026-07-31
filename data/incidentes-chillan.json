@@ -245,5 +245,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2082821630535835648"
+  },
+  {
+    "id": "viper-auto-2082998924298670211",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.991299749999996,
+    "longitude": -73.17029475,
+    "fecha": "2026-07-31T01:16:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2082998924298670211"
+  },
+  {
+    "id": "viper-auto-2082991151431266314",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Lingues / Padre Bernardo Hurault, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9769661,
+    "longitude": -73.15583655,
+    "fecha": "2026-07-31T00:46:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2082991151431266314"
+  },
+  {
+    "id": "viper-auto-2082982577279811657",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Bordes Costeros / Nueva Rosa Medel, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0154496,
+    "longitude": -73.15797760000001,
+    "fecha": "2026-07-31T00:12:01.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2082982577279811657"
   }
 ]
