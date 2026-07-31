@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2083043973766041944",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.991299749999996,
-    "longitude": -73.17029475,
-    "fecha": "2026-07-31T04:15:59.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083043973766041944"
-  },
-  {
-    "id": "viper-auto-2083043078194040989",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0230583,
-    "longitude": -73.15501615,
-    "fecha": "2026-07-31T04:12:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083043078194040989"
-  },
-  {
-    "id": "viper-auto-2083029879168127176",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Merino Jarpa / Democracia, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0334492,
-    "longitude": -73.141764,
-    "fecha": "2026-07-31T03:19:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083029879168127176"
-  },
-  {
     "id": "viper-auto-2083071725625913687",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Catedral / Pedro De Valdivia, Portezuelo",
@@ -154,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083200007713214819"
+  },
+  {
+    "id": "viper-auto-2083208954545352836",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Ruta D-427 - Tongoycillo, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.2222443,
+    "longitude": -71.387989,
+    "fecha": "2026-07-31T15:11:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083208954545352836"
   }
 ]
