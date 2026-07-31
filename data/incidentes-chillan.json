@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2082873498091782420",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Lincoyán / Manuel Bulnes, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.822205049999994,
-    "longitude": -73.06007115,
-    "fecha": "2026-07-30T16:58:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082873498091782420"
-  },
-  {
     "id": "viper-auto-2082919523548537131",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Las Heras / Serrano, Concepción",
@@ -39,32 +26,6 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2082916822202900806"
   },
   {
-    "id": "viper-auto-2082906608212856927",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Maipú / Ongolmo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8222109,
-    "longitude": -73.04731735,
-    "fecha": "2026-07-30T19:10:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082906608212856927"
-  },
-  {
-    "id": "viper-auto-2082883963014508582",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Avenida Nueva Oriente / Cerro Pangal, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6147987,
-    "longitude": -72.07547565,
-    "fecha": "2026-07-30T17:40:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @bomberoschillan",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2082883963014508582"
-  },
-  {
     "id": "viper-auto-2082930856025272700",
     "tipo": "incidente",
     "titulo": "emergencia — General Novoa / Lago Rinihue, Concepción",
@@ -76,19 +37,6 @@
     "curadoManualmente": false,
     "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
     "tweetUrl": "https://x.com/CentralCBC/status/2082930856025272700"
-  },
-  {
-    "id": "viper-auto-2082905907235582176",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Maipú / Ongolmo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8208819,
-    "longitude": -73.0441479,
-    "fecha": "2026-07-30T19:07:21.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082905907235582176"
   },
   {
     "id": "viper-auto-2082937807983542411",
@@ -206,19 +154,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2082952842231349334"
-  },
-  {
-    "id": "viper-auto-2082883470137696594",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Yobilo / Ruta 160, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.001323549999995,
-    "longitude": -73.13555145000001,
-    "fecha": "2026-07-30T17:38:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082883470137696594"
   },
   {
     "id": "viper-auto-2082998924298670211",
@@ -348,5 +283,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083007172250624380"
+  },
+  {
+    "id": "viper-auto-2083071725625913687",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Catedral / Pedro De Valdivia, Portezuelo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5268875,
+    "longitude": -72.42667159999999,
+    "fecha": "2026-07-31T06:06:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Portezuelo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083071725625913687"
+  },
+  {
+    "id": "viper-auto-2083059660127375760",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Barros Luco / Pasaje Balbino Parada, Ránquil",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6057485,
+    "longitude": -72.5342401,
+    "fecha": "2026-07-31T05:18:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Ránquil",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083059660127375760"
   }
 ]
