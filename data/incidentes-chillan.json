@@ -221,32 +221,6 @@
     "tweetUrl": "https://x.com/centralcor132/status/2082883470137696594"
   },
   {
-    "id": "viper-auto-2082865589693931976",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Los Alamos / Los Notros, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.98461785,
-    "longitude": -73.1612377,
-    "fecha": "2026-07-30T16:27:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082865589693931976"
-  },
-  {
-    "id": "viper-auto-2082821630535835648",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Los Alamos / Los Notros, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.98461785,
-    "longitude": -73.1612377,
-    "fecha": "2026-07-30T13:32:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082821630535835648"
-  },
-  {
     "id": "viper-auto-2082998924298670211",
     "tipo": "incidente",
     "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
@@ -296,5 +270,83 @@
     "fecha": "2026-07-31T01:36:53.083Z",
     "curadoManualmente": false,
     "fuente": "PRUEBA MANUAL (no es un incidente real, se borra apenas termine la prueba)"
+  },
+  {
+    "id": "viper-auto-2083001384761184765",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Paicavi, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81698855,
+    "longitude": -73.0398356,
+    "fecha": "2026-07-31T01:26:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083001384761184765"
+  },
+  {
+    "id": "viper-auto-2083043973766041944",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.991299749999996,
+    "longitude": -73.17029475,
+    "fecha": "2026-07-31T04:15:59.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083043973766041944"
+  },
+  {
+    "id": "viper-auto-2083043078194040989",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0230583,
+    "longitude": -73.15501615,
+    "fecha": "2026-07-31T04:12:25.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083043078194040989"
+  },
+  {
+    "id": "viper-auto-2083029879168127176",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Merino Jarpa / Democracia, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0334492,
+    "longitude": -73.141764,
+    "fecha": "2026-07-31T03:19:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083029879168127176"
+  },
+  {
+    "id": "viper-auto-2083018796692902110",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.991299749999996,
+    "longitude": -73.17029475,
+    "fecha": "2026-07-31T02:35:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083018796692902110"
+  },
+  {
+    "id": "viper-auto-2083007172250624380",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Nueva Rosa Medel / Arturo Aldunate, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01559075,
+    "longitude": -73.158213,
+    "fecha": "2026-07-31T01:49:44.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083007172250624380"
   }
 ]
