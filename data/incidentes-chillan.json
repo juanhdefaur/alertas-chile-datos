@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2083152698417786963",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Ruta 5 Sur / Pasarela Coligues, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6377337,
-    "longitude": -72.20392265000001,
-    "fecha": "2026-07-31T11:28:01.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083152698417786963"
-  },
-  {
-    "id": "viper-auto-2083149047271993682",
-    "tipo": "incidente",
-    "titulo": "emergencia — Llanquihue / Avenida Alonso De Ercilla, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6246162,
-    "longitude": -72.09728215,
-    "fecha": "2026-07-31T11:13:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083149047271993682"
-  },
-  {
     "id": "viper-auto-2083157627190510010",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Padre Juan De Vascones / Misionero Bartolome Del Pozo, Concepción",
