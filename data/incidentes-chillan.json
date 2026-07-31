@@ -1,56 +1,5 @@
 [
   {
-    "id": "viper-auto-2082998924298670211",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.991299749999996,
-    "longitude": -73.17029475,
-    "fecha": "2026-07-31T01:16:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082998924298670211"
-  },
-  {
-    "id": "viper-auto-2082991151431266314",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Lingues / Padre Bernardo Hurault, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9769661,
-    "longitude": -73.15583655,
-    "fecha": "2026-07-31T00:46:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082991151431266314"
-  },
-  {
-    "id": "prueba-manual-1785461813082",
-    "tipo": "incidente",
-    "titulo": "PRUEBA DE VELOCIDAD — Plaza de Armas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6066,
-    "longitude": -72.1034,
-    "fecha": "2026-07-31T01:36:53.083Z",
-    "curadoManualmente": false,
-    "fuente": "PRUEBA MANUAL (no es un incidente real, se borra apenas termine la prueba)"
-  },
-  {
-    "id": "viper-auto-2083001384761184765",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Paicavi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81698855,
-    "longitude": -73.0398356,
-    "fecha": "2026-07-31T01:26:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083001384761184765"
-  },
-  {
     "id": "viper-auto-2083043973766041944",
     "tipo": "incidente",
     "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
@@ -88,32 +37,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083029879168127176"
-  },
-  {
-    "id": "viper-auto-2083018796692902110",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.991299749999996,
-    "longitude": -73.17029475,
-    "fecha": "2026-07-31T02:35:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083018796692902110"
-  },
-  {
-    "id": "viper-auto-2083007172250624380",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Nueva Rosa Medel / Arturo Aldunate, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01559075,
-    "longitude": -73.158213,
-    "fecha": "2026-07-31T01:49:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083007172250624380"
   },
   {
     "id": "viper-auto-2083071725625913687",
@@ -179,5 +102,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2083157627190510010"
+  },
+  {
+    "id": "viper-auto-2083169945114792355",
+    "tipo": "incidente",
+    "titulo": "emergencia — Llanquihue / Avenida Alonso De Ercilla, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6236223,
+    "longitude": -72.10504094999999,
+    "fecha": "2026-07-31T12:36:32.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083169945114792355"
+  },
+  {
+    "id": "viper-auto-2083200662087631155",
+    "tipo": "incidente",
+    "titulo": "emergencia por fuego en un vehículo — Carvallo / Cochrane, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.027381500000004,
+    "longitude": -73.14537469999999,
+    "fecha": "2026-07-31T14:38:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083200662087631155"
+  },
+  {
+    "id": "viper-auto-2083203521353056638",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Pasaje Patricio Lynch / Anita Lizana, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9512249,
+    "longitude": -71.3468824,
+    "fecha": "2026-07-31T14:49:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083203521353056638"
+  },
+  {
+    "id": "viper-auto-2083200007713214819",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Regimiento Coquimbo / Gaspar Cabrales, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.94000355,
+    "longitude": -71.33710135,
+    "fecha": "2026-07-31T14:36:00.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083200007713214819"
   }
 ]
