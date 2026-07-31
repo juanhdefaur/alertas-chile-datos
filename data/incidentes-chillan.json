@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2082919523548537131",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Las Heras / Serrano, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.823712650000004,
-    "longitude": -73.0583065,
-    "fecha": "2026-07-30T20:01:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082919523548537131"
-  },
-  {
-    "id": "viper-auto-2082916822202900806",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Las Heras / Serrano, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.823712650000004,
-    "longitude": -73.0583065,
-    "fecha": "2026-07-30T19:50:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082916822202900806"
-  },
-  {
-    "id": "viper-auto-2082930856025272700",
-    "tipo": "incidente",
-    "titulo": "emergencia — General Novoa / Lago Rinihue, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82055575,
-    "longitude": -73.02111595,
-    "fecha": "2026-07-30T20:46:29.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082930856025272700"
-  },
-  {
-    "id": "viper-auto-2082937807983542411",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Avenida Los Carrera / Tucapel, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82273835,
-    "longitude": -73.05281335000001,
-    "fecha": "2026-07-30T21:14:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082937807983542411"
-  },
-  {
-    "id": "viper-auto-2082944009257865462",
-    "tipo": "incidente",
-    "titulo": "emergencia — Pasaje 1 / Costanera - Jardines De Collao, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8251616,
-    "longitude": -73.01497090000001,
-    "fecha": "2026-07-30T21:38:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Automatizado — despacho VIPER vía @CentralCBC",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082944009257865462"
-  },
-  {
     "id": "viper-auto-2082975068036927794",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Maipú / Ongolmo, Concepción",
@@ -128,32 +63,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2082963431888417226"
-  },
-  {
-    "id": "viper-auto-2082954659849814304",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Alcalde De Mar Primitivo Riffo Arrepol / Juan Mackay, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0230583,
-    "longitude": -73.15501615,
-    "fecha": "2026-07-30T22:21:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082954659849814304"
-  },
-  {
-    "id": "viper-auto-2082952842231349334",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Bordes Costeros / Nueva Rosa Medel, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0154496,
-    "longitude": -73.15797760000001,
-    "fecha": "2026-07-30T22:13:51.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082952842231349334"
   },
   {
     "id": "viper-auto-2082998924298670211",
