@@ -167,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083259098854810090"
+  },
+  {
+    "id": "viper-auto-2083284213311197309",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Pasaje Siete Sur / Los Espinos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.62777235,
+    "longitude": -72.10245090000001,
+    "fecha": "2026-07-31T20:10:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083284213311197309"
   }
 ]
