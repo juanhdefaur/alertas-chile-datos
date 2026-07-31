@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2082975068036927794",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Maipú / Ongolmo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82344675,
-    "longitude": -73.04654020000001,
-    "fecha": "2026-07-30T23:42:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082975068036927794"
-  },
-  {
-    "id": "viper-auto-2082970033869684884",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Los Carrera / Galvarino, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81585125,
-    "longitude": -73.039365,
-    "fecha": "2026-07-30T23:22:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2082970033869684884"
-  },
-  {
-    "id": "viper-auto-2082964857213579709",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Mantos Blancos / Chuquicamata, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0144981,
-    "longitude": -73.1487911,
-    "fecha": "2026-07-30T23:01:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082964857213579709"
-  },
-  {
-    "id": "viper-auto-2082964159939915980",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Mantos Blancos / Chuquicamata, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0144981,
-    "longitude": -73.1487911,
-    "fecha": "2026-07-30T22:58:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082964159939915980"
-  },
-  {
-    "id": "viper-auto-2082963431888417226",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Arturo Hughes / Graciela Valenzuela, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0152171,
-    "longitude": -73.1634021,
-    "fecha": "2026-07-30T22:55:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082963431888417226"
-  },
-  {
     "id": "viper-auto-2082998924298670211",
     "tipo": "incidente",
     "titulo": "inundacion en vivienda — Los Molineros / Los Alacalufes, Coronel",
@@ -89,19 +24,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2082991151431266314"
-  },
-  {
-    "id": "viper-auto-2082982577279811657",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Bordes Costeros / Nueva Rosa Medel, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0154496,
-    "longitude": -73.15797760000001,
-    "fecha": "2026-07-31T00:12:01.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2082982577279811657"
   },
   {
     "id": "prueba-manual-1785461813082",
@@ -218,5 +140,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Ránquil",
     "tweetUrl": "https://x.com/bomberoschillan/status/2083059660127375760"
+  },
+  {
+    "id": "viper-auto-2083152698417786963",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Ruta 5 Sur / Pasarela Coligues, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6377337,
+    "longitude": -72.20392265000001,
+    "fecha": "2026-07-31T11:28:01.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083152698417786963"
+  },
+  {
+    "id": "viper-auto-2083149047271993682",
+    "tipo": "incidente",
+    "titulo": "emergencia — Llanquihue / Avenida Alonso De Ercilla, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6246162,
+    "longitude": -72.09728215,
+    "fecha": "2026-07-31T11:13:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083149047271993682"
+  },
+  {
+    "id": "viper-auto-2083157627190510010",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Padre Juan De Vascones / Misionero Bartolome Del Pozo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.79383195,
+    "longitude": -73.03881865,
+    "fecha": "2026-07-31T11:47:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083157627190510010"
   }
 ]
