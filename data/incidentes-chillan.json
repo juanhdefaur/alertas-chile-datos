@@ -141,5 +141,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083238635499929758"
+  },
+  {
+    "id": "viper-auto-2083277680246423727",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Jimmy Christie Bossy / Luis Aguilera Baez, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.016469700000002,
+    "longitude": -71.33117179999999,
+    "fecha": "2026-07-31T19:44:39.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083277680246423727"
+  },
+  {
+    "id": "viper-auto-2083259098854810090",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Alerce / Coihue, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9628223,
+    "longitude": -71.2515276,
+    "fecha": "2026-07-31T18:30:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083259098854810090"
   }
 ]
