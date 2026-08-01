@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2083309405689225484",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Del Chonchon / Del Fosil, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.98577165,
-    "longitude": -71.3658932,
-    "fecha": "2026-07-31T21:50:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083309405689225484"
-  },
-  {
-    "id": "viper-auto-2083309339171807375",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Del Chonchon / Del Fosil, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.98577165,
-    "longitude": -71.3658932,
-    "fecha": "2026-07-31T21:50:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083309339171807375"
-  },
-  {
     "id": "viper-auto-2083349479789392381",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Arauco / El Roble, Chillán",
