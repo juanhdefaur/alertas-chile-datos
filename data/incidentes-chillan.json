@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2083248345120665657",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Juan José Gazmuri / Calle 4, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61839325,
-    "longitude": -72.11597875000001,
-    "fecha": "2026-07-31T17:48:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083248345120665657"
-  },
-  {
-    "id": "viper-auto-2083240708421333296",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Avenida Paul Harris / Avenida Libertador Bernardo O'higgins, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5857559,
-    "longitude": -72.10198925,
-    "fecha": "2026-07-31T17:17:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083240708421333296"
-  },
-  {
-    "id": "viper-auto-2083238635499929758",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Cruz Mora / Santa Rosa, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.017739199999994,
-    "longitude": -73.1592894,
-    "fecha": "2026-07-31T17:09:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083238635499929758"
-  },
-  {
     "id": "viper-auto-2083277680246423727",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Jimmy Christie Bossy / Luis Aguilera Baez, Coquimbo",
@@ -50,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083277680246423727"
-  },
-  {
-    "id": "viper-auto-2083259098854810090",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Alerce / Coihue, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9628223,
-    "longitude": -71.2515276,
-    "fecha": "2026-07-31T18:30:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083259098854810090"
   },
   {
     "id": "viper-auto-2083284213311197309",
