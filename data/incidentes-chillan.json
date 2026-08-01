@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "viper-auto-2083569395159175504",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Basilio Urrutia / Eduardo Frei Montalva, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.012294150000002,
+    "longitude": -71.33064095,
+    "fecha": "2026-08-01T15:03:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083569395159175504"
+  }
+]
