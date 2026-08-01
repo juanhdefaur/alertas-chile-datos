@@ -1,57 +1,5 @@
 [
   {
-    "id": "viper-auto-2083200662087631155",
-    "tipo": "incidente",
-    "titulo": "emergencia por fuego en un vehículo — Carvallo / Cochrane, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.027381500000004,
-    "longitude": -73.14537469999999,
-    "fecha": "2026-07-31T14:38:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083200662087631155"
-  },
-  {
-    "id": "viper-auto-2083203521353056638",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Pasaje Patricio Lynch / Anita Lizana, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9512249,
-    "longitude": -71.3468824,
-    "fecha": "2026-07-31T14:49:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083203521353056638"
-  },
-  {
-    "id": "viper-auto-2083200007713214819",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Regimiento Coquimbo / Gaspar Cabrales, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.94000355,
-    "longitude": -71.33710135,
-    "fecha": "2026-07-31T14:36:00.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083200007713214819"
-  },
-  {
-    "id": "viper-auto-2083208954545352836",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Ruta D-427 - Tongoycillo, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -30.2222443,
-    "longitude": -71.387989,
-    "fecha": "2026-07-31T15:11:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083208954545352836"
-  },
-  {
     "id": "viper-auto-2083248345120665657",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Juan José Gazmuri / Calle 4, Chillán",
