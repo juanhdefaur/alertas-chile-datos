@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2083157627190510010",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Padre Juan De Vascones / Misionero Bartolome Del Pozo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.79383195,
-    "longitude": -73.03881865,
-    "fecha": "2026-07-31T11:47:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083157627190510010"
-  },
-  {
-    "id": "viper-auto-2083169945114792355",
-    "tipo": "incidente",
-    "titulo": "emergencia — Llanquihue / Avenida Alonso De Ercilla, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6236223,
-    "longitude": -72.10504094999999,
-    "fecha": "2026-07-31T12:36:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083169945114792355"
-  },
-  {
     "id": "viper-auto-2083200662087631155",
     "tipo": "incidente",
     "titulo": "emergencia por fuego en un vehículo — Carvallo / Cochrane, Coronel",
@@ -193,5 +167,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083303265215607163"
+  },
+  {
+    "id": "viper-auto-2083349479789392381",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Arauco / El Roble, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6087483,
+    "longitude": -72.1045507,
+    "fecha": "2026-08-01T00:29:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083349479789392381"
+  },
+  {
+    "id": "viper-auto-2083354423787491442",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Juan Soldado / Alvarez Zorrilla, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.8723854,
+    "longitude": -71.239195,
+    "fecha": "2026-08-01T00:49:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2083354423787491442"
   }
 ]
