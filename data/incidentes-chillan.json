@@ -128,5 +128,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083624766569685306"
+  },
+  {
+    "id": "viper-auto-2083656696900034823",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Angol / Polaris, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81753185,
+    "longitude": -73.06364205,
+    "fecha": "2026-08-01T20:50:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083656696900034823"
+  },
+  {
+    "id": "viper-auto-2083654234570919973",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Ramón Carrasco / Antilhue, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7831191,
+    "longitude": -73.0541503,
+    "fecha": "2026-08-01T20:40:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083654234570919973"
+  },
+  {
+    "id": "viper-auto-2083655076275499307",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Pasaje Santiago Bueras / Cardenal Raul Silva Henriquez, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9757913,
+    "longitude": -73.1587533,
+    "fecha": "2026-08-01T20:44:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083655076275499307"
+  },
+  {
+    "id": "viper-auto-2083654484748619848",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Pasaje Santiago Bueras / Cardenal Raul Silva Henriquez, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9757913,
+    "longitude": -73.1587533,
+    "fecha": "2026-08-01T20:41:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083654484748619848"
+  },
+  {
+    "id": "viper-auto-2083653262738161883",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Volcán Parinacota / Cerro Zapaleri, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.982728449999996,
+    "longitude": -73.16404525,
+    "fecha": "2026-08-01T20:37:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083653262738161883"
   }
 ]
