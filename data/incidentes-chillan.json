@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083569395159175504"
+  },
+  {
+    "id": "viper-auto-2083586846936727932",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Serrano / San Bartolome, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.633709100000004,
+    "longitude": -72.1377339,
+    "fecha": "2026-08-01T16:13:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083586846936727932"
   }
 ]
