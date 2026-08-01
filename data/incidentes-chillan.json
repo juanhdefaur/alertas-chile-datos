@@ -24,5 +24,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2083586846936727932"
+  },
+  {
+    "id": "viper-auto-2083602485034242471",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Arturo Hughes / Carlos Barrientos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01104815,
+    "longitude": -73.1612085,
+    "fecha": "2026-08-01T17:15:18.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083602485034242471"
+  },
+  {
+    "id": "viper-auto-2083600128292639127",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Palena / Arturo Alessandri, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9968444,
+    "longitude": -73.16423664999999,
+    "fecha": "2026-08-01T17:05:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083600128292639127"
+  },
+  {
+    "id": "viper-auto-2083594411317862909",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Arturo Hughes / Carlos Barrientos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01104815,
+    "longitude": -73.1612085,
+    "fecha": "2026-08-01T16:43:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083594411317862909"
   }
 ]
