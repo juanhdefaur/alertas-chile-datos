@@ -63,5 +63,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083594411317862909"
+  },
+  {
+    "id": "viper-auto-2083624683123916913",
+    "tipo": "incidente",
+    "titulo": "emergencia — Ricardo Claro / Arancibia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82537755,
+    "longitude": -73.06593795,
+    "fecha": "2026-08-01T18:43:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083624683123916913"
+  },
+  {
+    "id": "viper-auto-2083636530845819092",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Riquelme / Angol, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.03696505,
+    "longitude": -73.13769959999999,
+    "fecha": "2026-08-01T19:30:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083636530845819092"
+  },
+  {
+    "id": "viper-auto-2083628969178382560",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Isla Santa María, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0237063,
+    "longitude": -73.5188269,
+    "fecha": "2026-08-01T19:00:32.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083628969178382560"
+  },
+  {
+    "id": "viper-auto-2083627137664233640",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Arturo Hughes / Los Arandanos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01508765,
+    "longitude": -73.16540345,
+    "fecha": "2026-08-01T18:53:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083627137664233640"
+  },
+  {
+    "id": "viper-auto-2083624766569685306",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Avenida Escuadrón / Profesor Adrian Perez, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.98244495,
+    "longitude": -73.1575254,
+    "fecha": "2026-08-01T18:43:50.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083624766569685306"
   }
 ]
