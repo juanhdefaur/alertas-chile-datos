@@ -89,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083991185920581966"
+  },
+  {
+    "id": "viper-auto-2084041757423993048",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Obispo Hipólito Salas / San Martin, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8313189,
+    "longitude": -73.05502315000001,
+    "fecha": "2026-08-02T22:20:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084041757423993048"
   }
 ]
