@@ -1,57 +1,5 @@
 [
   {
-    "id": "viper-auto-2083759812743987559",
-    "tipo": "incidente",
-    "titulo": "emergencia — La Colonia / Avenida Libertador Bernardo O'higgins, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5929349,
-    "longitude": -72.10471895,
-    "fecha": "2026-08-02T03:40:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083759812743987559"
-  },
-  {
-    "id": "viper-auto-2083758837576737069",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Fundo Cucha Cucha / Ruta N-610, Portezuelo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63205825,
-    "longitude": -72.43385825,
-    "fecha": "2026-08-02T03:36:35.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Portezuelo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083758837576737069"
-  },
-  {
-    "id": "viper-auto-2083755910376165716",
-    "tipo": "incidente",
-    "titulo": "derrumbe con peligro a vivienda — Pasaje Concepción / Independencia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8028079,
-    "longitude": -73.05459445,
-    "fecha": "2026-08-02T03:24:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083755910376165716"
-  },
-  {
-    "id": "viper-auto-2083755552023216613",
-    "tipo": "incidente",
-    "titulo": "derrumbe con peligro a vivienda — Pasaje Concepción / Independencia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8028079,
-    "longitude": -73.05459445,
-    "fecha": "2026-08-02T03:23:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083755552023216613"
-  },
-  {
     "id": "viper-auto-2083772192748089484",
     "tipo": "incidente",
     "titulo": "emergencia — Avenida Antartica Chilena / Aysen, Chillán",
@@ -102,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2083888909172228276"
+  },
+  {
+    "id": "viper-auto-2083927018295505155",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Baquedano / Avenida Colon, Talcahuano",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7235013,
+    "longitude": -73.10962685,
+    "fecha": "2026-08-02T14:44:53.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Talcahuano",
+    "tweetUrl": "https://x.com/centralcor132/status/2083927018295505155"
   }
 ]
