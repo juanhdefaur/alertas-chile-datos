@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2083586846936727932",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Serrano / San Bartolome, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.633709100000004,
-    "longitude": -72.1377339,
-    "fecha": "2026-08-01T16:13:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083586846936727932"
-  },
-  {
-    "id": "viper-auto-2083602485034242471",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Arturo Hughes / Carlos Barrientos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01104815,
-    "longitude": -73.1612085,
-    "fecha": "2026-08-01T17:15:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083602485034242471"
-  },
-  {
-    "id": "viper-auto-2083600128292639127",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Palena / Arturo Alessandri, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9968444,
-    "longitude": -73.16423664999999,
-    "fecha": "2026-08-01T17:05:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083600128292639127"
-  },
-  {
-    "id": "viper-auto-2083594411317862909",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Arturo Hughes / Carlos Barrientos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01104815,
-    "longitude": -73.1612085,
-    "fecha": "2026-08-01T16:43:13.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083594411317862909"
-  },
-  {
-    "id": "viper-auto-2083624683123916913",
-    "tipo": "incidente",
-    "titulo": "emergencia — Ricardo Claro / Arancibia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82537755,
-    "longitude": -73.06593795,
-    "fecha": "2026-08-01T18:43:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083624683123916913"
-  },
-  {
     "id": "viper-auto-2083636530845819092",
     "tipo": "incidente",
     "titulo": "inundacion en vivienda — Riquelme / Angol, Coronel",
@@ -102,19 +37,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083627137664233640"
-  },
-  {
-    "id": "viper-auto-2083624766569685306",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Avenida Escuadrón / Profesor Adrian Perez, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.98244495,
-    "longitude": -73.1575254,
-    "fecha": "2026-08-01T18:43:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083624766569685306"
   },
   {
     "id": "viper-auto-2083656696900034823",
@@ -713,5 +635,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083714784571130037"
+  },
+  {
+    "id": "viper-auto-2083772192748089484",
+    "tipo": "incidente",
+    "titulo": "emergencia — Avenida Antartica Chilena / Aysen, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.608579399999996,
+    "longitude": -72.1413694,
+    "fecha": "2026-08-02T04:29:40.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083772192748089484"
+  },
+  {
+    "id": "viper-auto-2083765787987149216",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Fundo Cucha Cucha / Ruta N-610, Portezuelo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63205825,
+    "longitude": -72.43385825,
+    "fecha": "2026-08-02T04:04:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Portezuelo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2083765787987149216"
   }
 ]
