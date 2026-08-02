@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2083707383251943863",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Volcán Lanín / Los Andes, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.622413550000005,
-    "longitude": -72.08376469999999,
-    "fecha": "2026-08-02T00:12:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083707383251943863"
-  },
-  {
-    "id": "viper-auto-2083706341177147497",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Avenida Llacolén / Avenida Federico Schwager, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.971568,
-    "longitude": -73.14067109999999,
-    "fecha": "2026-08-02T00:07:59.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083706341177147497"
-  },
-  {
-    "id": "viper-auto-2083704805113856479",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Cerezos / Las Quilas, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9825864,
-    "longitude": -73.15794374999999,
-    "fecha": "2026-08-02T00:01:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083704805113856479"
-  },
-  {
     "id": "viper-auto-2083759812743987559",
     "tipo": "incidente",
     "titulo": "emergencia — La Colonia / Avenida Libertador Bernardo O'higgins, Chillán",
@@ -91,58 +52,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2083731200108097792"
   },
   {
-    "id": "viper-auto-2083728593658503411",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Avenida Alonso De Ercilla / San Gabriel, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.62349845,
-    "longitude": -72.07097519999999,
-    "fecha": "2026-08-02T01:36:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083728593658503411"
-  },
-  {
-    "id": "viper-auto-2083722183554084982",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Madrid / Avenida Alonso De Ercilla, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6241237,
-    "longitude": -72.11046145,
-    "fecha": "2026-08-02T01:10:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083722183554084982"
-  },
-  {
-    "id": "viper-auto-2083713513566986490",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Fundo Cucha Cucha / Ruta N-610, Portezuelo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63205825,
-    "longitude": -72.43385825,
-    "fecha": "2026-08-02T00:36:29.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Portezuelo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083713513566986490"
-  },
-  {
-    "id": "viper-auto-2083708678390030808",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Ruta 5 Sur, Km 410, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6445696,
-    "longitude": -72.2155739,
-    "fecha": "2026-08-02T00:17:17.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083708678390030808"
-  },
-  {
     "id": "viper-auto-2083755910376165716",
     "tipo": "incidente",
     "titulo": "derrumbe con peligro a vivienda — Pasaje Concepción / Independencia, Concepción",
@@ -167,32 +76,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2083755552023216613"
-  },
-  {
-    "id": "viper-auto-2083722122392662109",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Andrés Lamas / Pedro Leon Gallo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8215407,
-    "longitude": -73.066514,
-    "fecha": "2026-08-02T01:10:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083722122392662109"
-  },
-  {
-    "id": "viper-auto-2083712654703567218",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Pedro León Gallo / Rosamel Del Solar, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.818385449999994,
-    "longitude": -73.0680009,
-    "fecha": "2026-08-02T00:33:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083712654703567218"
   },
   {
     "id": "viper-auto-2083740798181314926",
@@ -221,19 +104,6 @@
     "tweetUrl": "https://x.com/centralcor132/status/2083741727437775144"
   },
   {
-    "id": "viper-auto-2083714784571130037",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Araucanos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.99133525,
-    "longitude": -73.17187605,
-    "fecha": "2026-08-02T00:41:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083714784571130037"
-  },
-  {
     "id": "viper-auto-2083772192748089484",
     "tipo": "incidente",
     "titulo": "emergencia — Avenida Antartica Chilena / Aysen, Chillán",
@@ -258,5 +128,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Portezuelo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2083765787987149216"
+  },
+  {
+    "id": "viper-auto-2083904177315480049",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Calle Uno / Calle Tres, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.96381035,
+    "longitude": -73.14029124999999,
+    "fecha": "2026-08-02T13:14:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083904177315480049"
+  },
+  {
+    "id": "viper-auto-2083888909172228276",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Canal Beagle / Larrondo, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9641315,
+    "longitude": -71.34631304999999,
+    "fecha": "2026-08-02T12:13:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083888909172228276"
   }
 ]
