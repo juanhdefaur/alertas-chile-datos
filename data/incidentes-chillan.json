@@ -26,32 +26,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2083758837576737069"
   },
   {
-    "id": "viper-auto-2083734153862742253",
-    "tipo": "incidente",
-    "titulo": "emergencia — Llanquihue / Villarrica, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6238767,
-    "longitude": -72.11030579999999,
-    "fecha": "2026-08-02T01:58:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083734153862742253"
-  },
-  {
-    "id": "viper-auto-2083731200108097792",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Avenida Carretera / Los Osorios, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.646775649999995,
-    "longitude": -72.4046744,
-    "fecha": "2026-08-02T01:46:46.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2083731200108097792"
-  },
-  {
     "id": "viper-auto-2083755910376165716",
     "tipo": "incidente",
     "titulo": "derrumbe con peligro a vivienda — Pasaje Concepción / Independencia, Concepción",
@@ -76,32 +50,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2083755552023216613"
-  },
-  {
-    "id": "viper-auto-2083740798181314926",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Eleuterio Ramirez / Covadonga, Coihueco",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.632793649999996,
-    "longitude": -71.82947895,
-    "fecha": "2026-08-02T02:24:54.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coihueco",
-    "tweetUrl": "https://x.com/cbcoihueco/status/2083740798181314926"
-  },
-  {
-    "id": "viper-auto-2083741727437775144",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Riquelme / Angol, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.03696505,
-    "longitude": -73.13769959999999,
-    "fecha": "2026-08-02T02:28:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083741727437775144"
   },
   {
     "id": "viper-auto-2083772192748089484",
