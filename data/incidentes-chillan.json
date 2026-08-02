@@ -76,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2083967152386621453"
+  },
+  {
+    "id": "viper-auto-2083991185920581966",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Angosta / De La Escuela, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.985661800000003,
+    "longitude": -71.36394865,
+    "fecha": "2026-08-02T18:59:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2083991185920581966"
   }
 ]
