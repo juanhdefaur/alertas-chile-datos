@@ -50,5 +50,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2083944766455075135"
+  },
+  {
+    "id": "viper-auto-2083975109761552432",
+    "tipo": "incidente",
+    "titulo": "emergencia — Maipú / Galvarino, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.822064,
+    "longitude": -73.04421605,
+    "fecha": "2026-08-02T17:55:59.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2083975109761552432"
+  },
+  {
+    "id": "viper-auto-2083967152386621453",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Isla Santa María / Camino A Puerto Norte, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.016802049999995,
+    "longitude": -73.52716255,
+    "fecha": "2026-08-02T17:24:22.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2083967152386621453"
   }
 ]
