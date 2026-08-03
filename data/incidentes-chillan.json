@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2083927018295505155",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Baquedano / Avenida Colon, Talcahuano",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.7235013,
-    "longitude": -73.10962685,
-    "fecha": "2026-08-02T14:44:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Talcahuano",
-    "tweetUrl": "https://x.com/centralcor132/status/2083927018295505155"
-  },
-  {
-    "id": "viper-auto-2083944766455075135",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Inés De Suárez / Avenida Ignacio Collao, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8175097,
-    "longitude": -73.02095704999999,
-    "fecha": "2026-08-02T15:55:24.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083944766455075135"
-  },
-  {
     "id": "viper-auto-2083975109761552432",
     "tipo": "incidente",
     "titulo": "emergencia — Maipú / Galvarino, Concepción",
@@ -89,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2084073806138679705"
+  },
+  {
+    "id": "viper-auto-2084101723354771944",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Pasaje 5 / Pasaje 11, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6115492,
+    "longitude": -72.08556335,
+    "fecha": "2026-08-03T02:19:06.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2084101723354771944"
   }
 ]
