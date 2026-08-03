@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2084156039901896778",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Cerro Torres Del Paine / Cordillera, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.620552450000005,
-    "longitude": -72.0772848,
-    "fecha": "2026-08-03T05:54:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2084156039901896778"
-  },
-  {
     "id": "viper-auto-2084227532191052043",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Avenida Libertador Bernardo O'higgins / Avenida Ecuador, Chillán",
@@ -37,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2084319590759137556"
+  },
+  {
+    "id": "viper-auto-2084329386933686524",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Antonio Machado / Gregorio Marañón, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80168835,
+    "longitude": -73.04749315000001,
+    "fecha": "2026-08-03T17:23:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084329386933686524"
   }
 ]
