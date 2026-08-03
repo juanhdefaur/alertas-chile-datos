@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2083904177315480049",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Calle Uno / Calle Tres, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.96381035,
-    "longitude": -73.14029124999999,
-    "fecha": "2026-08-02T13:14:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083904177315480049"
-  },
-  {
-    "id": "viper-auto-2083888909172228276",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Canal Beagle / Larrondo, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9641315,
-    "longitude": -71.34631304999999,
-    "fecha": "2026-08-02T12:13:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083888909172228276"
-  },
-  {
     "id": "viper-auto-2083927018295505155",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Baquedano / Avenida Colon, Talcahuano",
@@ -102,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2084041757423993048"
+  },
+  {
+    "id": "viper-auto-2084073806138679705",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Valladolid / Corregidor Alvarado, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61334735,
+    "longitude": -72.13037614999999,
+    "fecha": "2026-08-03T00:28:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2084073806138679705"
   }
 ]
