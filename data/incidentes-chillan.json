@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2084227532191052043"
+  },
+  {
+    "id": "viper-auto-2084319590759137556",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Avenida Paicavi / Prieto, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8142959,
+    "longitude": -73.04824475000001,
+    "fecha": "2026-08-03T16:44:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084319590759137556"
   }
 ]
