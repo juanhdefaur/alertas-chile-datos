@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2084041757423993048",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Obispo Hipólito Salas / San Martin, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8313189,
-    "longitude": -73.05502315000001,
-    "fecha": "2026-08-02T22:20:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084041757423993048"
-  },
-  {
     "id": "viper-auto-2084073806138679705",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Valladolid / Corregidor Alvarado, Chillán",
@@ -50,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2084156039901896778"
+  },
+  {
+    "id": "viper-auto-2084227532191052043",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Avenida Libertador Bernardo O'higgins / Avenida Ecuador, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60318275,
+    "longitude": -72.10493890000001,
+    "fecha": "2026-08-03T10:39:01.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2084227532191052043"
   }
 ]
