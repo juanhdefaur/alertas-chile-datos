@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2083975109761552432",
-    "tipo": "incidente",
-    "titulo": "emergencia — Maipú / Galvarino, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.822064,
-    "longitude": -73.04421605,
-    "fecha": "2026-08-02T17:55:59.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2083975109761552432"
-  },
-  {
-    "id": "viper-auto-2083967152386621453",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Isla Santa María / Camino A Puerto Norte, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.016802049999995,
-    "longitude": -73.52716255,
-    "fecha": "2026-08-02T17:24:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2083967152386621453"
-  },
-  {
-    "id": "viper-auto-2083991185920581966",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Angosta / De La Escuela, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.985661800000003,
-    "longitude": -71.36394865,
-    "fecha": "2026-08-02T18:59:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2083991185920581966"
-  },
-  {
     "id": "viper-auto-2084041757423993048",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Obispo Hipólito Salas / San Martin, Concepción",
@@ -76,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2084101723354771944"
+  },
+  {
+    "id": "viper-auto-2084156039901896778",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Cerro Torres Del Paine / Cordillera, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.620552450000005,
+    "longitude": -72.0772848,
+    "fecha": "2026-08-03T05:54:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2084156039901896778"
   }
 ]
