@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2084319590759137556",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Paicavi / Prieto, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8142959,
-    "longitude": -73.04824475000001,
-    "fecha": "2026-08-03T16:44:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084319590759137556"
-  },
-  {
-    "id": "viper-auto-2084329386933686524",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Antonio Machado / Gregorio Marañón, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80168835,
-    "longitude": -73.04749315000001,
-    "fecha": "2026-08-03T17:23:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084329386933686524"
-  },
-  {
     "id": "viper-auto-2084401220949614840",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Gamero / Avenida Argentina, Chillán",
@@ -76,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2084463464475509033"
+  },
+  {
+    "id": "viper-auto-2084512853608870000",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Francisco De Asis / Santo Tomas Becket, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7817473,
+    "longitude": -73.05029525,
+    "fecha": "2026-08-04T05:32:47.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084512853608870000"
   }
 ]
