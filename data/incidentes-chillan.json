@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2084401220949614840",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Gamero / Avenida Argentina, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60419175,
-    "longitude": -72.09221324999999,
-    "fecha": "2026-08-03T22:09:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2084401220949614840"
-  },
-  {
     "id": "viper-auto-2084456777408549154",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Avenida 21 De Mayo / Sotomayor, Concepción",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2084512853608870000"
+  },
+  {
+    "id": "viper-auto-2084589379507392701",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Los Piques / Las Circas, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9975706,
+    "longitude": -73.15855395,
+    "fecha": "2026-08-04T10:36:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2084589379507392701"
   }
 ]
