@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2084456777408549154",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Avenida 21 De Mayo / Sotomayor, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81188785,
-    "longitude": -73.07359635,
-    "fecha": "2026-08-04T01:49:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084456777408549154"
-  },
-  {
-    "id": "viper-auto-2084449733188133031",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Avenida 21 De Mayo / Sotomayor, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81188785,
-    "longitude": -73.07359635,
-    "fecha": "2026-08-04T01:21:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084449733188133031"
-  },
-  {
-    "id": "viper-auto-2084463464475509033",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Juan Antonio Ríos / Carlos Mondaca, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.962493000000002,
-    "longitude": -71.3334535,
-    "fecha": "2026-08-04T02:16:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2084463464475509033"
-  },
-  {
     "id": "viper-auto-2084512853608870000",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Francisco De Asis / Santo Tomas Becket, Concepción",
@@ -89,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2084620038628106452"
+  },
+  {
+    "id": "viper-auto-2084630826487029845",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Manuel Montt / Arturo Hughes, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01019185,
+    "longitude": -73.15751345,
+    "fecha": "2026-08-04T13:21:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2084630826487029845"
   }
 ]
