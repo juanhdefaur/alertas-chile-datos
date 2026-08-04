@@ -63,5 +63,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2084589379507392701"
+  },
+  {
+    "id": "viper-auto-2084623538468618405",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Orozimbo Barboza / Antonio Varas, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6260657,
+    "longitude": -72.1251839,
+    "fecha": "2026-08-04T12:52:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2084623538468618405"
+  },
+  {
+    "id": "viper-auto-2084620038628106452",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Ruta 160 / Avenida Galvarino, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.966666950000004,
+    "longitude": -73.15171169999999,
+    "fecha": "2026-08-04T12:38:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2084620038628106452"
   }
 ]
