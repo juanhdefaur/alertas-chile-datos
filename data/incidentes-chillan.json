@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2084589379507392701",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Los Piques / Las Circas, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9975706,
-    "longitude": -73.15855395,
-    "fecha": "2026-08-04T10:36:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2084589379507392701"
-  },
-  {
     "id": "viper-auto-2084623538468618405",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Orozimbo Barboza / Antonio Varas, Chillán Viejo",
@@ -76,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2084686536637821311"
+  },
+  {
+    "id": "viper-auto-2084771176350466506",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Eduardo Mallea / Jose Marmol, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.98917625,
+    "longitude": -71.3330089,
+    "fecha": "2026-08-04T22:39:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2084771176350466506"
   }
 ]
