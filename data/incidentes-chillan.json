@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2084512853608870000",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Francisco De Asis / Santo Tomas Becket, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.7817473,
-    "longitude": -73.05029525,
-    "fecha": "2026-08-04T05:32:47.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084512853608870000"
-  },
-  {
     "id": "viper-auto-2084589379507392701",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Los Piques / Las Circas, Coronel",
