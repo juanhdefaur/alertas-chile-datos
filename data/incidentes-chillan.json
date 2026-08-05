@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2084673720279269416",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Estero La Pena / El Parque, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0011964,
-    "longitude": -73.13821875,
-    "fecha": "2026-08-04T16:12:00.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2084673720279269416"
-  },
-  {
-    "id": "viper-auto-2084686536637821311",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — San Miguel / Colon, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9666796,
-    "longitude": -71.33022654999999,
-    "fecha": "2026-08-04T17:02:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2084686536637821311"
-  },
-  {
     "id": "viper-auto-2084771176350466506",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Eduardo Mallea / Jose Marmol, Coquimbo",
