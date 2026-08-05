@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2084771176350466506",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Eduardo Mallea / Jose Marmol, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.98917625,
-    "longitude": -71.3330089,
-    "fecha": "2026-08-04T22:39:16.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2084771176350466506"
-  },
-  {
-    "id": "viper-auto-2084783535726989630",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Volcan Tatio / El Volcan, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6202355,
-    "longitude": -72.08027505,
-    "fecha": "2026-08-04T23:28:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2084783535726989630"
-  },
-  {
     "id": "viper-auto-2084802379631690192",
     "tipo": "incidente",
     "titulo": "emergencia por un Accidente Eléctrico — Ercilla / Progreso, Concepción",
