@@ -63,5 +63,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2085029179901305292"
+  },
+  {
+    "id": "viper-auto-2085069431055540722",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Muñoz Olave / Santa Blanca, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.615791900000005,
+    "longitude": -72.1191477,
+    "fecha": "2026-08-05T18:24:25.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085069431055540722"
+  },
+  {
+    "id": "viper-auto-2085074985693945920",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0230583,
+    "longitude": -73.15501615,
+    "fecha": "2026-08-05T18:46:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085074985693945920"
+  },
+  {
+    "id": "viper-auto-2085067513142935602",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Arturo Hughes / Graciela Valenzuela, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0152171,
+    "longitude": -73.1634021,
+    "fecha": "2026-08-05T18:16:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085067513142935602"
+  },
+  {
+    "id": "viper-auto-2085066084974035107",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Nueva Rosa Medel / 3 Poniente, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01528405,
+    "longitude": -73.1590319,
+    "fecha": "2026-08-05T18:11:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085066084974035107"
   }
 ]
