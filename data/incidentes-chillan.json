@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2084623538468618405",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Orozimbo Barboza / Antonio Varas, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6260657,
-    "longitude": -72.1251839,
-    "fecha": "2026-08-04T12:52:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2084623538468618405"
-  },
-  {
-    "id": "viper-auto-2084620038628106452",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Ruta 160 / Avenida Galvarino, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.966666950000004,
-    "longitude": -73.15171169999999,
-    "fecha": "2026-08-04T12:38:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2084620038628106452"
-  },
-  {
-    "id": "viper-auto-2084630826487029845",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Manuel Montt / Arturo Hughes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01019185,
-    "longitude": -73.15751345,
-    "fecha": "2026-08-04T13:21:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2084630826487029845"
-  },
-  {
     "id": "viper-auto-2084673720279269416",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Estero La Pena / El Parque, Coronel",
@@ -89,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2084783535726989630"
+  },
+  {
+    "id": "viper-auto-2084802379631690192",
+    "tipo": "incidente",
+    "titulo": "emergencia por un Accidente Eléctrico — Ercilla / Progreso, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.84023835,
+    "longitude": -73.05767815,
+    "fecha": "2026-08-05T00:43:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084802379631690192"
   }
 ]
