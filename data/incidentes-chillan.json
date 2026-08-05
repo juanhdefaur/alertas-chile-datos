@@ -180,5 +180,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085079295823601738"
+  },
+  {
+    "id": "viper-auto-2085135528203084105",
+    "tipo": "incidente",
+    "titulo": "emergencia — Rodolfo Briceño / Miraflores  - Lorenzo Arenas, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8129999,
+    "longitude": -73.0757382,
+    "fecha": "2026-08-05T22:47:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085135528203084105"
+  },
+  {
+    "id": "viper-auto-2085130891471343641",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Las Heras / Orompello, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8200079,
+    "longitude": -73.0479117,
+    "fecha": "2026-08-05T22:28:39.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085130891471343641"
   }
 ]
