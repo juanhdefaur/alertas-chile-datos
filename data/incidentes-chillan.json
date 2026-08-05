@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "viper-auto-2085007469651071471",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Maipu / Lincoyan, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82554685,
+    "longitude": -73.0545385,
+    "fecha": "2026-08-05T14:18:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085007469651071471"
+  },
+  {
+    "id": "viper-auto-2084998859843899501",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Castellón / Victor Lamas, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82592415,
+    "longitude": -73.04893865,
+    "fecha": "2026-08-05T13:44:00.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2084998859843899501"
+  }
+]
