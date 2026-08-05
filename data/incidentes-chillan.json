@@ -24,5 +24,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2084998859843899501"
+  },
+  {
+    "id": "viper-auto-2085039486409335172",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Josue / Hebreos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6384713,
+    "longitude": -72.08881075,
+    "fecha": "2026-08-05T16:25:26.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085039486409335172"
+  },
+  {
+    "id": "viper-auto-2085035742703632618",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Josue / Hebreos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6384713,
+    "longitude": -72.08881075,
+    "fecha": "2026-08-05T16:10:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085035742703632618"
+  },
+  {
+    "id": "viper-auto-2085029179901305292",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Hospital San Pablo De Coquimbo, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9682767,
+    "longitude": -71.3368001,
+    "fecha": "2026-08-05T15:44:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2085029179901305292"
   }
 ]
