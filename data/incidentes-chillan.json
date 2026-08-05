@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2084802379631690192",
-    "tipo": "incidente",
-    "titulo": "emergencia por un Accidente Eléctrico — Ercilla / Progreso, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.84023835,
-    "longitude": -73.05767815,
-    "fecha": "2026-08-05T00:43:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084802379631690192"
-  }
-]
+[]
