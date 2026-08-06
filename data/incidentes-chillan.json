@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2085039486409335172",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Josue / Hebreos, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6384713,
-    "longitude": -72.08881075,
-    "fecha": "2026-08-05T16:25:26.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085039486409335172"
-  },
-  {
-    "id": "viper-auto-2085035742703632618",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Josue / Hebreos, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6384713,
-    "longitude": -72.08881075,
-    "fecha": "2026-08-05T16:10:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085035742703632618"
-  },
-  {
-    "id": "viper-auto-2085029179901305292",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Hospital San Pablo De Coquimbo, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9682767,
-    "longitude": -71.3368001,
-    "fecha": "2026-08-05T15:44:29.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2085029179901305292"
-  },
-  {
     "id": "viper-auto-2085069431055540722",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Muñoz Olave / Santa Blanca, Chillán",
@@ -63,32 +24,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085074985693945920"
-  },
-  {
-    "id": "viper-auto-2085067513142935602",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Arturo Hughes / Graciela Valenzuela, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0152171,
-    "longitude": -73.1634021,
-    "fecha": "2026-08-05T18:16:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085067513142935602"
-  },
-  {
-    "id": "viper-auto-2085066084974035107",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Nueva Rosa Medel / 3 Poniente, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01528405,
-    "longitude": -73.1590319,
-    "fecha": "2026-08-05T18:11:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085066084974035107"
   },
   {
     "id": "viper-auto-2085092574369304742",
