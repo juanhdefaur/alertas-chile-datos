@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085135528203084105",
-    "tipo": "incidente",
-    "titulo": "emergencia — Rodolfo Briceño / Miraflores  - Lorenzo Arenas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8129999,
-    "longitude": -73.0757382,
-    "fecha": "2026-08-05T22:47:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085135528203084105"
-  },
-  {
-    "id": "viper-auto-2085130891471343641",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Las Heras / Orompello, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8200079,
-    "longitude": -73.0479117,
-    "fecha": "2026-08-05T22:28:39.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085130891471343641"
-  },
-  {
     "id": "viper-auto-2085155380414284101",
     "tipo": "incidente",
     "titulo": "emergencia estructural — Los Claveles / Las Camelias-, Coronel",
@@ -50,19 +24,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085153093793034643"
-  },
-  {
-    "id": "viper-auto-2085147119548084598",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Paicaví / Ongolmo, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.03928585,
-    "longitude": -73.1367132,
-    "fecha": "2026-08-05T23:33:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085147119548084598"
   },
   {
     "id": "viper-auto-2085185633954271694",
