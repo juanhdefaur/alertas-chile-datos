@@ -1,96 +1,5 @@
 [
   {
-    "id": "viper-auto-2085069431055540722",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Muñoz Olave / Santa Blanca, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.615791900000005,
-    "longitude": -72.1191477,
-    "fecha": "2026-08-05T18:24:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085069431055540722"
-  },
-  {
-    "id": "viper-auto-2085074985693945920",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0230583,
-    "longitude": -73.15501615,
-    "fecha": "2026-08-05T18:46:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085074985693945920"
-  },
-  {
-    "id": "viper-auto-2085092574369304742",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Pedro De Valdivia / Avenida Inglesa, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.85188065,
-    "longitude": -73.04754965000001,
-    "fecha": "2026-08-05T19:56:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085092574369304742"
-  },
-  {
-    "id": "viper-auto-2085098436936827391",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Arturo Hughes / Graciela Valenzuela, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0152171,
-    "longitude": -73.1634021,
-    "fecha": "2026-08-05T20:19:41.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085098436936827391"
-  },
-  {
-    "id": "viper-auto-2085093289594638635",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Nueva Rosa Medel / 3 Poniente, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01528405,
-    "longitude": -73.1590319,
-    "fecha": "2026-08-05T19:59:14.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085093289594638635"
-  },
-  {
-    "id": "viper-auto-2085090152678875240",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Manuel Montt / Ernesto Riquelme, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.013831100000004,
-    "longitude": -73.15615785,
-    "fecha": "2026-08-05T19:46:46.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085090152678875240"
-  },
-  {
-    "id": "viper-auto-2085079295823601738",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Nueva Rosa Medel / 3 Poniente, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01528405,
-    "longitude": -73.1590319,
-    "fecha": "2026-08-05T19:03:37.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085079295823601738"
-  },
-  {
     "id": "viper-auto-2085135528203084105",
     "tipo": "incidente",
     "titulo": "emergencia — Rodolfo Briceño / Miraflores  - Lorenzo Arenas, Concepción",
@@ -193,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085174299929792895"
+  },
+  {
+    "id": "viper-auto-2085291557213573144",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Pedro Arias / Jorge Rojas Miranda, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0232131,
+    "longitude": -73.159508,
+    "fecha": "2026-08-06T09:07:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085291557213573144"
   }
 ]
