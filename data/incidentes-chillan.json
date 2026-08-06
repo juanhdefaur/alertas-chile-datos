@@ -206,5 +206,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2085130891471343641"
+  },
+  {
+    "id": "viper-auto-2085155380414284101",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Los Claveles / Las Camelias-, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.038220100000004,
+    "longitude": -73.14250634999999,
+    "fecha": "2026-08-06T00:05:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085155380414284101"
+  },
+  {
+    "id": "viper-auto-2085153093793034643",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Los Claveles / Las Camelias-, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.038220100000004,
+    "longitude": -73.14250634999999,
+    "fecha": "2026-08-05T23:56:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085153093793034643"
+  },
+  {
+    "id": "viper-auto-2085147119548084598",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Paicaví / Ongolmo, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.03928585,
+    "longitude": -73.1367132,
+    "fecha": "2026-08-05T23:33:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085147119548084598"
   }
 ]
