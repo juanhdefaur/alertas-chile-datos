@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085155380414284101",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Los Claveles / Las Camelias-, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.038220100000004,
-    "longitude": -73.14250634999999,
-    "fecha": "2026-08-06T00:05:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085155380414284101"
-  },
-  {
-    "id": "viper-auto-2085153093793034643",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Los Claveles / Las Camelias-, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.038220100000004,
-    "longitude": -73.14250634999999,
-    "fecha": "2026-08-05T23:56:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085153093793034643"
-  },
-  {
     "id": "viper-auto-2085185633954271694",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Cesfam Carlos Pinto Fierro, Coronel",
@@ -52,19 +26,6 @@
     "tweetUrl": "https://x.com/centralcor132/status/2085180113822376225"
   },
   {
-    "id": "viper-auto-2085174299929792895",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Onofre Rojas / Callejon 1, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02207265,
-    "longitude": -73.1511554,
-    "fecha": "2026-08-06T01:21:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085174299929792895"
-  },
-  {
     "id": "viper-auto-2085291557213573144",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Pedro Arias / Jorge Rojas Miranda, Coronel",
@@ -76,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085291557213573144"
+  },
+  {
+    "id": "viper-auto-2085347204831621349",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Longitudinal Uno / Michaihue, San Pedro De La Paz",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.84321095,
+    "longitude": -73.14068685000001,
+    "fecha": "2026-08-06T12:48:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de San Pedro De La Paz",
+    "tweetUrl": "https://x.com/centralcor132/status/2085347204831621349"
   }
 ]
