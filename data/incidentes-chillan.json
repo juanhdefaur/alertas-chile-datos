@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085007469651071471",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Maipu / Lincoyan, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82554685,
-    "longitude": -73.0545385,
-    "fecha": "2026-08-05T14:18:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085007469651071471"
-  },
-  {
-    "id": "viper-auto-2084998859843899501",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Castellón / Victor Lamas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82592415,
-    "longitude": -73.04893865,
-    "fecha": "2026-08-05T13:44:00.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2084998859843899501"
-  },
-  {
     "id": "viper-auto-2085039486409335172",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Josue / Hebreos, Chillán",
@@ -245,5 +219,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085147119548084598"
+  },
+  {
+    "id": "viper-auto-2085185633954271694",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Cesfam Carlos Pinto Fierro, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0001053,
+    "longitude": -73.1612707,
+    "fecha": "2026-08-06T02:06:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085185633954271694"
+  },
+  {
+    "id": "viper-auto-2085180113822376225",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Onofre Rojas / Callejon 1, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02207265,
+    "longitude": -73.1511554,
+    "fecha": "2026-08-06T01:44:14.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085180113822376225"
+  },
+  {
+    "id": "viper-auto-2085174299929792895",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Onofre Rojas / Callejon 1, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02207265,
+    "longitude": -73.1511554,
+    "fecha": "2026-08-06T01:21:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085174299929792895"
   }
 ]
