@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2085501246861922350",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Bosque Nativo / Pasaje 3, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9890815,
-    "longitude": -73.14279970000001,
-    "fecha": "2026-08-06T23:00:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085501246861922350"
-  },
-  {
     "id": "viper-auto-2085526882024362229",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Cerro Aracar / Los Picunches, Chillán",
