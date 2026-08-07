@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085746725289930828"
+  },
+  {
+    "id": "viper-auto-2085775464514089231",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino Forestal / Ruta O-852, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.04354775,
+    "longitude": -73.12302464999999,
+    "fecha": "2026-08-07T17:09:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085775464514089231"
   }
 ]
