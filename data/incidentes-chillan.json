@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2085775464514089231"
+  },
+  {
+    "id": "viper-auto-2085789643497169361",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Ruta De La Madera / Camino El Patagual, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.00949165,
+    "longitude": -72.9885989,
+    "fecha": "2026-08-07T18:06:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2085789643497169361"
   }
 ]
