@@ -1,28 +1,15 @@
 [
   {
-    "id": "viper-auto-2085526882024362229",
+    "id": "viper-auto-2085724106134008178",
     "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Cerro Aracar / Los Picunches, Chillán",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Carrera / Caupolican, Lota",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -36.613956200000004,
-    "longitude": -72.07165409999999,
-    "fecha": "2026-08-07T00:42:10.000Z",
+    "latitude": -37.09078645,
+    "longitude": -73.15482305,
+    "fecha": "2026-08-07T13:45:52.000Z",
     "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085526882024362229"
-  },
-  {
-    "id": "viper-auto-2085526239918395763",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Avenida Antartica Chilena / Amunategui, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6094846,
-    "longitude": -72.14219109999999,
-    "fecha": "2026-08-07T00:39:37.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085526239918395763"
+    "fuente": "Bomberos de Lota",
+    "tweetUrl": "https://x.com/centralcor132/status/2085724106134008178"
   }
 ]
