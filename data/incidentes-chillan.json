@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Lota",
     "tweetUrl": "https://x.com/centralcor132/status/2085724106134008178"
+  },
+  {
+    "id": "viper-auto-2085733063292534870",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Arauco / Arturo Prat, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.611675149999996,
+    "longitude": -72.1051818,
+    "fecha": "2026-08-07T14:21:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085733063292534870"
   }
 ]
