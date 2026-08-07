@@ -13,32 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2085459536651919379"
   },
   {
-    "id": "viper-auto-2085454568209465723",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Libertador Bernardo O'higgins / Las Palmas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.568852500000006,
-    "longitude": -72.09892925,
-    "fecha": "2026-08-06T19:54:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085454568209465723"
-  },
-  {
-    "id": "viper-auto-2085440639475265743",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Colo Colo / San Martin, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8271935,
-    "longitude": -73.04816905,
-    "fecha": "2026-08-06T18:59:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085440639475265743"
-  },
-  {
     "id": "viper-auto-2085501246861922350",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Avenida Bosque Nativo / Pasaje 3, Coronel",
