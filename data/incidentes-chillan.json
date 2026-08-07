@@ -52,32 +52,6 @@
     "tweetUrl": "https://x.com/centralcor132/status/2085501246861922350"
   },
   {
-    "id": "viper-auto-2085423831418556770",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Los Polvoreros / El Manche, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.998722,
-    "longitude": -73.1573027,
-    "fecha": "2026-08-06T17:52:41.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085423831418556770"
-  },
-  {
-    "id": "viper-auto-2085427634859577536",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Larrain Alcalde / Ernesto Penafiel, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.92198075,
-    "longitude": -71.251781,
-    "fecha": "2026-08-06T18:07:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2085427634859577536"
-  },
-  {
     "id": "viper-auto-2085526882024362229",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Cerro Aracar / Los Picunches, Chillán",
