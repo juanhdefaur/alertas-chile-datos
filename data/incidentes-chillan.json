@@ -26,58 +26,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2085454568209465723"
   },
   {
-    "id": "viper-auto-2085411140184555868",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Cesar Sepulveda Labbe / Prolongacion Cocharcas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60956165,
-    "longitude": -72.11497105000001,
-    "fecha": "2026-08-06T17:02:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085411140184555868"
-  },
-  {
-    "id": "viper-auto-2085393508081238489",
-    "tipo": "incidente",
-    "titulo": "Incendio — Pasaje 9 / Pasaje 4, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61114115,
-    "longitude": -72.08667879999999,
-    "fecha": "2026-08-06T15:52:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085393508081238489"
-  },
-  {
-    "id": "viper-auto-2085392941019734406",
-    "tipo": "incidente",
-    "titulo": "Incendio — Pasaje 9 / Pasaje 4, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61114115,
-    "longitude": -72.08667879999999,
-    "fecha": "2026-08-06T15:49:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085392941019734406"
-  },
-  {
-    "id": "viper-auto-2085391809925046386",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Pasaje 9 / Pasaje 4, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61114115,
-    "longitude": -72.08667879999999,
-    "fecha": "2026-08-06T15:45:26.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085391809925046386"
-  },
-  {
     "id": "viper-auto-2085440639475265743",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Colo Colo / San Martin, Concepción",
