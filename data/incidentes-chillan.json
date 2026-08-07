@@ -102,5 +102,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2085835721894428974"
+  },
+  {
+    "id": "viper-auto-2085854725992264138",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Avenida Andalién / Pedro Gonzalez Uzuar, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80203265,
+    "longitude": -73.03187395,
+    "fecha": "2026-08-07T22:24:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085854725992264138"
+  },
+  {
+    "id": "viper-auto-2085850668481286224",
+    "tipo": "incidente",
+    "titulo": "emergencia — El Lingue / El Roble, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80794075,
+    "longitude": -73.06348905,
+    "fecha": "2026-08-07T22:08:47.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085850668481286224"
   }
 ]
