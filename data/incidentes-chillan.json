@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085748436813426904",
-    "tipo": "incidente",
-    "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Pedro Aguirre Cerda / -, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.019329,
-    "longitude": -73.15682659999999,
-    "fecha": "2026-08-07T15:22:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085748436813426904"
-  },
-  {
-    "id": "viper-auto-2085746725289930828",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Pedro Aguirre Cerda / -, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.019329,
-    "longitude": -73.15682659999999,
-    "fecha": "2026-08-07T15:15:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2085746725289930828"
-  },
-  {
     "id": "viper-auto-2085775464514089231",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino Forestal / Ruta O-852, Coronel",
@@ -180,5 +154,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2085888148521861545"
+  },
+  {
+    "id": "viper-auto-2085930717834248609",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Ventus / Janequeo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80794185,
+    "longitude": -73.0507963,
+    "fecha": "2026-08-08T03:26:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2085930717834248609"
   }
 ]
