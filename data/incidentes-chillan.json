@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085872243968532965",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Avenida Padre Alberto Hurtado / Diego De Almagro, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.594253050000006,
-    "longitude": -72.0981551,
-    "fecha": "2026-08-07T23:34:31.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085872243968532965"
-  },
-  {
-    "id": "viper-auto-2085870400613838880",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Avenida Padre Alberto Hurtado / Diego De Almagro, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.594253050000006,
-    "longitude": -72.0981551,
-    "fecha": "2026-08-07T23:27:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085870400613838880"
-  },
-  {
     "id": "viper-auto-2085904276568617120",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Avenida Baquedano / Tomas Yavar, Chillán Viejo",
