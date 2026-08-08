@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2085930717834248609",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Ventus / Janequeo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80794185,
-    "longitude": -73.0507963,
-    "fecha": "2026-08-08T03:26:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2085930717834248609"
-  },
-  {
     "id": "viper-auto-2086106193223725392",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Colcura / Los Pinos, Coronel",
