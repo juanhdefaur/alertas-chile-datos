@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2085835721894428974",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Las Rosas / Adonis, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.59162295,
-    "longitude": -72.11194705,
-    "fecha": "2026-08-07T21:09:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085835721894428974"
-  },
-  {
     "id": "viper-auto-2085854725992264138",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Avenida Andalién / Pedro Gonzalez Uzuar, Concepción",
