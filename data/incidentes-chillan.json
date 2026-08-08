@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085724106134008178",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Carrera / Caupolican, Lota",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.09078645,
-    "longitude": -73.15482305,
-    "fecha": "2026-08-07T13:45:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Lota",
-    "tweetUrl": "https://x.com/centralcor132/status/2085724106134008178"
-  },
-  {
-    "id": "viper-auto-2085733063292534870",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Arauco / Arturo Prat, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.611675149999996,
-    "longitude": -72.1051818,
-    "fecha": "2026-08-07T14:21:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085733063292534870"
-  },
-  {
     "id": "viper-auto-2085748436813426904",
     "tipo": "incidente",
     "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Pedro Aguirre Cerda / -, Coronel",
@@ -154,5 +128,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2085870400613838880"
+  },
+  {
+    "id": "viper-auto-2085904276568617120",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Avenida Baquedano / Tomas Yavar, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.62535595,
+    "longitude": -72.12365270000001,
+    "fecha": "2026-08-08T01:41:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085904276568617120"
+  },
+  {
+    "id": "viper-auto-2085900686340816957",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Avenida Baquedano / Tomas Yavar, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.62535595,
+    "longitude": -72.12365270000001,
+    "fecha": "2026-08-08T01:27:32.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085900686340816957"
+  },
+  {
+    "id": "viper-auto-2085895578794229970",
+    "tipo": "incidente",
+    "titulo": "emergencia — Avenida Argentina / Bulnes, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60671295,
+    "longitude": -72.09233499999999,
+    "fecha": "2026-08-08T01:07:14.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085895578794229970"
+  },
+  {
+    "id": "viper-auto-2085888148521861545",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Avenida Nuble Rupanco / Arturo Matte, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.59439625,
+    "longitude": -72.10674585000001,
+    "fecha": "2026-08-08T00:37:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2085888148521861545"
   }
 ]
