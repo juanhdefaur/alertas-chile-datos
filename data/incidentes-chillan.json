@@ -37,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2086144122247606758"
+  },
+  {
+    "id": "viper-auto-2086170773891190981",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Los Lucumos / Avenida Juan Cisternas, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.94345415,
+    "longitude": -71.2599598,
+    "fecha": "2026-08-08T19:20:46.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2086170773891190981"
   }
 ]
