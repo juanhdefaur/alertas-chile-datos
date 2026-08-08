@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2085904276568617120",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Avenida Baquedano / Tomas Yavar, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.62535595,
-    "longitude": -72.12365270000001,
-    "fecha": "2026-08-08T01:41:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085904276568617120"
-  },
-  {
-    "id": "viper-auto-2085900686340816957",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Avenida Baquedano / Tomas Yavar, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.62535595,
-    "longitude": -72.12365270000001,
-    "fecha": "2026-08-08T01:27:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085900686340816957"
-  },
-  {
     "id": "viper-auto-2085930717834248609",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Ventus / Janequeo, Concepción",
