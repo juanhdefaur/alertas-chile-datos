@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2085799954010767624",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Tarragona / Asturias, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.598014750000004,
-    "longitude": -72.10437160000001,
-    "fecha": "2026-08-07T18:47:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2085799954010767624"
-  },
-  {
     "id": "viper-auto-2085835721894428974",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Las Rosas / Adonis, Chillán",
