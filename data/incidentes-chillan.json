@@ -63,5 +63,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de La Serena",
     "tweetUrl": "https://x.com/central_cbc/status/2086229893130383848"
+  },
+  {
+    "id": "viper-auto-2086246219618123823",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Avenida Los Carrera / Lincoyan, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.825582749999995,
+    "longitude": -73.05610089999999,
+    "fecha": "2026-08-09T00:20:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086246219618123823"
+  },
+  {
+    "id": "viper-auto-2086243287128547656",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Ongolmo / General Cruz, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8184247,
+    "longitude": -73.04655165,
+    "fecha": "2026-08-09T00:08:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086243287128547656"
+  },
+  {
+    "id": "viper-auto-2086250845985751548",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Las Azucenas / Avenida Los Copihues, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.98073135,
+    "longitude": -71.34236,
+    "fecha": "2026-08-09T00:38:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2086250845985751548"
+  },
+  {
+    "id": "viper-auto-2086243432020820376",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Ruta 5 Sur / Vallenar, Vallenar",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -28.5729873,
+    "longitude": -70.77675500000001,
+    "fecha": "2026-08-09T00:09:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Vallenar",
+    "tweetUrl": "https://x.com/central_cbc/status/2086243432020820376"
   }
 ]
