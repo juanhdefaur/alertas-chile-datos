@@ -115,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2086346487085048072"
+  },
+  {
+    "id": "viper-auto-2086395695427166477",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Camino A Chillan / Km 7, Coihueco",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6048937,
+    "longitude": -72.0805461,
+    "fecha": "2026-08-09T10:14:31.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coihueco",
+    "tweetUrl": "https://x.com/cbcoihueco/status/2086395695427166477"
   }
 ]
