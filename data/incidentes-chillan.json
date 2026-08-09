@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086135296278560994",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Manuel Montt / Arturo Prat, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01885485,
-    "longitude": -73.15472605,
-    "fecha": "2026-08-08T16:59:47.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2086135296278560994"
-  },
-  {
     "id": "viper-auto-2086144122247606758",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Cerro Tronquitos / Avenida Libertad Oriente, Chillán",
@@ -128,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2086288079774441879"
+  },
+  {
+    "id": "viper-auto-2086321450890256403",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Domingo Santa Maria / Avenida Vicuna Mackenna, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81950465,
+    "longitude": -73.06398235,
+    "fecha": "2026-08-09T05:19:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086321450890256403"
   }
 ]
