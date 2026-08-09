@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086346487085048072",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Los Carrera / Avenida Arturo Prat, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.826095699999996,
-    "longitude": -73.06015464999999,
-    "fecha": "2026-08-09T06:58:59.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086346487085048072"
-  },
-  {
     "id": "viper-auto-2086395695427166477",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Camino A Chillan / Km 7, Coihueco",
