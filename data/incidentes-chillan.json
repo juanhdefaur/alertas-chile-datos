@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086106193223725392",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Colcura / Los Pinos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.98659965,
-    "longitude": -73.16391494999999,
-    "fecha": "2026-08-08T15:04:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2086106193223725392"
-  },
-  {
     "id": "viper-auto-2086135296278560994",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Manuel Montt / Arturo Prat, Coronel",
@@ -128,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2086267085122908264"
+  },
+  {
+    "id": "viper-auto-2086288079774441879",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Paicaví / San Martin, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82496855,
+    "longitude": -73.04105055,
+    "fecha": "2026-08-09T03:06:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086288079774441879"
   }
 ]
