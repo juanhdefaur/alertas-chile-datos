@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086229893130383848",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Av. Balmaceda / C. Las Higueras, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9195882,
-    "longitude": -71.2542937,
-    "fecha": "2026-08-08T23:15:41.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2086229893130383848"
-  },
-  {
     "id": "viper-auto-2086246219618123823",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Avenida Los Carrera / Lincoyan, Concepción",
