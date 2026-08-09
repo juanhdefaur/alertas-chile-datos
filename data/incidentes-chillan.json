@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086321450890256403",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Domingo Santa Maria / Avenida Vicuna Mackenna, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81950465,
-    "longitude": -73.06398235,
-    "fecha": "2026-08-09T05:19:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086321450890256403"
-  },
-  {
     "id": "viper-auto-2086346487085048072",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Avenida Los Carrera / Avenida Arturo Prat, Concepción",
