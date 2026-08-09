@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086144122247606758",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Cerro Tronquitos / Avenida Libertad Oriente, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61029415,
-    "longitude": -72.07117255,
-    "fecha": "2026-08-08T17:34:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086144122247606758"
-  },
-  {
     "id": "viper-auto-2086170773891190981",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Los Lucumos / Avenida Juan Cisternas, La Serena",
