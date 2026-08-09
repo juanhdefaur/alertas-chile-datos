@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086267085122908264",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Lincoyán / Cochrane, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.83015185,
-    "longitude": -73.05066205,
-    "fecha": "2026-08-09T01:43:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086267085122908264"
-  },
-  {
     "id": "viper-auto-2086288079774441879",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Paicaví / San Martin, Concepción",
