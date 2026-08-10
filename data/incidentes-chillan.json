@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086425807249887353",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Los Boldos / Los Quillayes, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.809074100000004,
-    "longitude": -73.0537992,
-    "fecha": "2026-08-09T12:14:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086425807249887353"
-  },
-  {
     "id": "viper-auto-2086519447775232245",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Balmaceda / Gabriela Mistral, Concepción",
