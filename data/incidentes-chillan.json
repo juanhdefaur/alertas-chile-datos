@@ -115,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2086828346826994127"
+  },
+  {
+    "id": "viper-auto-2086894393064083800",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — El Pantano / Central, Chiguayante",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.91154895,
+    "longitude": -73.0220617,
+    "fecha": "2026-08-10T19:16:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chiguayante",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086894393064083800"
   }
 ]
