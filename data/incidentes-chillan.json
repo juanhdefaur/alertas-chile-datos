@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2086519447775232245",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Balmaceda / Gabriela Mistral, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80308505,
-    "longitude": -73.03609105000001,
-    "fecha": "2026-08-09T18:26:16.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086519447775232245"
-  },
-  {
-    "id": "viper-auto-2086518640531132888",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Balmaceda / Gabriela Mistral, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80308505,
-    "longitude": -73.03609105000001,
-    "fecha": "2026-08-09T18:23:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086518640531132888"
-  },
-  {
     "id": "viper-auto-2086622049426973101",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Los Alerces / Los Aromos, Coronel",
