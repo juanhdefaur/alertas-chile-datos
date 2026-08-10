@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086622049426973101",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Los Alerces / Los Aromos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0235811,
-    "longitude": -73.1315219,
-    "fecha": "2026-08-10T01:13:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2086622049426973101"
-  },
-  {
     "id": "viper-auto-2086776080715690101",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Avenida Vicente Mendez / Camino A Coihueco, Chillán",
@@ -24,5 +11,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2086776080715690101"
+  },
+  {
+    "id": "viper-auto-2086800788580393363",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Sanhueza / Inglesa - Pedro De Valdivia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8533994,
+    "longitude": -73.0492766,
+    "fecha": "2026-08-10T13:04:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086800788580393363"
+  },
+  {
+    "id": "viper-auto-2086800071618703564",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Janequeo / Cochrane, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.824523299999996,
+    "longitude": -73.04024204999999,
+    "fecha": "2026-08-10T13:01:22.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086800071618703564"
+  },
+  {
+    "id": "viper-auto-2086800919958634746",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Las Palmas / Los Copihues, Lota",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.09704235,
+    "longitude": -73.1448827,
+    "fecha": "2026-08-10T13:04:44.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Lota",
+    "tweetUrl": "https://x.com/centralcor132/status/2086800919958634746"
   }
 ]
