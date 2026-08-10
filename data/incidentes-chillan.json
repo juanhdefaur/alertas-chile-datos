@@ -50,5 +50,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Lota",
     "tweetUrl": "https://x.com/centralcor132/status/2086800919958634746"
+  },
+  {
+    "id": "viper-auto-2086819418273644914",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Los Mañíos / Los Canelos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.596260799999996,
+    "longitude": -72.09095145,
+    "fecha": "2026-08-10T14:18:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2086819418273644914"
+  },
+  {
+    "id": "viper-auto-2086814094842122587",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Los Mañíos / Los Canelos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.596260799999996,
+    "longitude": -72.09095145,
+    "fecha": "2026-08-10T13:57:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2086814094842122587"
   }
 ]
