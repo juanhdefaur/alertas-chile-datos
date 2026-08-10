@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2086622049426973101"
+  },
+  {
+    "id": "viper-auto-2086776080715690101",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida Vicente Mendez / Camino A Coihueco, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.59035025,
+    "longitude": -72.06956105,
+    "fecha": "2026-08-10T11:26:02.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2086776080715690101"
   }
 ]
