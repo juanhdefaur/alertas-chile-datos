@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2086800788580393363",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Sanhueza / Inglesa - Pedro De Valdivia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8533994,
-    "longitude": -73.0492766,
-    "fecha": "2026-08-10T13:04:13.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086800788580393363"
-  },
-  {
-    "id": "viper-auto-2086800071618703564",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Janequeo / Cochrane, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.824523299999996,
-    "longitude": -73.04024204999999,
-    "fecha": "2026-08-10T13:01:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086800071618703564"
-  },
-  {
-    "id": "viper-auto-2086800919958634746",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Las Palmas / Los Copihues, Lota",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.09704235,
-    "longitude": -73.1448827,
-    "fecha": "2026-08-10T13:04:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Lota",
-    "tweetUrl": "https://x.com/centralcor132/status/2086800919958634746"
-  },
-  {
-    "id": "viper-auto-2086819418273644914",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Los Mañíos / Los Canelos, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.596260799999996,
-    "longitude": -72.09095145,
-    "fecha": "2026-08-10T14:18:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086819418273644914"
-  },
-  {
-    "id": "viper-auto-2086814094842122587",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Los Mañíos / Los Canelos, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.596260799999996,
-    "longitude": -72.09095145,
-    "fecha": "2026-08-10T13:57:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086814094842122587"
-  },
-  {
     "id": "viper-auto-2086832894673076582",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Andrés Lamas / Pascual Binimelis - Pedro Del Río Zañartu, Concepción",
@@ -89,19 +24,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2086829098597236821"
-  },
-  {
-    "id": "viper-auto-2086828346826994127",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Golfo De Arauco / Carbonifera, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9931479,
-    "longitude": -73.1841636,
-    "fecha": "2026-08-10T14:53:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2086828346826994127"
   },
   {
     "id": "viper-auto-2086894393064083800",
