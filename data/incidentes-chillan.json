@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2086906095994376304",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T20:02:40.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086906095994376304"
-  },
-  {
-    "id": "viper-auto-2086904177813328004",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:55:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086904177813328004"
-  },
-  {
     "id": "viper-auto-2086965412458057921",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Las Heras / Avenida Alonso De Ercilla, Chillán",
