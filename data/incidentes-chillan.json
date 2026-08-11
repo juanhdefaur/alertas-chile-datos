@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2086894393064083800",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — El Pantano / Central, Chiguayante",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.91154895,
-    "longitude": -73.0220617,
-    "fecha": "2026-08-10T19:16:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chiguayante",
-    "tweetUrl": "https://x.com/CentralCBC/status/2086894393064083800"
-  },
-  {
     "id": "viper-auto-2086906095994376304",
     "tipo": "incidente",
     "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
@@ -37,71 +24,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2086904177813328004"
-  },
-  {
-    "id": "viper-auto-2086903996602626112",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:54:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086903996602626112"
-  },
-  {
-    "id": "viper-auto-2086903653902741507",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:52:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086903653902741507"
-  },
-  {
-    "id": "viper-auto-2086903311114883101",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:51:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086903311114883101"
-  },
-  {
-    "id": "viper-auto-2086902545797034056",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:48:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086902545797034056"
-  },
-  {
-    "id": "viper-auto-2086901834417869076",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Avenida Antartica Chilena / Bio Bio, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6093049,
-    "longitude": -72.14152279999999,
-    "fecha": "2026-08-10T19:45:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2086901834417869076"
   },
   {
     "id": "viper-auto-2086965412458057921",
