@@ -206,5 +206,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2086901834417869076"
+  },
+  {
+    "id": "viper-auto-2086965412458057921",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Las Heras / Avenida Alonso De Ercilla, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6235107,
+    "longitude": -72.09343899999999,
+    "fecha": "2026-08-10T23:58:22.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2086965412458057921"
+  },
+  {
+    "id": "viper-auto-2086961439965614549",
+    "tipo": "incidente",
+    "titulo": "emergencia por un Accidente Eléctrico — Maipú / Avenida Paicavi, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.817959349999995,
+    "longitude": -73.04910459999999,
+    "fecha": "2026-08-10T23:42:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2086961439965614549"
+  },
+  {
+    "id": "viper-auto-2086965637578985712",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Los Patagones / Diagonal Navarrete, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.99727245,
+    "longitude": -73.16948315,
+    "fecha": "2026-08-10T23:59:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2086965637578985712"
   }
 ]
