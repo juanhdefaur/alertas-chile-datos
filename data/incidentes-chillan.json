@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2087270663870357750",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Las Penas / Los Gobernadores, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9525509,
-    "longitude": -71.3515827,
-    "fecha": "2026-08-11T20:11:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2087270663870357750"
-  },
-  {
-    "id": "viper-auto-2087276547778507084",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — La Montana / El Volcan, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61917285,
-    "longitude": -72.0839883,
-    "fecha": "2026-08-11T20:34:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087276547778507084"
-  },
-  {
     "id": "viper-auto-2087320596833013822",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Barros Arana / Paicaví, Concepción",
