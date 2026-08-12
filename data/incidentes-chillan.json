@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2087262114842828833",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Lemun / Rehue, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.97908865,
-    "longitude": -73.13632215000001,
-    "fecha": "2026-08-11T19:37:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087262114842828833"
-  },
-  {
-    "id": "viper-auto-2087258679145849056",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Lemun / Rehue, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.97908865,
-    "longitude": -73.13632215000001,
-    "fecha": "2026-08-11T19:23:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087258679145849056"
-  },
-  {
-    "id": "viper-auto-2087258212093272073",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Lemun / Rehue, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.97908865,
-    "longitude": -73.13632215000001,
-    "fecha": "2026-08-11T19:21:51.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087258212093272073"
-  },
-  {
     "id": "viper-auto-2087270663870357750",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Las Penas / Los Gobernadores, Coquimbo",
