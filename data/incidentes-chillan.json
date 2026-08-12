@@ -89,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2087560799350923416"
+  },
+  {
+    "id": "viper-auto-2087577924358623615",
+    "tipo": "incidente",
+    "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Ruta 160 / Calle A, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.94218755,
+    "longitude": -73.155185,
+    "fecha": "2026-08-12T16:32:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2087577924358623615"
   }
 ]
