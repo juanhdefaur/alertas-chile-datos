@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087390382334054807",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Chile / Pasaje 2, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.824793,
-    "longitude": -72.99539565,
-    "fecha": "2026-08-12T04:07:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087390382334054807"
-  },
-  {
     "id": "viper-auto-2087476111110271313",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Paicavi / Erratchou, Coronel",
