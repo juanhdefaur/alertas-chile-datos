@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087346087476474032",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — San Martin / Pedro Aguirre Cerda, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02251545,
-    "longitude": -73.16574915000001,
-    "fecha": "2026-08-12T01:11:02.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087346087476474032"
-  },
-  {
     "id": "viper-auto-2087390382334054807",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Chile / Pasaje 2, Concepción",
