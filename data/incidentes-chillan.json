@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087320596833013822",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Barros Arana / Paicaví, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8236294,
-    "longitude": -73.04091825,
-    "fecha": "2026-08-11T23:29:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087320596833013822"
-  },
-  {
     "id": "viper-auto-2087346087476474032",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — San Martin / Pedro Aguirre Cerda, Coronel",
