@@ -37,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2087390382334054807"
+  },
+  {
+    "id": "viper-auto-2087476111110271313",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Paicavi / Erratchou, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.039086499999996,
+    "longitude": -73.13612850000001,
+    "fecha": "2026-08-12T09:47:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2087476111110271313"
   }
 ]
