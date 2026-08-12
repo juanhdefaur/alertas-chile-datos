@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2087148621489676401",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01201825,
-    "longitude": -73.53038875,
-    "fecha": "2026-08-11T12:06:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087148621489676401"
-  },
-  {
-    "id": "viper-auto-2087175721617613099",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Munoz Olave / Pasaje Sur, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6171545,
-    "longitude": -72.12100615,
-    "fecha": "2026-08-11T13:54:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087175721617613099"
-  },
-  {
-    "id": "viper-auto-2087181555407999220",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Manuel Gutiérrez / Avenida Paicavi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8055846,
-    "longitude": -73.05269215,
-    "fecha": "2026-08-11T14:17:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087181555407999220"
-  },
-  {
-    "id": "viper-auto-2087179931893539079",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Manuel Gutiérrez / Avenida Paicavi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8055846,
-    "longitude": -73.05269215,
-    "fecha": "2026-08-11T14:10:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087179931893539079"
-  },
-  {
-    "id": "viper-auto-2087166236392092067",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Tucapel / General Cruz, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8177147,
-    "longitude": -73.0485561,
-    "fecha": "2026-08-11T13:16:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087166236392092067"
-  },
-  {
     "id": "viper-auto-2087200523287998809",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Avenida 21 De Mayo / Pedro De Oña - Lorenzo Arenas, Concepción",
@@ -245,5 +180,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2087320596833013822"
+  },
+  {
+    "id": "viper-auto-2087346087476474032",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — San Martin / Pedro Aguirre Cerda, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02251545,
+    "longitude": -73.16574915000001,
+    "fecha": "2026-08-12T01:11:02.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2087346087476474032"
   }
 ]
