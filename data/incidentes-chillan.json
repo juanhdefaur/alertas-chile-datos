@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087721851455709600",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Miguel Alzamora Rojas / Tomas Ireland, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.96252695,
-    "longitude": -71.2441738,
-    "fecha": "2026-08-13T02:04:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2087721851455709600"
-  },
-  {
     "id": "viper-auto-2087871519258976556",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Lientur, Concepción",
