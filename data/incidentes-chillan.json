@@ -76,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2087721851455709600"
+  },
+  {
+    "id": "viper-auto-2087871519258976556",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Lientur, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81631015,
+    "longitude": -73.04517179999999,
+    "fecha": "2026-08-13T11:58:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2087871519258976556"
   }
 ]
