@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2087715475786514518",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Brasil / Constitucion, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.605728049999996,
-    "longitude": -72.11142135,
-    "fecha": "2026-08-13T01:38:51.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087715475786514518"
-  },
-  {
-    "id": "viper-auto-2087714969827569855",
-    "tipo": "incidente",
-    "titulo": "Incendio — Avenida Brasil / Constitucion, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.605728049999996,
-    "longitude": -72.11142135,
-    "fecha": "2026-08-13T01:36:51.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087714969827569855"
-  },
-  {
-    "id": "viper-auto-2087714534630785071",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Avenida Brasil / Constitucion, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.605728049999996,
-    "longitude": -72.11142135,
-    "fecha": "2026-08-13T01:35:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087714534630785071"
-  },
-  {
-    "id": "viper-auto-2087713083510657078",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Avenida Brasil / Constitucion, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.605728049999996,
-    "longitude": -72.11142135,
-    "fecha": "2026-08-13T01:29:21.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087713083510657078"
-  },
-  {
-    "id": "viper-auto-2087716475880538585",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Alcalde Luis Carrasco C / Los Pirquenes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9954422,
-    "longitude": -73.15520805,
-    "fecha": "2026-08-13T01:42:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087716475880538585"
-  },
-  {
     "id": "viper-auto-2087721851455709600",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Miguel Alzamora Rojas / Tomas Ireland, Coquimbo",
@@ -89,5 +24,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2087871519258976556"
+  },
+  {
+    "id": "viper-auto-2087887804290289684",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Alonso García De Ramón / Pasaje 2 - Lomas San Andres, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7917552,
+    "longitude": -73.05760325,
+    "fecha": "2026-08-13T13:03:38.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2087887804290289684"
+  },
+  {
+    "id": "viper-auto-2087890607020650873",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — A Punta Delicada / A Faro, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.041515950000004,
+    "longitude": -73.48442299999999,
+    "fecha": "2026-08-13T13:14:46.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2087890607020650873"
   }
 ]
