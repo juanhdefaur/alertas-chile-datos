@@ -76,5 +76,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088003196719382613"
+  },
+  {
+    "id": "viper-auto-2088026768368165178",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Carrera / Gamero, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.602022399999996,
+    "longitude": -72.104521,
+    "fecha": "2026-08-13T22:15:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088026768368165178"
+  },
+  {
+    "id": "viper-auto-2088033481850786119",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Tres Pascualas / Indama, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8110878,
+    "longitude": -73.04422545,
+    "fecha": "2026-08-13T22:42:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088033481850786119"
   }
 ]
