@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087543492759212450",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Videla / Avenida Matta, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.961921349999997,
-    "longitude": -71.33730109999999,
-    "fecha": "2026-08-12T14:15:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2087543492759212450"
-  },
-  {
     "id": "viper-auto-2087565396547125348",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Nicanor Parra / Avenida Doctor Jose Maria Sepulveda Bustos, Chillán",
@@ -102,5 +89,83 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2087623141661040702"
+  },
+  {
+    "id": "viper-auto-2087715475786514518",
+    "tipo": "incidente",
+    "titulo": "Incendio — Avenida Brasil / Constitucion, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.605728049999996,
+    "longitude": -72.11142135,
+    "fecha": "2026-08-13T01:38:51.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2087715475786514518"
+  },
+  {
+    "id": "viper-auto-2087714969827569855",
+    "tipo": "incidente",
+    "titulo": "Incendio — Avenida Brasil / Constitucion, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.605728049999996,
+    "longitude": -72.11142135,
+    "fecha": "2026-08-13T01:36:51.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2087714969827569855"
+  },
+  {
+    "id": "viper-auto-2087714534630785071",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Avenida Brasil / Constitucion, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.605728049999996,
+    "longitude": -72.11142135,
+    "fecha": "2026-08-13T01:35:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2087714534630785071"
+  },
+  {
+    "id": "viper-auto-2087713083510657078",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Avenida Brasil / Constitucion, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.605728049999996,
+    "longitude": -72.11142135,
+    "fecha": "2026-08-13T01:29:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2087713083510657078"
+  },
+  {
+    "id": "viper-auto-2087716475880538585",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Alcalde Luis Carrasco C / Los Pirquenes, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9954422,
+    "longitude": -73.15520805,
+    "fecha": "2026-08-13T01:42:50.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2087716475880538585"
+  },
+  {
+    "id": "viper-auto-2087721851455709600",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Miguel Alzamora Rojas / Tomas Ireland, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.96252695,
+    "longitude": -71.2441738,
+    "fecha": "2026-08-13T02:04:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2087721851455709600"
   }
 ]
