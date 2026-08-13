@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087623141661040702",
-    "tipo": "incidente",
-    "titulo": "emergencia simulada (Simulacro) — Vega De Saldias / Isabel Riquelme, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60395235,
-    "longitude": -72.0993953,
-    "fecha": "2026-08-12T19:31:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2087623141661040702"
-  },
-  {
     "id": "viper-auto-2087715475786514518",
     "tipo": "incidente",
     "titulo": "Incendio — Avenida Brasil / Constitucion, Chillán",
