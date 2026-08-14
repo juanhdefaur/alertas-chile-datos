@@ -13,32 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2088095981489303994"
   },
   {
-    "id": "viper-auto-2088083016769835043",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Orozimbo Barboza / Paula Jaraquemada, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63269795,
-    "longitude": -72.12554905,
-    "fecha": "2026-08-14T01:59:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2088083016769835043"
-  },
-  {
-    "id": "viper-auto-2088082571846455471",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Orozimbo Barboza / Paula Jaraquemada, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63269795,
-    "longitude": -72.12554905,
-    "fecha": "2026-08-14T01:57:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2088082571846455471"
-  },
-  {
     "id": "viper-auto-2088190882423902345",
     "tipo": "incidente",
     "titulo": "Incendio de vehículo — Minero Omar Venegas Villarroel 4 / Minero Juan Leal Silva, Coronel",
@@ -63,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2088237997028262080"
+  },
+  {
+    "id": "viper-auto-2088265897743982834",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Lautaro / Maipu, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8223871,
+    "longitude": -73.0428033,
+    "fecha": "2026-08-14T14:06:02.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088265897743982834"
   }
 ]
