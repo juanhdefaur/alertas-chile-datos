@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2087890607020650873",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — A Punta Delicada / A Faro, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.041515950000004,
-    "longitude": -73.48442299999999,
-    "fecha": "2026-08-13T13:14:46.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2087890607020650873"
-  },
-  {
     "id": "viper-auto-2087936577313923245",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Pasaje 10 / Cosmito, Penco",
@@ -102,5 +89,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2088062401211961805"
+  },
+  {
+    "id": "viper-auto-2088095981489303994",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Pasaje Solidaridad / El Rosario, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.629414800000006,
+    "longitude": -72.13709705,
+    "fecha": "2026-08-14T02:50:51.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088095981489303994"
+  },
+  {
+    "id": "viper-auto-2088083016769835043",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Orozimbo Barboza / Paula Jaraquemada, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63269795,
+    "longitude": -72.12554905,
+    "fecha": "2026-08-14T01:59:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088083016769835043"
+  },
+  {
+    "id": "viper-auto-2088082571846455471",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Orozimbo Barboza / Paula Jaraquemada, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63269795,
+    "longitude": -72.12554905,
+    "fecha": "2026-08-14T01:57:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088082571846455471"
   }
 ]
