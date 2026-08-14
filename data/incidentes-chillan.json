@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088003196719382613",
-    "tipo": "incidente",
-    "titulo": "emergencia de Materiales peligrosos — Golfo De Arauco / Avenida Cerro San Francisco, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.98145795,
-    "longitude": -73.17273305,
-    "fecha": "2026-08-13T20:42:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088003196719382613"
-  },
-  {
     "id": "viper-auto-2088026768368165178",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Carrera / Gamero, Chillán",
@@ -102,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2088082571846455471"
+  },
+  {
+    "id": "viper-auto-2088190882423902345",
+    "tipo": "incidente",
+    "titulo": "Incendio de vehículo — Minero Omar Venegas Villarroel 4 / Minero Juan Leal Silva, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9986396,
+    "longitude": -73.14777065,
+    "fecha": "2026-08-14T09:07:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2088190882423902345"
   }
 ]
