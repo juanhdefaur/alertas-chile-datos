@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088062401211961805",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Las Heras / Galvarino, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81747420000001,
-    "longitude": -73.04192315,
-    "fecha": "2026-08-14T00:37:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088062401211961805"
-  },
-  {
     "id": "viper-auto-2088095981489303994",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Pasaje Solidaridad / El Rosario, Chillán Viejo",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088190882423902345"
+  },
+  {
+    "id": "viper-auto-2088237997028262080",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.84023835,
+    "longitude": -73.05767815,
+    "fecha": "2026-08-14T12:15:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088237997028262080"
   }
 ]
