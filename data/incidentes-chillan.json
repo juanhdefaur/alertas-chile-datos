@@ -76,5 +76,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2088349834633728117"
+  },
+  {
+    "id": "viper-auto-2088362771985400310",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Chiquillanes / Avenida Libertad Oriente, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60843765,
+    "longitude": -72.08429445,
+    "fecha": "2026-08-14T20:30:59.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088362771985400310"
+  },
+  {
+    "id": "viper-auto-2088361492773044569",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Pasaje 3 / Escalera 4, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.801766349999994,
+    "longitude": -73.0336158,
+    "fecha": "2026-08-14T20:25:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088361492773044569"
+  },
+  {
+    "id": "viper-auto-2088363495410532769",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — A Punta Delicada / A Faro, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.041515950000004,
+    "longitude": -73.48442299999999,
+    "fecha": "2026-08-14T20:33:51.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2088363495410532769"
   }
 ]
