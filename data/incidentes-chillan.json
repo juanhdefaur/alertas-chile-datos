@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088033481850786119",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Tres Pascualas / Indama, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8110878,
-    "longitude": -73.04422545,
-    "fecha": "2026-08-13T22:42:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088033481850786119"
-  },
-  {
     "id": "viper-auto-2088049649210831350",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Lincoyán / Cochrane, Concepción",
