@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2087936577313923245",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Pasaje 10 / Cosmito, Penco",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.77678095,
-    "longitude": -73.02133810000001,
-    "fecha": "2026-08-13T16:17:26.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Penco",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087936577313923245"
-  },
-  {
-    "id": "viper-auto-2087934780939665847",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Pasaje 10 / Cosmito, Penco",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.77678095,
-    "longitude": -73.02133810000001,
-    "fecha": "2026-08-13T16:10:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Penco",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087934780939665847"
-  },
-  {
     "id": "viper-auto-2088003196719382613",
     "tipo": "incidente",
     "titulo": "emergencia de Materiales peligrosos — Golfo De Arauco / Avenida Cerro San Francisco, Coronel",
