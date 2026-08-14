@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088309946098078075"
+  },
+  {
+    "id": "viper-auto-2088349834633728117",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Reloncavi / Cerro Negro, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.617850399999995,
+    "longitude": -72.0788671,
+    "fecha": "2026-08-14T19:39:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088349834633728117"
   }
 ]
