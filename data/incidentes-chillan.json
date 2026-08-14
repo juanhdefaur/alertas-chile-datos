@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088049649210831350",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Lincoyán / Cochrane, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.83015185,
-    "longitude": -73.05066205,
-    "fecha": "2026-08-13T23:46:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088049649210831350"
-  },
-  {
     "id": "viper-auto-2088062401211961805",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Las Heras / Galvarino, Concepción",
