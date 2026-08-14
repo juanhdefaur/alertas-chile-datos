@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088190882423902345",
-    "tipo": "incidente",
-    "titulo": "Incendio de vehículo — Minero Omar Venegas Villarroel 4 / Minero Juan Leal Silva, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9986396,
-    "longitude": -73.14777065,
-    "fecha": "2026-08-14T09:07:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088190882423902345"
-  },
-  {
     "id": "viper-auto-2088237997028262080",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
@@ -115,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088363495410532769"
+  },
+  {
+    "id": "viper-auto-2088371688295530876",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Monsalve / Cousino, Lota",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.09306515,
+    "longitude": -73.15717805,
+    "fecha": "2026-08-14T21:06:25.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Lota",
+    "tweetUrl": "https://x.com/centralcor132/status/2088371688295530876"
   }
 ]
