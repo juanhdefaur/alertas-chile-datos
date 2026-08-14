@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2087871519258976556",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Lientur, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81631015,
-    "longitude": -73.04517179999999,
-    "fecha": "2026-08-13T11:58:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087871519258976556"
-  },
-  {
-    "id": "viper-auto-2087887804290289684",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Alonso García De Ramón / Pasaje 2 - Lomas San Andres, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.7917552,
-    "longitude": -73.05760325,
-    "fecha": "2026-08-13T13:03:38.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2087887804290289684"
-  },
-  {
     "id": "viper-auto-2087890607020650873",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — A Punta Delicada / A Faro, Coronel",
@@ -115,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2088049649210831350"
+  },
+  {
+    "id": "viper-auto-2088062401211961805",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Las Heras / Galvarino, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81747420000001,
+    "longitude": -73.04192315,
+    "fecha": "2026-08-14T00:37:25.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088062401211961805"
   }
 ]
