@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2088434417555447949",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Manuel Rodríguez / Serrano, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.819820699999994,
-    "longitude": -73.0615976,
-    "fecha": "2026-08-15T01:15:41.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088434417555447949"
-  },
-  {
-    "id": "viper-auto-2088432811501916225",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Manuel Rodríguez / Serrano, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.819820699999994,
-    "longitude": -73.0615976,
-    "fecha": "2026-08-15T01:09:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088432811501916225"
-  },
-  {
     "id": "viper-auto-2088444520803258507",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — La Araucana / Pasaje Wangulen, Coronel",
