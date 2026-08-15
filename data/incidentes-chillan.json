@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088593558366220654",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Santa Ines / Santa Rosa De Lima, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.608131900000004,
-    "longitude": -72.0637084,
-    "fecha": "2026-08-15T11:48:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2088593558366220654"
-  },
-  {
     "id": "viper-auto-2088690813773517297",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Luis Araneda / Antonio Varas, Chillán Viejo",
@@ -24,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2088690813773517297"
+  },
+  {
+    "id": "viper-auto-2088772972408393893",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Vega De Saldias / Claudio Arrau, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60420845,
+    "longitude": -72.1065791,
+    "fecha": "2026-08-15T23:40:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088772972408393893"
   }
 ]
