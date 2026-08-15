@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088265897743982834",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Lautaro / Maipu, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8223871,
-    "longitude": -73.0428033,
-    "fecha": "2026-08-14T14:06:02.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088265897743982834"
-  },
-  {
     "id": "viper-auto-2088287114425139325",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Alcalde Flores Millan / Las Amapolas, Chillán",
@@ -180,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088420174709874912"
+  },
+  {
+    "id": "viper-auto-2088444520803258507",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — La Araucana / Pasaje Wangulen, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.95921335,
+    "longitude": -73.15245625,
+    "fecha": "2026-08-15T01:55:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2088444520803258507"
   }
 ]
