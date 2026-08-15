@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2088479325699895536"
   },
   {
-    "id": "viper-auto-2088471126850580544",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Ruta 160 / Lautaro, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02611595,
-    "longitude": -73.13509785,
-    "fecha": "2026-08-15T03:41:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088471126850580544"
-  },
-  {
     "id": "viper-auto-2088552107376800182",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — 18 De Septiembre / Arturo Prat, Coihueco",
