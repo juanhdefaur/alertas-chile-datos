@@ -167,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088444520803258507"
+  },
+  {
+    "id": "viper-auto-2088479325699895536",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida 21 De Mayo / Rosamel Del Solar, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81513565,
+    "longitude": -73.0705791,
+    "fecha": "2026-08-15T04:14:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088479325699895536"
   }
 ]
