@@ -52,19 +52,6 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2088425189738520725"
   },
   {
-    "id": "viper-auto-2088420174709874912",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — San Jaime / Santa Lis, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.97757875,
-    "longitude": -73.14386915,
-    "fecha": "2026-08-15T00:19:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088420174709874912"
-  },
-  {
     "id": "viper-auto-2088444520803258507",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — La Araucana / Pasaje Wangulen, Coronel",
