@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088309946098078075",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Manuel Montt / Avenida Las Encinas, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9792256,
-    "longitude": -73.1610872,
-    "fecha": "2026-08-14T17:01:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088309946098078075"
-  },
-  {
     "id": "viper-auto-2088349834633728117",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Reloncavi / Cerro Negro, Chillán",
@@ -180,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2088479325699895536"
+  },
+  {
+    "id": "viper-auto-2088471126850580544",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Ruta 160 / Lautaro, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02611595,
+    "longitude": -73.13509785,
+    "fecha": "2026-08-15T03:41:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2088471126850580544"
   }
 ]
