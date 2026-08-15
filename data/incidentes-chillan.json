@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088371688295530876",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Monsalve / Cousino, Lota",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.09306515,
-    "longitude": -73.15717805,
-    "fecha": "2026-08-14T21:06:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Lota",
-    "tweetUrl": "https://x.com/centralcor132/status/2088371688295530876"
-  },
-  {
     "id": "viper-auto-2088374589801812241",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Tarapaca / Avenida Doctor Jose Maria Sepulveda Bustos, Chillán",
@@ -128,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088471126850580544"
+  },
+  {
+    "id": "viper-auto-2088552107376800182",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — 18 De Septiembre / Arturo Prat, Coihueco",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.628033,
+    "longitude": -71.8277846,
+    "fecha": "2026-08-15T09:03:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coihueco",
+    "tweetUrl": "https://x.com/cbcoihueco/status/2088552107376800182"
   }
 ]
