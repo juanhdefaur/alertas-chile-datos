@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088237997028262080",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.84023835,
-    "longitude": -73.05767815,
-    "fecha": "2026-08-14T12:15:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088237997028262080"
-  },
-  {
     "id": "viper-auto-2088265897743982834",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Lautaro / Maipu, Concepción",
@@ -128,5 +115,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2088374589801812241"
+  },
+  {
+    "id": "viper-auto-2088431420624490763",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Luis Rocuant Trucios / Fernando Martinez Labatud, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.597111,
+    "longitude": -72.0628805,
+    "fecha": "2026-08-15T01:03:46.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2088431420624490763"
+  },
+  {
+    "id": "viper-auto-2088434417555447949",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Avenida Manuel Rodríguez / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.819820699999994,
+    "longitude": -73.0615976,
+    "fecha": "2026-08-15T01:15:41.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088434417555447949"
+  },
+  {
+    "id": "viper-auto-2088432811501916225",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Avenida Manuel Rodríguez / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.819820699999994,
+    "longitude": -73.0615976,
+    "fecha": "2026-08-15T01:09:18.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088432811501916225"
+  },
+  {
+    "id": "viper-auto-2088425189738520725",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Almirante Riveros Norte / El Golf, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.809995799999996,
+    "longitude": -73.06196940000001,
+    "fecha": "2026-08-15T00:39:00.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088425189738520725"
+  },
+  {
+    "id": "viper-auto-2088420174709874912",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — San Jaime / Santa Lis, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.97757875,
+    "longitude": -73.14386915,
+    "fecha": "2026-08-15T00:19:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2088420174709874912"
   }
 ]
