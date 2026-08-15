@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088479325699895536",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida 21 De Mayo / Rosamel Del Solar, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81513565,
-    "longitude": -73.0705791,
-    "fecha": "2026-08-15T04:14:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2088479325699895536"
-  },
-  {
     "id": "viper-auto-2088552107376800182",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — 18 De Septiembre / Arturo Prat, Coihueco",
