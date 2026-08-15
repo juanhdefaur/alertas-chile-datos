@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088444520803258507",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — La Araucana / Pasaje Wangulen, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.95921335,
-    "longitude": -73.15245625,
-    "fecha": "2026-08-15T01:55:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088444520803258507"
-  },
-  {
     "id": "viper-auto-2088479325699895536",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Avenida 21 De Mayo / Rosamel Del Solar, Concepción",
