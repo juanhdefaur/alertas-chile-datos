@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2088833016504123485"
+  },
+  {
+    "id": "viper-auto-2088975556020777362",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Ejercito / Ongolmo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81306925,
+    "longitude": -73.0538964,
+    "fecha": "2026-08-16T13:05:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2088975556020777362"
   }
 ]
