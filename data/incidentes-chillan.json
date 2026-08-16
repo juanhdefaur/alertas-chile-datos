@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2089070533161697541"
+  },
+  {
+    "id": "viper-auto-2089074565582397456",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Doctor Ricardo Burmeister / Los Lirios, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82366375,
+    "longitude": -73.01958735,
+    "fecha": "2026-08-16T19:39:24.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089074565582397456"
   }
 ]
