@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089074565582397456"
+  },
+  {
+    "id": "viper-auto-2089077495702167815",
+    "tipo": "incidente",
+    "titulo": "fuego en árbol o pastizal — Isla Santa María / Puerto Sur Bajo, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.016802049999995,
+    "longitude": -73.52716255,
+    "fecha": "2026-08-16T19:51:02.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2089077495702167815"
   }
 ]
