@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2088833016504123485",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Calle Uno / Calle Dos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9626997,
-    "longitude": -73.13950460000001,
-    "fecha": "2026-08-16T03:39:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2088833016504123485"
-  },
-  {
     "id": "viper-auto-2088975556020777362",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Ejercito / Ongolmo, Concepción",
@@ -37,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2089002777250873702"
+  },
+  {
+    "id": "viper-auto-2089016709550059993",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Camino Parque Lantano / Avenida Nuble Rupanco, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.595674200000005,
+    "longitude": -72.10888025,
+    "fecha": "2026-08-16T15:49:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089016709550059993"
   }
 ]
