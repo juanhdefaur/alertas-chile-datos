@@ -76,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2089077495702167815"
+  },
+  {
+    "id": "viper-auto-2089128867155828740",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Calle Tres / Calle Dos, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8297277,
+    "longitude": -73.00557785000001,
+    "fecha": "2026-08-16T23:15:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089128867155828740"
   }
 ]
