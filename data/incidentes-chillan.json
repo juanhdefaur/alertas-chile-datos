@@ -128,5 +128,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2089419577318896119"
+  },
+  {
+    "id": "viper-auto-2089450136359358905",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01201825,
+    "longitude": -73.53038875,
+    "fecha": "2026-08-17T20:31:47.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2089450136359358905"
   }
 ]
