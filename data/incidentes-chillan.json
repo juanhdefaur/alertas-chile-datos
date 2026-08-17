@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089128867155828740",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Calle Tres / Calle Dos, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8297277,
-    "longitude": -73.00557785000001,
-    "fecha": "2026-08-16T23:15:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089128867155828740"
-  },
-  {
     "id": "viper-auto-2089137947295576559",
     "tipo": "incidente",
     "titulo": "fuego en árbol o pastizal — Pasaje San Carlos / Pasaje Ninhue, Chillán",
