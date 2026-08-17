@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2089070533161697541",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01201825,
-    "longitude": -73.53038875,
-    "fecha": "2026-08-16T19:23:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2089070533161697541"
-  },
-  {
-    "id": "viper-auto-2089074565582397456",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Doctor Ricardo Burmeister / Los Lirios, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82366375,
-    "longitude": -73.01958735,
-    "fecha": "2026-08-16T19:39:24.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089074565582397456"
-  },
-  {
-    "id": "viper-auto-2089077495702167815",
-    "tipo": "incidente",
-    "titulo": "fuego en árbol o pastizal — Isla Santa María / Puerto Sur Bajo, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.016802049999995,
-    "longitude": -73.52716255,
-    "fecha": "2026-08-16T19:51:02.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2089077495702167815"
-  },
-  {
     "id": "viper-auto-2089128867155828740",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Calle Tres / Calle Dos, Concepción",
