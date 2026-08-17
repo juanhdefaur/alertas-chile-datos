@@ -141,5 +141,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2089450136359358905"
+  },
+  {
+    "id": "viper-auto-2089465841410568276",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Las Rosas / Espino, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.58874565,
+    "longitude": -72.1113877,
+    "fecha": "2026-08-17T21:34:11.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089465841410568276"
+  },
+  {
+    "id": "viper-auto-2089467600359027124",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Los Molineros / Juan Antonio Ríos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.994734449999996,
+    "longitude": -73.16497435,
+    "fecha": "2026-08-17T21:41:11.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2089467600359027124"
   }
 ]
