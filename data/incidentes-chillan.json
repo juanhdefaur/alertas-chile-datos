@@ -102,5 +102,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089408530939879568"
+  },
+  {
+    "id": "viper-auto-2089416739167559989",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — 5 De Abril / Maipon, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.608607,
+    "longitude": -72.10238294999999,
+    "fecha": "2026-08-17T18:19:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089416739167559989"
+  },
+  {
+    "id": "viper-auto-2089419577318896119",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Guanaqueros / Ruta D-410, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.196745749999998,
+    "longitude": -71.40172685,
+    "fecha": "2026-08-17T18:30:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2089419577318896119"
   }
 ]
