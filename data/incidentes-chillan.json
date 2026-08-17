@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2089378096818405446"
+  },
+  {
+    "id": "viper-auto-2089397231874928984",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Acevedo Hernández / Covadonga, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.00871425,
+    "longitude": -73.15456230000001,
+    "fecha": "2026-08-17T17:01:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2089397231874928984"
   }
 ]
