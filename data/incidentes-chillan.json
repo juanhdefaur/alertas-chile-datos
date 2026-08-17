@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089195703083864338"
+  },
+  {
+    "id": "viper-auto-2089359173322465609",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Camilo Henriquez / Jose Miguel Garcia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8082166,
+    "longitude": -73.0324665,
+    "fecha": "2026-08-17T14:30:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089359173322465609"
   }
 ]
