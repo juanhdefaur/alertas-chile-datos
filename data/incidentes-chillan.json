@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089365098720641283",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Covadonga / Esmeralda, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.8764658,
-    "longitude": -71.2496093,
-    "fecha": "2026-08-17T14:53:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2089365098720641283"
-  },
-  {
     "id": "viper-auto-2089375464854888952",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Las Heras / Rengo, Concepción",
@@ -206,5 +193,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089533130256343520"
+  },
+  {
+    "id": "viper-auto-2089532357648830645",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Calle 2 / Pasaje 3 - Los Copihues, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.83317415,
+    "longitude": -73.00620365,
+    "fecha": "2026-08-18T01:58:30.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089532357648830645"
   }
 ]
