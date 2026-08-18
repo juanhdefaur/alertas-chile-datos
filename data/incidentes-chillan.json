@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089529482554020311",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Nueva Limonera / Avenida Las Torres, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6285064,
-    "longitude": -72.064224,
-    "fecha": "2026-08-18T01:47:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089529482554020311"
-  },
-  {
     "id": "viper-auto-2089533130256343520",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
