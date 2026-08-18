@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089666714589888665",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Brasil / Lazareto, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6067896,
-    "longitude": -72.11285135,
-    "fecha": "2026-08-18T10:52:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089666714589888665"
-  },
-  {
     "id": "viper-auto-2089669006164705739",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Esperanza / Progreso, Tucapel",
@@ -167,5 +154,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089818884995998131"
+  },
+  {
+    "id": "viper-auto-2089845772388876346",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Pasaje La Dehesa / Luis Araneda, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6285928,
+    "longitude": -72.1375744,
+    "fecha": "2026-08-18T22:43:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089845772388876346"
   }
 ]
