@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089749744163668162"
+  },
+  {
+    "id": "viper-auto-2089753919572369512",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Ximena Cariola / Covadonga, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.198373500000002,
+    "longitude": -71.4320634,
+    "fecha": "2026-08-18T16:38:54.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2089753919572369512"
   }
 ]
