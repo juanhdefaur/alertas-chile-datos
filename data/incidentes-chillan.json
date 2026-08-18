@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089359173322465609",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Camilo Henriquez / Jose Miguel Garcia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8082166,
-    "longitude": -73.0324665,
-    "fecha": "2026-08-17T14:30:19.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089359173322465609"
-  },
-  {
     "id": "viper-auto-2089365098720641283",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Covadonga / Esmeralda, Coquimbo",
@@ -180,5 +167,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089498149958091035"
+  },
+  {
+    "id": "viper-auto-2089529482554020311",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Nueva Limonera / Avenida Las Torres, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6285064,
+    "longitude": -72.064224,
+    "fecha": "2026-08-18T01:47:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089529482554020311"
+  },
+  {
+    "id": "viper-auto-2089502118239515084",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Los Copihues / Las Canoas, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.625924,
+    "longitude": -72.11475375,
+    "fecha": "2026-08-17T23:58:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089502118239515084"
+  },
+  {
+    "id": "viper-auto-2089533130256343520",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.84023835,
+    "longitude": -73.05767815,
+    "fecha": "2026-08-18T02:01:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089533130256343520"
   }
 ]
