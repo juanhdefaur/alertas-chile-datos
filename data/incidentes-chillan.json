@@ -76,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089666714589888665"
+  },
+  {
+    "id": "viper-auto-2089669006164705739",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Esperanza / Progreso, Tucapel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.27618725,
+    "longitude": -71.8383318,
+    "fecha": "2026-08-18T11:01:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Tucapel",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089669006164705739"
   }
 ]
