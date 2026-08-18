@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089669006164705739",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Esperanza / Progreso, Tucapel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.27618725,
-    "longitude": -71.8383318,
-    "fecha": "2026-08-18T11:01:29.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Tucapel",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089669006164705739"
-  },
-  {
     "id": "viper-auto-2089714834963124592",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Ester Roa / Manuel Gutierrez - Barrio Norte, Concepción",
@@ -167,5 +154,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089845772388876346"
+  },
+  {
+    "id": "viper-auto-2089852691329532150",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Bolivia / Enrique Campino, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.8788871,
+    "longitude": -71.23793305000001,
+    "fecha": "2026-08-18T23:11:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2089852691329532150"
   }
 ]
