@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2089533130256343520",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Progreso / Ercilla, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.84023835,
-    "longitude": -73.05767815,
-    "fecha": "2026-08-18T02:01:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089533130256343520"
-  },
-  {
-    "id": "viper-auto-2089532357648830645",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Calle 2 / Pasaje 3 - Los Copihues, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.83317415,
-    "longitude": -73.00620365,
-    "fecha": "2026-08-18T01:58:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089532357648830645"
-  },
-  {
     "id": "viper-auto-2089666714589888665",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Avenida Brasil / Lazareto, Chillán",
@@ -50,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Tucapel",
     "tweetUrl": "https://x.com/CentralCBC/status/2089669006164705739"
+  },
+  {
+    "id": "viper-auto-2089714834963124592",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Ester Roa / Manuel Gutierrez - Barrio Norte, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.811041349999996,
+    "longitude": -73.0606801,
+    "fecha": "2026-08-18T14:03:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2089714834963124592"
   }
 ]
