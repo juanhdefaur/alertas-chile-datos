@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2089397231874928984",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Acevedo Hernández / Covadonga, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.00871425,
-    "longitude": -73.15456230000001,
-    "fecha": "2026-08-17T17:01:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2089397231874928984"
-  },
-  {
-    "id": "viper-auto-2089405446658445696",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — 18 De Septiembre / Arturo Prat, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6113409,
-    "longitude": -72.10590540000001,
-    "fecha": "2026-08-17T17:34:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089405446658445696"
-  },
-  {
-    "id": "viper-auto-2089398984527737195",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Acevedo Hernández / Covadonga, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.00871425,
-    "longitude": -73.15456230000001,
-    "fecha": "2026-08-17T17:08:31.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2089398984527737195"
-  },
-  {
     "id": "viper-auto-2089408530939879568",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Avenida Paicavi / Avenida Los Carrera, Concepción",
