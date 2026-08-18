@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089498149958091035",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Artesanos / Avenida Ecuador, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.600029899999996,
-    "longitude": -72.0981313,
-    "fecha": "2026-08-17T23:42:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089498149958091035"
-  },
-  {
     "id": "viper-auto-2089529482554020311",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Nueva Limonera / Avenida Las Torres, Chillán",
@@ -24,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089529482554020311"
-  },
-  {
-    "id": "viper-auto-2089502118239515084",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Los Copihues / Las Canoas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.625924,
-    "longitude": -72.11475375,
-    "fecha": "2026-08-17T23:58:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089502118239515084"
   },
   {
     "id": "viper-auto-2089533130256343520",
