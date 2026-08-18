@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2089375464854888952",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Las Heras / Rengo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8216586,
-    "longitude": -73.05643649999999,
-    "fecha": "2026-08-17T15:35:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089375464854888952"
-  },
-  {
-    "id": "viper-auto-2089378096818405446",
-    "tipo": "incidente",
-    "titulo": "emergencia por fuego en un vehículo — 7° Compañía De Bomberos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9990474,
-    "longitude": -73.1650165,
-    "fecha": "2026-08-17T15:45:31.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2089378096818405446"
-  },
-  {
     "id": "viper-auto-2089397231874928984",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Acevedo Hernández / Covadonga, Coronel",
