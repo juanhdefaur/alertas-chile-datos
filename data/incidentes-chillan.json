@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089408530939879568",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Avenida Paicavi / Avenida Los Carrera, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8194343,
-    "longitude": -73.0387295,
-    "fecha": "2026-08-17T17:46:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089408530939879568"
-  },
-  {
     "id": "viper-auto-2089416739167559989",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — 5 De Abril / Maipon, Chillán",
