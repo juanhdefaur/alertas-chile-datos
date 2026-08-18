@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2089532357648830645"
+  },
+  {
+    "id": "viper-auto-2089666714589888665",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Avenida Brasil / Lazareto, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6067896,
+    "longitude": -72.11285135,
+    "fecha": "2026-08-18T10:52:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2089666714589888665"
   }
 ]
