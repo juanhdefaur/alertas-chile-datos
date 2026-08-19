@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089908806222287109",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Conde De Maule / Erasmo Escala, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.627172200000004,
-    "longitude": -72.1262461,
-    "fecha": "2026-08-19T02:54:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089908806222287109"
-  },
-  {
     "id": "viper-auto-2090029320320266613",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
@@ -50,5 +37,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090080359899689260"
+  },
+  {
+    "id": "viper-auto-2090090808825217114",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Avenida Paul Harris / Avenida Padre Alberto Hurtado, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5878243,
+    "longitude": -72.0981942,
+    "fecha": "2026-08-19T14:57:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090090808825217114"
+  },
+  {
+    "id": "viper-auto-2090089753609678971",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Avenida Paul Harris / Avenida Padre Alberto Hurtado, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5878243,
+    "longitude": -72.0981942,
+    "fecha": "2026-08-19T14:53:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090089753609678971"
   }
 ]
