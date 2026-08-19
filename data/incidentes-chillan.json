@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2089755520504582396",
-    "tipo": "incidente",
-    "titulo": "Incendio de vehículo — Avenida Libertador Bernardo O'higgins / 20 De Agosto, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6225211,
-    "longitude": -72.13270460000001,
-    "fecha": "2026-08-18T16:45:16.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089755520504582396"
-  },
-  {
-    "id": "viper-auto-2089749744163668162",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Gamero / 18 De Septiembre, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6028376,
-    "longitude": -72.10397965,
-    "fecha": "2026-08-18T16:22:19.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089749744163668162"
-  },
-  {
-    "id": "viper-auto-2089753919572369512",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Ximena Cariola / Covadonga, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -30.198373500000002,
-    "longitude": -71.4320634,
-    "fecha": "2026-08-18T16:38:54.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2089753919572369512"
-  },
-  {
     "id": "viper-auto-2089796333670416558",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Calle Del Fuerte / Pasaje Rafael - Cerro La Pólvora, Concepción",
