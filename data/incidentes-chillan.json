@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2090118264839913643"
+  },
+  {
+    "id": "viper-auto-2090180332695785848",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Valle Noble / La Coruña, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8181868,
+    "longitude": -73.003164,
+    "fecha": "2026-08-19T20:53:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090180332695785848"
   }
 ]
