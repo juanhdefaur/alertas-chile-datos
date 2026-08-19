@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090029320320266613",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8104959,
-    "longitude": -73.0620882,
-    "fecha": "2026-08-19T10:53:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090029320320266613"
-  },
-  {
     "id": "viper-auto-2090070366135755204",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Avenida Bellavista / Rotonda Andalien Lomas De Bellavista, Concepción",
@@ -141,5 +128,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090193740891607356"
+  },
+  {
+    "id": "viper-auto-2090211723860963400",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Jorge Montt / Argomedo - Lorenzo Arenas, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8161633,
+    "longitude": -73.0703968,
+    "fecha": "2026-08-19T22:58:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090211723860963400"
   }
 ]
