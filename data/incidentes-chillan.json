@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089845772388876346",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Pasaje La Dehesa / Luis Araneda, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6285928,
-    "longitude": -72.1375744,
-    "fecha": "2026-08-18T22:43:54.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089845772388876346"
-  },
-  {
     "id": "viper-auto-2089852691329532150",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Bolivia / Enrique Campino, La Serena",
