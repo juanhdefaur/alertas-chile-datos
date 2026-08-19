@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089714834963124592",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Ester Roa / Manuel Gutierrez - Barrio Norte, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.811041349999996,
-    "longitude": -73.0606801,
-    "fecha": "2026-08-18T14:03:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2089714834963124592"
-  },
-  {
     "id": "viper-auto-2089755520504582396",
     "tipo": "incidente",
     "titulo": "Incendio de vehículo — Avenida Libertador Bernardo O'higgins / 20 De Agosto, Chillán Viejo",
