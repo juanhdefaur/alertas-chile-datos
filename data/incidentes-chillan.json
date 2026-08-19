@@ -63,5 +63,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2090089753609678971"
+  },
+  {
+    "id": "viper-auto-2090092242996269401",
+    "tipo": "incidente",
+    "titulo": "emergencia simulada (Simulacro) — Ongolmo / Brasil, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81257465,
+    "longitude": -73.05136855,
+    "fecha": "2026-08-19T15:03:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090092242996269401"
+  },
+  {
+    "id": "viper-auto-2090092163832918308",
+    "tipo": "incidente",
+    "titulo": "simulacro — Ongolmo / Brasil, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81257465,
+    "longitude": -73.05136855,
+    "fecha": "2026-08-19T15:02:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090092163832918308"
   }
 ]
