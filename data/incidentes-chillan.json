@@ -167,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090212664802713829"
+  },
+  {
+    "id": "viper-auto-2090222670029746663",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Rodolfo Briceño / Rosamel Del Solar - Lorenzo Arenas, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.818550200000004,
+    "longitude": -73.06975725000001,
+    "fecha": "2026-08-19T23:41:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090222670029746663"
   }
 ]
