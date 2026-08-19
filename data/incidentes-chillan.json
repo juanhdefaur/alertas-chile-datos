@@ -89,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090092163832918308"
+  },
+  {
+    "id": "viper-auto-2090118264839913643",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Acevedo Hernández / Covadonga, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.00871425,
+    "longitude": -73.15456230000001,
+    "fecha": "2026-08-19T16:46:41.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2090118264839913643"
   }
 ]
