@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090029320320266613"
+  },
+  {
+    "id": "viper-auto-2090070366135755204",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Avenida Bellavista / Rotonda Andalien Lomas De Bellavista, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7859957,
+    "longitude": -73.03759325,
+    "fecha": "2026-08-19T13:36:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090070366135755204"
   }
 ]
