@@ -13,32 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2089908806222287109"
   },
   {
-    "id": "viper-auto-2089900700264206421",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Avenida Circunvalacion / Pueblo Seco, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6312621,
-    "longitude": -72.0744753,
-    "fecha": "2026-08-19T02:22:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089900700264206421"
-  },
-  {
-    "id": "viper-auto-2089897861878038577",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Avenida Circunvalacion / Pueblo Seco, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6312621,
-    "longitude": -72.0744753,
-    "fecha": "2026-08-19T02:10:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2089897861878038577"
-  },
-  {
     "id": "viper-auto-2090029320320266613",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
@@ -63,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090070366135755204"
+  },
+  {
+    "id": "viper-auto-2090080359899689260",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Tucapel / Cochrane, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82575325,
+    "longitude": -73.04325445,
+    "fecha": "2026-08-19T14:16:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090080359899689260"
   }
 ]
