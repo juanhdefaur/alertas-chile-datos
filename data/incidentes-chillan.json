@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2089852691329532150",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Bolivia / Enrique Campino, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.8788871,
-    "longitude": -71.23793305000001,
-    "fecha": "2026-08-18T23:11:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2089852691329532150"
-  },
-  {
     "id": "viper-auto-2089908806222287109",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Conde De Maule / Erasmo Escala, Chillán Viejo",
@@ -50,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2089897861878038577"
+  },
+  {
+    "id": "viper-auto-2090029320320266613",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8104959,
+    "longitude": -73.0620882,
+    "fecha": "2026-08-19T10:53:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090029320320266613"
   }
 ]
