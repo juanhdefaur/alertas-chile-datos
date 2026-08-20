@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090292109534228882",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Argentina / Itata, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.605666549999995,
-    "longitude": -72.0924703,
-    "fecha": "2026-08-20T04:17:29.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090292109534228882"
-  },
-  {
     "id": "viper-auto-2090313753619308719",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Ejercito De Chile / Puente, Chillán",
@@ -89,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2090454654815539238"
+  },
+  {
+    "id": "viper-auto-2090474645170389157",
+    "tipo": "incidente",
+    "titulo": "simulacro — Tucapel / Valencia Valle Escondido Paicaví, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8056815,
+    "longitude": -73.059515,
+    "fecha": "2026-08-20T16:22:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090474645170389157"
   }
 ]
