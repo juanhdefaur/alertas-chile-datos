@@ -128,5 +128,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2090292109534228882"
+  },
+  {
+    "id": "viper-auto-2090313753619308719",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Ejercito De Chile / Puente, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.601750499999994,
+    "longitude": -72.1151017,
+    "fecha": "2026-08-20T05:43:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090313753619308719"
   }
 ]
