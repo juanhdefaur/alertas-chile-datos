@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090228402485608749",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Rodolfo Briceño / Rosamel Del Solar - Lorenzo Arenas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.818550200000004,
-    "longitude": -73.06975725000001,
-    "fecha": "2026-08-20T00:04:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090228402485608749"
-  },
-  {
     "id": "viper-auto-2090261757147193430",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Lago Rupanco / Central Panificadores, Chillán",
