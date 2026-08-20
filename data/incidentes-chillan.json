@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090080359899689260",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Tucapel / Cochrane, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82575325,
-    "longitude": -73.04325445,
-    "fecha": "2026-08-19T14:16:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090080359899689260"
-  },
-  {
     "id": "viper-auto-2090090808825217114",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Avenida Paul Harris / Avenida Padre Alberto Hurtado, Chillán",
@@ -180,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090228402485608749"
+  },
+  {
+    "id": "viper-auto-2090261757147193430",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Lago Rupanco / Central Panificadores, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.613680450000004,
+    "longitude": -72.07861605,
+    "fecha": "2026-08-20T02:16:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090261757147193430"
   }
 ]
