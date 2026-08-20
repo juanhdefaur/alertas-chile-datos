@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2090211723860963400",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Jorge Montt / Argomedo - Lorenzo Arenas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8161633,
-    "longitude": -73.0703968,
-    "fecha": "2026-08-19T22:58:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090211723860963400"
-  },
-  {
-    "id": "viper-auto-2090213695364227518",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Rotonda Palomares, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8207239,
-    "longitude": -72.9964111,
-    "fecha": "2026-08-19T23:05:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090213695364227518"
-  },
-  {
-    "id": "viper-auto-2090212664802713829",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Jorge Montt / Argomedo - Lorenzo Arenas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8161633,
-    "longitude": -73.0703968,
-    "fecha": "2026-08-19T23:01:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090212664802713829"
-  },
-  {
     "id": "viper-auto-2090222670029746663",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Rodolfo Briceño / Rosamel Del Solar - Lorenzo Arenas, Concepción",
