@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090261757147193430",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Lago Rupanco / Central Panificadores, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.613680450000004,
-    "longitude": -72.07861605,
-    "fecha": "2026-08-20T02:16:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090261757147193430"
-  },
-  {
     "id": "viper-auto-2090292109534228882",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Avenida Argentina / Itata, Chillán",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090437791679209854"
+  },
+  {
+    "id": "viper-auto-2090446305629794565",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Gacitúa / Gaspar Marin, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6265648,
+    "longitude": -72.1197839,
+    "fecha": "2026-08-20T14:30:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090446305629794565"
   }
 ]
