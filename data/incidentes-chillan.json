@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090502182634209556"
+  },
+  {
+    "id": "viper-auto-2090551973342810574",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Avenida Alonso De Ercilla / Palermo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.62400755,
+    "longitude": -72.105998,
+    "fecha": "2026-08-20T21:30:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090551973342810574"
   }
 ]
