@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090804846538482126"
+  },
+  {
+    "id": "viper-auto-2090816914838753433",
+    "tipo": "incidente",
+    "titulo": "emergencia simulada (Simulacro) — Complejo Policial Lomas Verdes, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7996765,
+    "longitude": -73.0668752,
+    "fecha": "2026-08-21T15:02:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090816914838753433"
   }
 ]
