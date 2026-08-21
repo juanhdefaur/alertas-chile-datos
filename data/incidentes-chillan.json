@@ -13,58 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2090619776720613610"
   },
   {
-    "id": "viper-auto-2090604859984584866",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Cinco Poniente / El Olivillo, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6007778,
-    "longitude": -72.1206125,
-    "fecha": "2026-08-21T01:00:14.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090604859984584866"
-  },
-  {
-    "id": "viper-auto-2090603855486533650",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Ejercito De Chile / Leon Cazenave, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60083525,
-    "longitude": -72.11502455,
-    "fecha": "2026-08-21T00:56:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090603855486533650"
-  },
-  {
-    "id": "viper-auto-2090601166958711092",
-    "tipo": "incidente",
-    "titulo": "fuego en árbol o pastizal — Ejercito De Chile / Leon Cazenave, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60083525,
-    "longitude": -72.11502455,
-    "fecha": "2026-08-21T00:45:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090601166958711092"
-  },
-  {
-    "id": "viper-auto-2090600568242802914",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Los Notros / Los Alamos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.984580199999996,
-    "longitude": -73.16146725,
-    "fecha": "2026-08-21T00:43:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2090600568242802914"
-  },
-  {
     "id": "viper-auto-2090761610805559614",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Pasaje C / General Oscar Bonilla, Concepción",
