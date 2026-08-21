@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090761610805559614",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Pasaje C / General Oscar Bonilla, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.804792,
-    "longitude": -73.04003850000001,
-    "fecha": "2026-08-21T11:23:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090761610805559614"
-  },
-  {
     "id": "viper-auto-2090804846538482126",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Avenida Francesa / Yungay, Concepción",
@@ -154,5 +141,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090926182304710959"
+  },
+  {
+    "id": "viper-auto-2090945074557313439",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Avenida Espana / Avenida Argentina, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61450065,
+    "longitude": -72.09360179999999,
+    "fecha": "2026-08-21T23:32:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090945074557313439"
   }
 ]
