@@ -76,5 +76,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chiguayante",
     "tweetUrl": "https://x.com/CentralCBC/status/2090847355461419029"
+  },
+  {
+    "id": "viper-auto-2090887999160471602",
+    "tipo": "incidente",
+    "titulo": "Incendio de vehículo — Puren / Independencia, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.613988449999994,
+    "longitude": -72.09817935000001,
+    "fecha": "2026-08-21T19:45:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090887999160471602"
   }
 ]
