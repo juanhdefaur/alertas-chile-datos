@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090619776720613610",
-    "tipo": "incidente",
-    "titulo": "incendio dentro de un edificio — Sargento Aldea / Constitucion, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61007975,
-    "longitude": -72.09709735,
-    "fecha": "2026-08-21T01:59:31.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090619776720613610"
-  },
-  {
     "id": "viper-auto-2090761610805559614",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Pasaje C / General Oscar Bonilla, Concepción",
