@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2090446305629794565",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Gacitúa / Gaspar Marin, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6265648,
-    "longitude": -72.1197839,
-    "fecha": "2026-08-20T14:30:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090446305629794565"
-  },
-  {
-    "id": "viper-auto-2090454382307348804",
-    "tipo": "incidente",
-    "titulo": "emergencia simulada (Simulacro) — Complejo Policial Lomas Verdes, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.7996765,
-    "longitude": -73.0668752,
-    "fecha": "2026-08-20T15:02:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090454382307348804"
-  },
-  {
-    "id": "viper-auto-2090454654815539238",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Camino A Playa \"las Dolores\" / Camino Puerto Norte - Puerto Sur, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01656275,
-    "longitude": -73.53849595,
-    "fecha": "2026-08-20T15:03:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2090454654815539238"
-  },
-  {
     "id": "viper-auto-2090474645170389157",
     "tipo": "incidente",
     "titulo": "simulacro — Tucapel / Valencia Valle Escondido Paicaví, Concepción",
