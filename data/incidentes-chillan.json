@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2090508036959846455",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Puren / Carrera, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.613624099999996,
-    "longitude": -72.10801175,
-    "fecha": "2026-08-20T18:35:30.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090508036959846455"
-  },
-  {
-    "id": "viper-auto-2090502182634209556",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Chacabuco / Serrano, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.831222800000006,
-    "longitude": -73.0503472,
-    "fecha": "2026-08-20T18:12:14.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090502182634209556"
-  },
-  {
     "id": "viper-auto-2090551973342810574",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Avenida Alonso De Ercilla / Palermo, Chillán",
