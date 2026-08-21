@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2090439271962268002",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Angol / Avenida Chacabuco, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.829466,
-    "longitude": -73.04748925000001,
-    "fecha": "2026-08-20T14:02:15.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090439271962268002"
-  },
-  {
-    "id": "viper-auto-2090437791679209854",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Camilo Henríquez / Andalien - Chillancito, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.806347349999996,
-    "longitude": -73.03055275,
-    "fecha": "2026-08-20T13:56:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090437791679209854"
-  },
-  {
     "id": "viper-auto-2090446305629794565",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Gacitúa / Gaspar Marin, Chillán Viejo",
@@ -115,5 +89,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2090551973342810574"
+  },
+  {
+    "id": "viper-auto-2090619776720613610",
+    "tipo": "incidente",
+    "titulo": "incendio dentro de un edificio — Sargento Aldea / Constitucion, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61007975,
+    "longitude": -72.09709735,
+    "fecha": "2026-08-21T01:59:31.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090619776720613610"
+  },
+  {
+    "id": "viper-auto-2090604859984584866",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Cinco Poniente / El Olivillo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6007778,
+    "longitude": -72.1206125,
+    "fecha": "2026-08-21T01:00:14.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090604859984584866"
+  },
+  {
+    "id": "viper-auto-2090603855486533650",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Ejercito De Chile / Leon Cazenave, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60083525,
+    "longitude": -72.11502455,
+    "fecha": "2026-08-21T00:56:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090603855486533650"
+  },
+  {
+    "id": "viper-auto-2090601166958711092",
+    "tipo": "incidente",
+    "titulo": "fuego en árbol o pastizal — Ejercito De Chile / Leon Cazenave, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60083525,
+    "longitude": -72.11502455,
+    "fecha": "2026-08-21T00:45:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090601166958711092"
+  },
+  {
+    "id": "viper-auto-2090600568242802914",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Los Notros / Los Alamos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.984580199999996,
+    "longitude": -73.16146725,
+    "fecha": "2026-08-21T00:43:11.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2090600568242802914"
   }
 ]
