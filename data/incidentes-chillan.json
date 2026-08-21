@@ -102,5 +102,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090893680701772212"
+  },
+  {
+    "id": "viper-auto-2090905451697197431",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Janequeo / O'higgins, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8264104,
+    "longitude": -73.04244005000001,
+    "fecha": "2026-08-21T20:54:41.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090905451697197431"
+  },
+  {
+    "id": "viper-auto-2090901657185865760",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Anibal Pinto / San Martin, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.83012965,
+    "longitude": -73.0486746,
+    "fecha": "2026-08-21T20:39:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090901657185865760"
   }
 ]
