@@ -128,5 +128,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090901657185865760"
+  },
+  {
+    "id": "viper-auto-2090919502053613646",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Cochrane / Trinitarias, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.829991699999994,
+    "longitude": -73.04879685,
+    "fecha": "2026-08-21T21:50:31.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090919502053613646"
   }
 ]
