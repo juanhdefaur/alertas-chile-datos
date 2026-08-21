@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090474645170389157",
-    "tipo": "incidente",
-    "titulo": "simulacro — Tucapel / Valencia Valle Escondido Paicaví, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8056815,
-    "longitude": -73.059515,
-    "fecha": "2026-08-20T16:22:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090474645170389157"
-  },
-  {
     "id": "viper-auto-2090508036959846455",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Puren / Carrera, Chillán",
