@@ -37,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090816914838753433"
+  },
+  {
+    "id": "viper-auto-2090840614224978395",
+    "tipo": "incidente",
+    "titulo": "fuego en árbol o pastizal — Ongolmo / Avenida Manuel Rodriguez, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8158303,
+    "longitude": -73.048136,
+    "fecha": "2026-08-21T16:37:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090840614224978395"
   }
 ]
