@@ -89,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2090887999160471602"
+  },
+  {
+    "id": "viper-auto-2090893680701772212",
+    "tipo": "incidente",
+    "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Santa Lucia / Avenida Pedro De Valdivia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.849949550000005,
+    "longitude": -73.0506505,
+    "fecha": "2026-08-21T20:07:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2090893680701772212"
   }
 ]
