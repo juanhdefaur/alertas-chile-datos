@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2090905451697197431"
   },
   {
-    "id": "viper-auto-2090901657185865760",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Anibal Pinto / San Martin, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.83012965,
-    "longitude": -73.0486746,
-    "fecha": "2026-08-21T20:39:36.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090901657185865760"
-  },
-  {
     "id": "viper-auto-2090919502053613646",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Cochrane / Trinitarias, Concepción",
