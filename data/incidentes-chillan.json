@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090816914838753433",
-    "tipo": "incidente",
-    "titulo": "emergencia simulada (Simulacro) — Complejo Policial Lomas Verdes, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.7996765,
-    "longitude": -73.0668752,
-    "fecha": "2026-08-21T15:02:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090816914838753433"
-  },
-  {
     "id": "viper-auto-2090840614224978395",
     "tipo": "incidente",
     "titulo": "fuego en árbol o pastizal — Ongolmo / Avenida Manuel Rodriguez, Concepción",
