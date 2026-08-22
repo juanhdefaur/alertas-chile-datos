@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090804846538482126",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Francesa / Yungay, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8452848,
-    "longitude": -73.04980384999999,
-    "fecha": "2026-08-21T14:14:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090804846538482126"
-  },
-  {
     "id": "viper-auto-2090816914838753433",
     "tipo": "incidente",
     "titulo": "emergencia simulada (Simulacro) — Complejo Policial Lomas Verdes, Concepción",
