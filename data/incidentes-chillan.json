@@ -154,5 +154,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2090945074557313439"
+  },
+  {
+    "id": "viper-auto-2090947540585742832",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Avenida Mariscal Ruiz De Gamboa / Corregidor Alvarado, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6148899,
+    "longitude": -72.1277343,
+    "fecha": "2026-08-21T23:41:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2090947540585742832"
   }
 ]
