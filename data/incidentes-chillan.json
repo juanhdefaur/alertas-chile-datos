@@ -167,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2090954978470904134"
+  },
+  {
+    "id": "viper-auto-2091043363017404856",
+    "tipo": "incidente",
+    "titulo": "emergencia por fuego en un vehículo — Camino Estero Portugal / Ruta O-852, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.04367365,
+    "longitude": -73.04411435,
+    "fecha": "2026-08-22T06:02:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2091043363017404856"
   }
 ]
