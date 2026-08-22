@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090926182304710959",
-    "tipo": "incidente",
-    "titulo": "Incendio estructural — Vicuña Mackenna / Vicuna Mackenna, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8027766,
-    "longitude": -73.0333495,
-    "fecha": "2026-08-21T22:17:04.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090926182304710959"
-  },
-  {
     "id": "viper-auto-2090945074557313439",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Avenida Espana / Avenida Argentina, Chillán",
