@@ -115,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2091286889722454214"
+  },
+  {
+    "id": "viper-auto-2091295033592795176",
+    "tipo": "incidente",
+    "titulo": "Incendio de árbol o vegetación — Ruta N-48-o / Ruta O-678, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8312969,
+    "longitude": -72.91769145,
+    "fecha": "2026-08-22T22:42:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091295033592795176"
   }
 ]
