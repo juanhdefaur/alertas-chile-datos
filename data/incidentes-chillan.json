@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090887999160471602",
-    "tipo": "incidente",
-    "titulo": "Incendio de vehículo — Puren / Independencia, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.613988449999994,
-    "longitude": -72.09817935000001,
-    "fecha": "2026-08-21T19:45:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2090887999160471602"
-  },
-  {
     "id": "viper-auto-2090893680701772212",
     "tipo": "incidente",
     "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Santa Lucia / Avenida Pedro De Valdivia, Concepción",
@@ -180,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2091043363017404856"
+  },
+  {
+    "id": "viper-auto-2091062348228296848",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Rio Viejo / Camino Nuevo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63141455,
+    "longitude": -72.083422,
+    "fecha": "2026-08-22T07:18:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091062348228296848"
   }
 ]
