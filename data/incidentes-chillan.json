@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091043363017404856",
-    "tipo": "incidente",
-    "titulo": "emergencia por fuego en un vehículo — Camino Estero Portugal / Ruta O-852, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.04367365,
-    "longitude": -73.04411435,
-    "fecha": "2026-08-22T06:02:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2091043363017404856"
-  },
-  {
     "id": "viper-auto-2091062348228296848",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Rio Viejo / Camino Nuevo, Chillán",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2091205359780192325"
+  },
+  {
+    "id": "viper-auto-2091226190136688768",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — 18 De Septiembre / Arturo Prat, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6113409,
+    "longitude": -72.10590540000001,
+    "fecha": "2026-08-22T18:09:11.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091226190136688768"
   }
 ]
