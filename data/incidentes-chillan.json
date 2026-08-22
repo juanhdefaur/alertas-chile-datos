@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2090893680701772212",
-    "tipo": "incidente",
-    "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Santa Lucia / Avenida Pedro De Valdivia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.849949550000005,
-    "longitude": -73.0506505,
-    "fecha": "2026-08-21T20:07:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090893680701772212"
-  },
-  {
     "id": "viper-auto-2090905451697197431",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Janequeo / O'higgins, Concepción",
