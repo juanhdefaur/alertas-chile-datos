@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2090850963691061378",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Navío San Martín / Pedro Angulo Novoa, Chiguayante",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9318139,
-    "longitude": -73.028614,
-    "fecha": "2026-08-21T17:18:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chiguayante",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090850963691061378"
-  },
-  {
-    "id": "viper-auto-2090847355461419029",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Navío San Martín / Pedro Angulo Novoa, Chiguayante",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.9318139,
-    "longitude": -73.028614,
-    "fecha": "2026-08-21T17:03:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chiguayante",
-    "tweetUrl": "https://x.com/CentralCBC/status/2090847355461419029"
-  },
-  {
     "id": "viper-auto-2090887999160471602",
     "tipo": "incidente",
     "titulo": "Incendio de vehículo — Puren / Independencia, Chillán",
