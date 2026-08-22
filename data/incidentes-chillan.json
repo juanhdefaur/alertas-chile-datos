@@ -63,5 +63,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de San Pedro De La Paz",
     "tweetUrl": "https://x.com/CentralCBC/status/2091240705607831615"
+  },
+  {
+    "id": "viper-auto-2091258490903818282",
+    "tipo": "incidente",
+    "titulo": "emergencia — Juan Francisco Rugendas / Los Trigales, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.2220552,
+    "longitude": -71.4099104,
+    "fecha": "2026-08-22T20:17:32.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2091258490903818282"
+  },
+  {
+    "id": "viper-auto-2091253392584708330",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Cerro Grande, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9385018,
+    "longitude": -71.2230712,
+    "fecha": "2026-08-22T19:57:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2091253392584708330"
   }
 ]
