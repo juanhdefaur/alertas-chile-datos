@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091269848042983561"
+  },
+  {
+    "id": "viper-auto-2091286889722454214",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Inglaterra / Portugal, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.980564,
+    "longitude": -71.3297959,
+    "fecha": "2026-08-22T22:10:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2091286889722454214"
   }
 ]
