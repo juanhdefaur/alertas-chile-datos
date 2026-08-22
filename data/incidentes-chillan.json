@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091062348228296848",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Rio Viejo / Camino Nuevo, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63141455,
-    "longitude": -72.083422,
-    "fecha": "2026-08-22T07:18:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091062348228296848"
-  },
-  {
     "id": "viper-auto-2091161125702307845",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — La Republica / Los Regidores, Chillán Viejo",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2091226190136688768"
+  },
+  {
+    "id": "viper-auto-2091240705607831615",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Los Canelos / Los Aromos, San Pedro De La Paz",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.843295499999996,
+    "longitude": -73.0998133,
+    "fecha": "2026-08-22T19:06:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de San Pedro De La Paz",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091240705607831615"
   }
 ]
