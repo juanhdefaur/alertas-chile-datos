@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2091062348228296848"
+  },
+  {
+    "id": "viper-auto-2091161125702307845",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — La Republica / Los Regidores, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.630120149999996,
+    "longitude": -72.10885545,
+    "fecha": "2026-08-22T13:50:38.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091161125702307845"
   }
 ]
