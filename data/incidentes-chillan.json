@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091269848042983561",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Malleco / Pasaje Villarrica, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80952365,
-    "longitude": -73.037971,
-    "fecha": "2026-08-22T21:02:40.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091269848042983561"
-  },
-  {
     "id": "viper-auto-2091286889722454214",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Inglaterra / Portugal, Coquimbo",
