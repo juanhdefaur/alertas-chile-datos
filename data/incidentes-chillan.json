@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091226190136688768",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — 18 De Septiembre / Arturo Prat, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6113409,
-    "longitude": -72.10590540000001,
-    "fecha": "2026-08-22T18:09:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091226190136688768"
-  },
-  {
     "id": "viper-auto-2091240705607831615",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Los Canelos / Los Aromos, San Pedro De La Paz",
