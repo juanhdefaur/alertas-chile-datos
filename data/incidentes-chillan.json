@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091240705607831615",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Los Canelos / Los Aromos, San Pedro De La Paz",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.843295499999996,
-    "longitude": -73.0998133,
-    "fecha": "2026-08-22T19:06:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de San Pedro De La Paz",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091240705607831615"
-  },
-  {
     "id": "viper-auto-2091258490903818282",
     "tipo": "incidente",
     "titulo": "emergencia — Juan Francisco Rugendas / Los Trigales, Coquimbo",
