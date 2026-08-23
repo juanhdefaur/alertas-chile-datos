@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091438342948667614",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Mariano Egana / Marchant, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6212735,
-    "longitude": -72.1282307,
-    "fecha": "2026-08-23T08:12:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091438342948667614"
-  },
-  {
     "id": "viper-auto-2091518148042203352",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
