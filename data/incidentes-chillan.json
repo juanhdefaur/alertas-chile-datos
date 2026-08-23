@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2091258490903818282",
-    "tipo": "incidente",
-    "titulo": "emergencia — Juan Francisco Rugendas / Los Trigales, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -30.2220552,
-    "longitude": -71.4099104,
-    "fecha": "2026-08-22T20:17:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2091258490903818282"
-  },
-  {
-    "id": "viper-auto-2091253392584708330",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Cerro Grande, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9385018,
-    "longitude": -71.2230712,
-    "fecha": "2026-08-22T19:57:17.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2091253392584708330"
-  },
-  {
     "id": "viper-auto-2091269848042983561",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Malleco / Pasaje Villarrica, Concepción",
@@ -76,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2091314339630248305"
+  },
+  {
+    "id": "viper-auto-2091438342948667614",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Mariano Egana / Marchant, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6212735,
+    "longitude": -72.1282307,
+    "fecha": "2026-08-23T08:12:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091438342948667614"
   }
 ]
