@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2091438342948667614"
+  },
+  {
+    "id": "viper-auto-2091518148042203352",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8104959,
+    "longitude": -73.0620882,
+    "fecha": "2026-08-23T13:29:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091518148042203352"
   }
 ]
