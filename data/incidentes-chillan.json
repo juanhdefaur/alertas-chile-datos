@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091314339630248305",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Argentina / Avenida Collin, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61528575,
-    "longitude": -72.1003054,
-    "fecha": "2026-08-22T23:59:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091314339630248305"
-  },
-  {
     "id": "viper-auto-2091438342948667614",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Mariano Egana / Marchant, Chillán Viejo",
