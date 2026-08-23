@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091636867506598360"
+  },
+  {
+    "id": "viper-auto-2091666733991899139",
+    "tipo": "incidente",
+    "titulo": "fuego en árbol o pastizal — Arturo Prat / Chacabuco Poniente, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82988345,
+    "longitude": -73.0590854,
+    "fecha": "2026-08-23T23:19:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091666733991899139"
   }
 ]
