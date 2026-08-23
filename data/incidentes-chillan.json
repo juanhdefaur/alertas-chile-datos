@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091205359780192325",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Sotomayor / Freire, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02879725,
-    "longitude": -73.1454224,
-    "fecha": "2026-08-22T16:46:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2091205359780192325"
-  },
-  {
     "id": "viper-auto-2091226190136688768",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — 18 De Septiembre / Arturo Prat, Chillán",
