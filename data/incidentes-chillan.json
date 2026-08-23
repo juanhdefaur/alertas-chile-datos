@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091184404127244377",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Bartolomé Del Pozo / Calle Del Cerro, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.79368615,
-    "longitude": -73.04170930000001,
-    "fecha": "2026-08-22T15:23:08.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091184404127244377"
-  },
-  {
     "id": "viper-auto-2091205359780192325",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Sotomayor / Freire, Coronel",
