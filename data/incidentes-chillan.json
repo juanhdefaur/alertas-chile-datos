@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091518148042203352"
+  },
+  {
+    "id": "viper-auto-2091636867506598360",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Los Copihues / Pasaje 7, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80487935,
+    "longitude": -73.02684415,
+    "fecha": "2026-08-23T21:21:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091636867506598360"
   }
 ]
