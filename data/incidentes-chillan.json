@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091518148042203352",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8104959,
-    "longitude": -73.0620882,
-    "fecha": "2026-08-23T13:29:19.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091518148042203352"
-  },
-  {
     "id": "viper-auto-2091636867506598360",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Los Copihues / Pasaje 7, Concepción",
