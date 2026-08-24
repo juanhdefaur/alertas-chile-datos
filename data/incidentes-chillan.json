@@ -115,5 +115,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091978489322688648"
+  },
+  {
+    "id": "viper-auto-2092017400526917694",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Avenida Vicente Mendez / Avenida Paul Harris, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.591794300000004,
+    "longitude": -72.08439115,
+    "fecha": "2026-08-24T22:33:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092017400526917694"
+  },
+  {
+    "id": "viper-auto-2092014309853323552",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Constitucion / Independencia, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60763485,
+    "longitude": -72.09534865,
+    "fecha": "2026-08-24T22:20:53.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092014309853323552"
   }
 ]
