@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091931120652685797"
+  },
+  {
+    "id": "viper-auto-2091944304239415777",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Camilo Henriquez / Luis Hermosilla, Coihueco",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.624731499999996,
+    "longitude": -71.8297906,
+    "fecha": "2026-08-24T17:42:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coihueco",
+    "tweetUrl": "https://x.com/cbcoihueco/status/2091944304239415777"
   }
 ]
