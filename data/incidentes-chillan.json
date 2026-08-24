@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091666733991899139"
+  },
+  {
+    "id": "viper-auto-2091723500075491781",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Arica / Zanartu, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.605238299999996,
+    "longitude": -72.12365125,
+    "fecha": "2026-08-24T03:05:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091723500075491781"
   }
 ]
