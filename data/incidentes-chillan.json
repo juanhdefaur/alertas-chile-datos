@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de La Serena",
     "tweetUrl": "https://x.com/central_cbc/status/2091970940221468921"
+  },
+  {
+    "id": "viper-auto-2091978489322688648",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — San Martín / Lautaro, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82374865,
+    "longitude": -73.0399296,
+    "fecha": "2026-08-24T19:58:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091978489322688648"
   }
 ]
