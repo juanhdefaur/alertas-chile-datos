@@ -37,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091908877172269268"
+  },
+  {
+    "id": "viper-auto-2091931120652685797",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida Pedro De Valdivia / Sanders, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.85479065,
+    "longitude": -73.0494186,
+    "fecha": "2026-08-24T16:50:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091931120652685797"
   }
 ]
