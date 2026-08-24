@@ -76,5 +76,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2091961567210319916"
+  },
+  {
+    "id": "viper-auto-2091971779623276599",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriela Mistral / Los Arrayanes, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9425642,
+    "longitude": -71.25199755,
+    "fecha": "2026-08-24T19:31:53.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2091971779623276599"
+  },
+  {
+    "id": "viper-auto-2091970940221468921",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriela Mistral / Los Arrayanes, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9425642,
+    "longitude": -71.25199755,
+    "fecha": "2026-08-24T19:28:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2091970940221468921"
   }
 ]
