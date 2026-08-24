@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coihueco",
     "tweetUrl": "https://x.com/cbcoihueco/status/2091944304239415777"
+  },
+  {
+    "id": "viper-auto-2091961567210319916",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Miguel De Unamuno / Gregorio Maranon, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.801897,
+    "longitude": -73.04667055,
+    "fecha": "2026-08-24T18:51:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2091961567210319916"
   }
 ]
