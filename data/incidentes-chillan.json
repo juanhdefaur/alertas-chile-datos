@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2091723500075491781"
+  },
+  {
+    "id": "viper-auto-2091888441596211640",
+    "tipo": "incidente",
+    "titulo": "emergencia simulada (Simulacro) — Caupolican / Lincoyan, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.626488699999996,
+    "longitude": -72.09355835,
+    "fecha": "2026-08-24T14:00:44.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2091888441596211640"
   }
 ]
