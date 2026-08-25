@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2091971779623276599",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriela Mistral / Los Arrayanes, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9425642,
-    "longitude": -71.25199755,
-    "fecha": "2026-08-24T19:31:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2091971779623276599"
-  },
-  {
-    "id": "viper-auto-2091970940221468921",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriela Mistral / Los Arrayanes, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9425642,
-    "longitude": -71.25199755,
-    "fecha": "2026-08-24T19:28:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2091970940221468921"
-  },
-  {
-    "id": "viper-auto-2091978489322688648",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — San Martín / Lautaro, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82374865,
-    "longitude": -73.0399296,
-    "fecha": "2026-08-24T19:58:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091978489322688648"
-  },
-  {
     "id": "viper-auto-2092017400526917694",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Avenida Vicente Mendez / Avenida Paul Harris, Chillán",
