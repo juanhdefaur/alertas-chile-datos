@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092103329597792583",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Enrique Bunster / Pasaje Julio Cortazar, San Pedro De La Paz",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.85476775,
-    "longitude": -73.14046745,
-    "fecha": "2026-08-25T04:14:37.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de San Pedro De La Paz",
-    "tweetUrl": "https://x.com/centralcor132/status/2092103329597792583"
-  },
-  {
     "id": "viper-auto-2092201549061579170",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
