@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2091906610557772266",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Constitucion / Mariscal Ruiz De Gamboa, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60585825,
-    "longitude": -72.11091765,
-    "fecha": "2026-08-24T15:12:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091906610557772266"
-  },
-  {
-    "id": "viper-auto-2091908877172269268",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Ongolmo / O'higgins, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82636485,
-    "longitude": -73.04395625000001,
-    "fecha": "2026-08-24T15:21:56.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2091908877172269268"
-  },
-  {
     "id": "viper-auto-2091931120652685797",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Avenida Pedro De Valdivia / Sanders, Concepción",
@@ -167,5 +141,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2092066127933301109"
+  },
+  {
+    "id": "viper-auto-2092086084993794378",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida Ignacio Collao / Chacabuco, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.815169600000004,
+    "longitude": -73.02966045,
+    "fecha": "2026-08-25T03:06:06.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092086084993794378"
   }
 ]
