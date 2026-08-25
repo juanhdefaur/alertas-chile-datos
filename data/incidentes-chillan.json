@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2091888441596211640",
-    "tipo": "incidente",
-    "titulo": "emergencia simulada (Simulacro) — Caupolican / Lincoyan, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.626488699999996,
-    "longitude": -72.09355835,
-    "fecha": "2026-08-24T14:00:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2091888441596211640"
-  },
-  {
     "id": "viper-auto-2091906610557772266",
     "tipo": "incidente",
     "titulo": "emergencia No Clasificada — Constitucion / Mariscal Ruiz De Gamboa, Chillán",
@@ -167,5 +154,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2092063698437251291"
+  },
+  {
+    "id": "viper-auto-2092066127933301109",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — O-690 / Puente Seguel, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8499649,
+    "longitude": -73.00399055,
+    "fecha": "2026-08-25T01:46:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092066127933301109"
   }
 ]
