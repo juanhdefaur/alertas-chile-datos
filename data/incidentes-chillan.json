@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2092017400526917694",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Avenida Vicente Mendez / Avenida Paul Harris, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.591794300000004,
-    "longitude": -72.08439115,
-    "fecha": "2026-08-24T22:33:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092017400526917694"
-  },
-  {
-    "id": "viper-auto-2092021626967568714",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Maipon / Sargento Aldea, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61131685,
-    "longitude": -72.09750915000001,
-    "fecha": "2026-08-24T22:49:58.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092021626967568714"
-  },
-  {
     "id": "viper-auto-2092063698437251291",
     "tipo": "incidente",
     "titulo": "Incendio de árbol o vegetación — Independencia / Eduardo Frei, Concepción",
@@ -76,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de San Pedro De La Paz",
     "tweetUrl": "https://x.com/centralcor132/status/2092103329597792583"
+  },
+  {
+    "id": "viper-auto-2092201549061579170",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8104959,
+    "longitude": -73.0620882,
+    "fecha": "2026-08-25T10:44:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092201549061579170"
   }
 ]
