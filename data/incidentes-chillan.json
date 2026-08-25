@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092086084993794378",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Ignacio Collao / Chacabuco, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.815169600000004,
-    "longitude": -73.02966045,
-    "fecha": "2026-08-25T03:06:06.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092086084993794378"
-  },
-  {
     "id": "viper-auto-2092103329597792583",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Enrique Bunster / Pasaje Julio Cortazar, San Pedro De La Paz",
@@ -76,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2092241566056288496"
+  },
+  {
+    "id": "viper-auto-2092277942478864731",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — 21 De Mayo / Covadonga, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.874979250000003,
+    "longitude": -71.24466115,
+    "fecha": "2026-08-25T15:48:28.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2092277942478864731"
   }
 ]
