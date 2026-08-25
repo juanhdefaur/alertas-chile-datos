@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2092017400526917694"
   },
   {
-    "id": "viper-auto-2092014309853323552",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Constitucion / Independencia, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60763485,
-    "longitude": -72.09534865,
-    "fecha": "2026-08-24T22:20:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092014309853323552"
-  },
-  {
     "id": "viper-auto-2092021626967568714",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Maipon / Sargento Aldea, Chillán",
