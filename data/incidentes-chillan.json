@@ -102,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2092367705588289648"
+  },
+  {
+    "id": "viper-auto-2092395668941701260",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Diego De Almagro / Luis Vicentini, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.597832600000004,
+    "longitude": -72.09284869999999,
+    "fecha": "2026-08-25T23:36:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092395668941701260"
   }
 ]
