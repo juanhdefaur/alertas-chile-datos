@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2092277942478864731"
+  },
+  {
+    "id": "viper-auto-2092299846946304471",
+    "tipo": "incidente",
+    "titulo": "emergencia — Camino Nonguén / Central, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.842433549999996,
+    "longitude": -73.0084582,
+    "fecha": "2026-08-25T17:15:31.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092299846946304471"
   }
 ]
