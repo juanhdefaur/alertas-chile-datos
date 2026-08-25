@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2092063698437251291",
-    "tipo": "incidente",
-    "titulo": "Incendio de árbol o vegetación — Independencia / Eduardo Frei, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.801903749999994,
-    "longitude": -73.0547092,
-    "fecha": "2026-08-25T01:37:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092063698437251291"
-  },
-  {
-    "id": "viper-auto-2092066127933301109",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — O-690 / Puente Seguel, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8499649,
-    "longitude": -73.00399055,
-    "fecha": "2026-08-25T01:46:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092066127933301109"
-  },
-  {
     "id": "viper-auto-2092086084993794378",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Avenida Ignacio Collao / Chacabuco, Concepción",
@@ -89,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán Viejo",
     "tweetUrl": "https://x.com/bomberoschillan/status/2092223971466830325"
+  },
+  {
+    "id": "viper-auto-2092241566056288496",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Avenida Paul Harris / La Espiga, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5901789,
+    "longitude": -72.08544484999999,
+    "fecha": "2026-08-25T13:23:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092241566056288496"
   }
 ]
