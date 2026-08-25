@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092201549061579170",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Almirante Riveros Norte / Almirante Riveros Norte, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8104959,
-    "longitude": -73.0620882,
-    "fecha": "2026-08-25T10:44:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092201549061579170"
-  },
-  {
     "id": "viper-auto-2092230296531775943",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Calle 1 / La Llanura, Chillán",
