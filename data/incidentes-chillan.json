@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2092230296531775943"
   },
   {
-    "id": "viper-auto-2092223971466830325",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Autopista Del Itata, Km 1, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6588035,
-    "longitude": -72.2953075,
-    "fecha": "2026-08-25T12:14:01.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092223971466830325"
-  },
-  {
     "id": "viper-auto-2092241566056288496",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Avenida Paul Harris / La Espiga, Chillán",
@@ -115,5 +102,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2092395668941701260"
+  },
+  {
+    "id": "viper-auto-2092403372343144726",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Avenida Libertador Bernardo O'higgins / Avenida Francia, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5926566,
+    "longitude": -72.1034104,
+    "fecha": "2026-08-26T00:06:53.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092403372343144726"
+  },
+  {
+    "id": "viper-auto-2092390851418763578",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Diego De Almagro / Luis Vicentini, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.597832600000004,
+    "longitude": -72.09284869999999,
+    "fecha": "2026-08-25T23:17:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092390851418763578"
+  },
+  {
+    "id": "viper-auto-2092403487900389620",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Molineros / Los Araucanos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.99133525,
+    "longitude": -73.17187605,
+    "fecha": "2026-08-26T00:07:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2092403487900389620"
   }
 ]
