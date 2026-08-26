@@ -76,5 +76,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2092634718915203119"
+  },
+  {
+    "id": "viper-auto-2092701473192686067",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Juan De Dios Rivera / Pasaje 14, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80594065,
+    "longitude": -73.04324255,
+    "fecha": "2026-08-26T19:51:26.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092701473192686067"
+  },
+  {
+    "id": "viper-auto-2092704916582076624",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Los Robles / Los Notros, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.98463855,
+    "longitude": -73.1625554,
+    "fecha": "2026-08-26T20:05:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2092704916582076624"
   }
 ]
