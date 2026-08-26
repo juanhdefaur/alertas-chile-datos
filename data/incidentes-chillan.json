@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2092230296531775943",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Calle 1 / La Llanura, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.597714499999995,
-    "longitude": -72.11704470000001,
-    "fecha": "2026-08-25T12:39:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092230296531775943"
-  },
-  {
-    "id": "viper-auto-2092241566056288496",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Avenida Paul Harris / La Espiga, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5901789,
-    "longitude": -72.08544484999999,
-    "fecha": "2026-08-25T13:23:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092241566056288496"
-  },
-  {
     "id": "viper-auto-2092277942478864731",
     "tipo": "incidente",
     "titulo": "emergencia No Clasificada — 21 De Mayo / Covadonga, Coquimbo",
@@ -141,5 +115,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2092403487900389620"
+  },
+  {
+    "id": "viper-auto-2092416414132891923",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida Libertador Bernardo O'higgins / Las Palmas, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5734471,
+    "longitude": -72.1005383,
+    "fecha": "2026-08-26T00:58:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092416414132891923"
+  },
+  {
+    "id": "viper-auto-2092408888708530671",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Vega De Saldias / Claudio Arrau, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60420845,
+    "longitude": -72.1065791,
+    "fecha": "2026-08-26T00:28:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092408888708530671"
+  },
+  {
+    "id": "viper-auto-2092429375392116855",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Las Heras / Sarmiento, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.816024850000005,
+    "longitude": -73.03681234999999,
+    "fecha": "2026-08-26T01:50:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092429375392116855"
+  },
+  {
+    "id": "viper-auto-2092414488578252988",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino El Patagual / Ruta O-852, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0339268,
+    "longitude": -73.03679840000001,
+    "fecha": "2026-08-26T00:51:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2092414488578252988"
+  },
+  {
+    "id": "viper-auto-2092412677972770914",
+    "tipo": "incidente",
+    "titulo": "inundacion en vivienda — Los Molineros / Los Araucanos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.99133525,
+    "longitude": -73.17187605,
+    "fecha": "2026-08-26T00:43:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2092412677972770914"
   }
 ]
