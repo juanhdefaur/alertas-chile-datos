@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2092492074620776817",
-    "tipo": "incidente",
-    "titulo": "Incendio en edificio — Galvarino / O'higgins, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8242496,
-    "longitude": -73.04011235,
-    "fecha": "2026-08-26T05:59:21.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092492074620776817"
-  },
-  {
-    "id": "viper-auto-2092497203596009977",
-    "tipo": "incidente",
-    "titulo": "Incendio en edificio — Galvarino / O'higgins, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82228655,
-    "longitude": -73.04341325,
-    "fecha": "2026-08-26T06:19:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092497203596009977"
-  },
-  {
     "id": "viper-auto-2092570740474232966",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Miraflores / Alejandro Vi, Concepción",
