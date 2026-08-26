@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092277942478864731",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — 21 De Mayo / Covadonga, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.874979250000003,
-    "longitude": -71.24466115,
-    "fecha": "2026-08-25T15:48:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2092277942478864731"
-  },
-  {
     "id": "viper-auto-2092299846946304471",
     "tipo": "incidente",
     "titulo": "emergencia — Camino Nonguén / Central, Concepción",
