@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092307976673501434",
-    "tipo": "incidente",
-    "titulo": "Rescate Animal — Rodolfo Briceño / Rosamel Del Solar, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.818550200000004,
-    "longitude": -73.06975725000001,
-    "fecha": "2026-08-25T17:47:49.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092307976673501434"
-  },
-  {
     "id": "viper-auto-2092367705588289648",
     "tipo": "incidente",
     "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
@@ -180,5 +167,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2092467863873266039"
+  },
+  {
+    "id": "viper-auto-2092492074620776817",
+    "tipo": "incidente",
+    "titulo": "Incendio en edificio — Galvarino / O'higgins, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8242496,
+    "longitude": -73.04011235,
+    "fecha": "2026-08-26T05:59:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092492074620776817"
   }
 ]
