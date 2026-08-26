@@ -193,5 +193,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Hualpén",
     "tweetUrl": "https://x.com/CentralCBC/status/2092440775506251999"
+  },
+  {
+    "id": "viper-auto-2092467863873266039",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Los Carrera / Lota, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.033314399999995,
+    "longitude": -73.1451823,
+    "fecha": "2026-08-26T04:23:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2092467863873266039"
   }
 ]
