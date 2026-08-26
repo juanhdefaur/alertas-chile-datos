@@ -180,5 +180,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2092412677972770914"
+  },
+  {
+    "id": "viper-auto-2092445323473846528",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Sabadell / Palermo, Hualpén",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.793785,
+    "longitude": -73.099395,
+    "fecha": "2026-08-26T02:53:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Hualpén",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092445323473846528"
+  },
+  {
+    "id": "viper-auto-2092440775506251999",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Sabadell / Palermo, Hualpén",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.793785,
+    "longitude": -73.099395,
+    "fecha": "2026-08-26T02:35:31.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Hualpén",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092440775506251999"
   }
 ]
