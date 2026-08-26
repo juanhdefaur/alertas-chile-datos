@@ -180,5 +180,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2092497203596009977"
+  },
+  {
+    "id": "viper-auto-2092570740474232966",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Miraflores / Alejandro Vi, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.815782049999996,
+    "longitude": -73.07884915,
+    "fecha": "2026-08-26T11:11:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092570740474232966"
   }
 ]
