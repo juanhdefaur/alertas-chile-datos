@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092467863873266039",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Los Carrera / Lota, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.033314399999995,
-    "longitude": -73.1451823,
-    "fecha": "2026-08-26T04:23:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2092467863873266039"
-  },
-  {
     "id": "viper-auto-2092492074620776817",
     "tipo": "incidente",
     "titulo": "Incendio en edificio — Galvarino / O'higgins, Concepción",
@@ -102,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2092598604577861835"
+  },
+  {
+    "id": "viper-auto-2092634718915203119",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Francisco Cabello Cardenas / Demetrio Eusquiza Oriente, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.994806850000003,
+    "longitude": -71.32847265,
+    "fecha": "2026-08-26T15:26:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2092634718915203119"
   }
 ]
