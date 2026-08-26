@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092570740474232966",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Miraflores / Alejandro Vi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.815782049999996,
-    "longitude": -73.07884915,
-    "fecha": "2026-08-26T11:11:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092570740474232966"
-  },
-  {
     "id": "viper-auto-2092590908910805041",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
@@ -102,5 +89,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2092704916582076624"
+  },
+  {
+    "id": "viper-auto-2092719269087711368",
+    "tipo": "incidente",
+    "titulo": "simulacro — Isabel Riquelme / Vega De Saldias, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60395235,
+    "longitude": -72.0993953,
+    "fecha": "2026-08-26T21:02:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092719269087711368"
+  },
+  {
+    "id": "viper-auto-2092711064957857893",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Avenida Argentina / Puren, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61540585,
+    "longitude": -72.09703485,
+    "fecha": "2026-08-26T20:29:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092711064957857893"
   }
 ]
