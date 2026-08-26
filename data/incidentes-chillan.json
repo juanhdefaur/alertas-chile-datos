@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2092367705588289648",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Juan Mackay / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0230583,
-    "longitude": -73.15501615,
-    "fecha": "2026-08-25T21:45:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2092367705588289648"
-  },
-  {
     "id": "viper-auto-2092395668941701260",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Diego De Almagro / Luis Vicentini, Chillán",
