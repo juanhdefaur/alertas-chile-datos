@@ -1,57 +1,5 @@
 [
   {
-    "id": "viper-auto-2092403372343144726",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Avenida Libertador Bernardo O'higgins / Avenida Francia, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5926566,
-    "longitude": -72.1034104,
-    "fecha": "2026-08-26T00:06:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092403372343144726"
-  },
-  {
-    "id": "viper-auto-2092403487900389620",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Araucanos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.99133525,
-    "longitude": -73.17187605,
-    "fecha": "2026-08-26T00:07:21.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2092403487900389620"
-  },
-  {
-    "id": "viper-auto-2092416414132891923",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Libertador Bernardo O'higgins / Las Palmas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5734471,
-    "longitude": -72.1005383,
-    "fecha": "2026-08-26T00:58:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092416414132891923"
-  },
-  {
-    "id": "viper-auto-2092408888708530671",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Vega De Saldias / Claudio Arrau, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60420845,
-    "longitude": -72.1065791,
-    "fecha": "2026-08-26T00:28:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092408888708530671"
-  },
-  {
     "id": "viper-auto-2092429375392116855",
     "tipo": "incidente",
     "titulo": "Incendio estructural — Las Heras / Sarmiento, Concepción",
@@ -63,32 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2092429375392116855"
-  },
-  {
-    "id": "viper-auto-2092414488578252988",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino El Patagual / Ruta O-852, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0339268,
-    "longitude": -73.03679840000001,
-    "fecha": "2026-08-26T00:51:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2092414488578252988"
-  },
-  {
-    "id": "viper-auto-2092412677972770914",
-    "tipo": "incidente",
-    "titulo": "inundacion en vivienda — Los Molineros / Los Araucanos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.99133525,
-    "longitude": -73.17187605,
-    "fecha": "2026-08-26T00:43:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2092412677972770914"
   },
   {
     "id": "viper-auto-2092445323473846528",
@@ -167,5 +89,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2092570740474232966"
+  },
+  {
+    "id": "viper-auto-2092590908910805041",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63071035,
+    "longitude": -72.08371389999999,
+    "fecha": "2026-08-26T12:32:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2092590908910805041"
+  },
+  {
+    "id": "viper-auto-2092580928199491627",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Temistocles Rojas / Avenida Cardenal Raul Silva Henriquez, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82694695,
+    "longitude": -73.07099705,
+    "fecha": "2026-08-26T11:52:26.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092580928199491627"
   }
 ]
