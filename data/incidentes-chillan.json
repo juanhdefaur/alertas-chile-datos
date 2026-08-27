@@ -1,70 +1,5 @@
 [
   {
-    "id": "viper-auto-2092590908910805041",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63071035,
-    "longitude": -72.08371389999999,
-    "fecha": "2026-08-26T12:32:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092590908910805041"
-  },
-  {
-    "id": "viper-auto-2092580928199491627",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Temistocles Rojas / Avenida Cardenal Raul Silva Henriquez, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82694695,
-    "longitude": -73.07099705,
-    "fecha": "2026-08-26T11:52:26.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2092580928199491627"
-  },
-  {
-    "id": "viper-auto-2092606703447540083",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — 21 De Mayo / Camino A Colliguay, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6505291,
-    "longitude": -72.4005583,
-    "fecha": "2026-08-26T13:34:51.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2092606703447540083"
-  },
-  {
-    "id": "viper-auto-2092598604577861835",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Francisco Cabello Cardenas / Demetrio Eusquiza Oriente, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.994806850000003,
-    "longitude": -71.32847265,
-    "fecha": "2026-08-26T13:02:40.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2092598604577861835"
-  },
-  {
-    "id": "viper-auto-2092634718915203119",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Francisco Cabello Cardenas / Demetrio Eusquiza Oriente, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.994806850000003,
-    "longitude": -71.32847265,
-    "fecha": "2026-08-26T15:26:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2092634718915203119"
-  },
-  {
     "id": "viper-auto-2092701473192686067",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Juan De Dios Rivera / Pasaje 14, Concepción",
@@ -115,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2092711064957857893"
+  },
+  {
+    "id": "viper-auto-2092769252092559811",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Anibal Pinto / Pasaje 15, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8093118,
+    "longitude": -73.0648938,
+    "fecha": "2026-08-27T00:20:46.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2092769252092559811"
   }
 ]
