@@ -26,29 +26,42 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2093311480594661469"
   },
   {
-    "id": "viper-auto-2093160553095053650",
+    "id": "viper-auto-2093394907591270798",
     "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Del Chonchon / Angosta, Coquimbo",
+    "titulo": "rescate de persona (s) — Obispo Hipólito Salas / San Martín, Concepción",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -29.98712625,
-    "longitude": -71.3632763,
-    "fecha": "2026-08-28T02:15:39.000Z",
+    "latitude": -36.8309289,
+    "longitude": -73.05408270000001,
+    "fecha": "2026-08-28T17:46:54.000Z",
     "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2093160553095053650"
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093394907591270798"
   },
   {
-    "id": "viper-auto-2093159494033269180",
+    "id": "viper-auto-2093361556021002637",
     "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Del Chonchon / Angosta, Coquimbo",
+    "titulo": "Emanación de gas — Avenida Chacabuco / Lincoyan, Concepción",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -29.98712625,
-    "longitude": -71.3632763,
-    "fecha": "2026-08-28T02:11:27.000Z",
+    "latitude": -36.8324438,
+    "longitude": -73.05116000000001,
+    "fecha": "2026-08-28T15:34:22.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093361556021002637"
+  },
+  {
+    "id": "viper-auto-2093403356244889936",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Dalivor Zuvic Caglevic / Francisco Diaz Ramos, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9893182,
+    "longitude": -71.3280235,
+    "fecha": "2026-08-28T18:20:28.000Z",
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2093159494033269180"
+    "tweetUrl": "https://x.com/central_cbc/status/2093403356244889936"
   }
 ]
