@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2093394907591270798",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Obispo Hipólito Salas / San Martín, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8309289,
-    "longitude": -73.05408270000001,
-    "fecha": "2026-08-28T17:46:54.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2093394907591270798"
-  },
-  {
-    "id": "viper-auto-2093403356244889936",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Dalivor Zuvic Caglevic / Francisco Diaz Ramos, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.9893182,
-    "longitude": -71.3280235,
-    "fecha": "2026-08-28T18:20:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2093403356244889936"
-  },
-  {
     "id": "viper-auto-2093543835066376249",
     "tipo": "incidente",
     "titulo": "Rescate Animal — Las Canoas / Los Copihues, Chillán",
@@ -89,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2093485397913301102"
+  },
+  {
+    "id": "viper-auto-2093559065595056303",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Bartolomé Del Pozo / Calle Del Cerro, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.79297845,
+    "longitude": -73.04093950000001,
+    "fecha": "2026-08-29T04:39:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093559065595056303"
   }
 ]
