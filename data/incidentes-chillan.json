@@ -13,58 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2093543835066376249"
   },
   {
-    "id": "viper-auto-2093498060827427227",
-    "tipo": "incidente",
-    "titulo": "emergencia estructural — Real Audiencia / Valladolid, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61394185,
-    "longitude": -72.13169485,
-    "fecha": "2026-08-29T00:36:47.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2093498060827427227"
-  },
-  {
-    "id": "viper-auto-2093516130568581515",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Carlos Prats Gonzalez / San Luis, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02049835,
-    "longitude": -73.1559839,
-    "fecha": "2026-08-29T01:48:35.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2093516130568581515"
-  },
-  {
-    "id": "viper-auto-2093514070850666724",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Carlos Prats Gonzalez / San Luis, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02049835,
-    "longitude": -73.1559839,
-    "fecha": "2026-08-29T01:40:24.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2093514070850666724"
-  },
-  {
-    "id": "viper-auto-2093485397913301102",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Minero Carlos Fernandez / Minero Pedro Huerta Riquelme, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.99347975,
-    "longitude": -73.14959135000001,
-    "fecha": "2026-08-28T23:46:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2093485397913301102"
-  },
-  {
     "id": "viper-auto-2093559065595056303",
     "tipo": "incidente",
     "titulo": "emergencia estructural — Bartolomé Del Pozo / Calle Del Cerro, Concepción",
