@@ -24,5 +24,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2093725280149950567"
+  },
+  {
+    "id": "viper-auto-2093802767928234277",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Las Rosas / Parque Queulat, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.59255855,
+    "longitude": -72.11190205,
+    "fecha": "2026-08-29T20:47:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2093802767928234277"
   }
 ]
