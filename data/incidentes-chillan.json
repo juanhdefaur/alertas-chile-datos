@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2093315633521774988",
-    "tipo": "incidente",
-    "titulo": "simulacro — Conde De Maule / Los Olmos, Chillán Viejo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6293115,
-    "longitude": -72.121062,
-    "fecha": "2026-08-28T12:31:53.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán Viejo",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2093315633521774988"
-  },
-  {
-    "id": "viper-auto-2093311480594661469",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Andres Bello / Emaus, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6013506,
-    "longitude": -72.07810195,
-    "fecha": "2026-08-28T12:15:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2093311480594661469"
-  },
-  {
     "id": "viper-auto-2093394907591270798",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Obispo Hipólito Salas / San Martín, Concepción",
@@ -39,19 +13,6 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2093394907591270798"
   },
   {
-    "id": "viper-auto-2093361556021002637",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Avenida Chacabuco / Lincoyan, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8324438,
-    "longitude": -73.05116000000001,
-    "fecha": "2026-08-28T15:34:22.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2093361556021002637"
-  },
-  {
     "id": "viper-auto-2093403356244889936",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Dalivor Zuvic Caglevic / Francisco Diaz Ramos, Coquimbo",
@@ -63,5 +24,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2093403356244889936"
+  },
+  {
+    "id": "viper-auto-2093543835066376249",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Las Canoas / Los Copihues, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.625924,
+    "longitude": -72.11475375,
+    "fecha": "2026-08-29T03:38:41.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2093543835066376249"
+  },
+  {
+    "id": "viper-auto-2093498060827427227",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Real Audiencia / Valladolid, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61394185,
+    "longitude": -72.13169485,
+    "fecha": "2026-08-29T00:36:47.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2093498060827427227"
+  },
+  {
+    "id": "viper-auto-2093516130568581515",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Carlos Prats Gonzalez / San Luis, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02049835,
+    "longitude": -73.1559839,
+    "fecha": "2026-08-29T01:48:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093516130568581515"
+  },
+  {
+    "id": "viper-auto-2093514070850666724",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Carlos Prats Gonzalez / San Luis, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.02049835,
+    "longitude": -73.1559839,
+    "fecha": "2026-08-29T01:40:24.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093514070850666724"
+  },
+  {
+    "id": "viper-auto-2093485397913301102",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Minero Carlos Fernandez / Minero Pedro Huerta Riquelme, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.99347975,
+    "longitude": -73.14959135000001,
+    "fecha": "2026-08-28T23:46:28.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093485397913301102"
   }
 ]
