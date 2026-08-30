@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2093741419194143217",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Caupolicán / General Cruz, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8194895,
-    "longitude": -73.05584125,
-    "fecha": "2026-08-29T16:43:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2093741419194143217"
-  },
-  {
-    "id": "viper-auto-2093725280149950567",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Los Aromos / Los Alerces, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0235811,
-    "longitude": -73.1315219,
-    "fecha": "2026-08-29T15:39:40.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2093725280149950567"
-  },
-  {
     "id": "viper-auto-2093802767928234277",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Las Rosas / Parque Queulat, Chillán",
@@ -76,5 +50,83 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2093859673954746816"
+  },
+  {
+    "id": "viper-auto-2093906077624529375",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Luis Araneda / San Bartolome, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.632974000000004,
+    "longitude": -72.1389966,
+    "fecha": "2026-08-30T03:38:06.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2093906077624529375"
+  },
+  {
+    "id": "viper-auto-2093926774027489417",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Francia / Patricio Lynch, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0329,
+    "longitude": -73.14330935000001,
+    "fecha": "2026-08-30T05:00:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093926774027489417"
+  },
+  {
+    "id": "viper-auto-2093925853881045437",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Francia / Patricio Lynch, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0329,
+    "longitude": -73.14330935000001,
+    "fecha": "2026-08-30T04:56:41.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093925853881045437"
+  },
+  {
+    "id": "viper-auto-2093924522541953241",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Francia / Patricio Lynch, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.0329,
+    "longitude": -73.14330935000001,
+    "fecha": "2026-08-30T04:51:24.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093924522541953241"
+  },
+  {
+    "id": "viper-auto-2093887072876597410",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Los Ulmos / Avenida Los Canelos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9796702,
+    "longitude": -73.1586379,
+    "fecha": "2026-08-30T02:22:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093887072876597410"
+  },
+  {
+    "id": "viper-auto-2093886455881814352",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Los Ulmos / Avenida Los Canelos, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9796702,
+    "longitude": -73.1586379,
+    "fecha": "2026-08-30T02:20:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2093886455881814352"
   }
 ]
