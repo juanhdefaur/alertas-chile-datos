@@ -11,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094152229624164842"
+  },
+  {
+    "id": "viper-auto-2094101117516861491",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Collao / Tegualda, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.818421900000004,
+    "longitude": -73.02314415000001,
+    "fecha": "2026-08-30T16:33:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094101117516861491"
   }
 ]
