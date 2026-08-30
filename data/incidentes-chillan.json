@@ -37,5 +37,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2093802767928234277"
+  },
+  {
+    "id": "viper-auto-2093872496130847051",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Gobernador Juan Henriquez / Jose De Garro, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.79512215,
+    "longitude": -73.05173845,
+    "fecha": "2026-08-30T01:24:40.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093872496130847051"
+  },
+  {
+    "id": "viper-auto-2093860821830869330",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Fray Juan Perez / Alejandro Vi, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8153877,
+    "longitude": -73.0796251,
+    "fecha": "2026-08-30T00:38:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093860821830869330"
+  },
+  {
+    "id": "viper-auto-2093859673954746816",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Fray Juan Perez / Alejandro Vi, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8153877,
+    "longitude": -73.0796251,
+    "fecha": "2026-08-30T00:33:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2093859673954746816"
   }
 ]
