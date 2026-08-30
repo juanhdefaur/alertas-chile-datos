@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2093802767928234277",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Las Rosas / Parque Queulat, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.59255855,
-    "longitude": -72.11190205,
-    "fecha": "2026-08-29T20:47:35.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2093802767928234277"
-  },
-  {
     "id": "viper-auto-2093872496130847051",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Gobernador Juan Henriquez / Jose De Garro, Concepción",
@@ -24,32 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2093872496130847051"
-  },
-  {
-    "id": "viper-auto-2093860821830869330",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Fray Juan Perez / Alejandro Vi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8153877,
-    "longitude": -73.0796251,
-    "fecha": "2026-08-30T00:38:16.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2093860821830869330"
-  },
-  {
-    "id": "viper-auto-2093859673954746816",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Fray Juan Perez / Alejandro Vi, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8153877,
-    "longitude": -73.0796251,
-    "fecha": "2026-08-30T00:33:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2093859673954746816"
   },
   {
     "id": "viper-auto-2093906077624529375",
