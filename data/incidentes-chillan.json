@@ -37,5 +37,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2094414537420100092"
+  },
+  {
+    "id": "viper-auto-2094520630599131216",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Avenida Brasil / Gamero, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.600749,
+    "longitude": -72.1097258,
+    "fecha": "2026-08-31T20:20:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094520630599131216"
+  },
+  {
+    "id": "viper-auto-2094451258501353719",
+    "tipo": "incidente",
+    "titulo": "emergencia No Clasificada — Dos Sur / Uno Oriente, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.615513750000005,
+    "longitude": -72.12631865,
+    "fecha": "2026-08-31T15:44:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094451258501353719"
   }
 ]
