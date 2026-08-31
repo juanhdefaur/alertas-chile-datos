@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2094152229624164842"
   },
   {
-    "id": "viper-auto-2094101117516861491",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Collao / Tegualda, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.818421900000004,
-    "longitude": -73.02314415000001,
-    "fecha": "2026-08-30T16:33:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094101117516861491"
-  },
-  {
     "id": "viper-auto-2094220689955823750",
     "tipo": "incidente",
     "titulo": "emergencia por fuego en un vehículo — Ruta 5 Sur, Km 417, Chillán Viejo",
@@ -50,5 +37,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094218229715546386"
+  },
+  {
+    "id": "viper-auto-2094229584099119205",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Los Aromos / Ruta N-439, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.572141650000006,
+    "longitude": -72.06266095000001,
+    "fecha": "2026-08-31T01:03:36.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094229584099119205"
+  },
+  {
+    "id": "viper-auto-2094228500861391345",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Campana Del 79 / Alcalde Flores Millan, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.598856549999994,
+    "longitude": -72.09376985,
+    "fecha": "2026-08-31T00:59:18.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094228500861391345"
+  },
+  {
+    "id": "viper-auto-2094190947978346909",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Ruta N-627 / Ruta N-55, Pinto",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.806580350000004,
+    "longitude": -71.7521862,
+    "fecha": "2026-08-30T22:30:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Pinto",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094190947978346909"
+  },
+  {
+    "id": "viper-auto-2094251633177768166",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Paz Del Alba / Canto Del Valle, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.7820768,
+    "longitude": -73.0446206,
+    "fecha": "2026-08-31T02:31:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094251633177768166"
   }
 ]
