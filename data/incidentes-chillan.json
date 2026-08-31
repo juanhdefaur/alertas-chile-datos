@@ -24,5 +24,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2094101117516861491"
+  },
+  {
+    "id": "viper-auto-2094220689955823750",
+    "tipo": "incidente",
+    "titulo": "emergencia por fuego en un vehículo — Ruta 5 Sur, Km 417, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6269422,
+    "longitude": -72.1654326,
+    "fecha": "2026-08-31T00:28:15.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094220689955823750"
+  },
+  {
+    "id": "viper-auto-2094218229715546386",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Los Aromos / Ruta N-439, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.572141650000006,
+    "longitude": -72.06266095000001,
+    "fecha": "2026-08-31T00:18:29.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094218229715546386"
   }
 ]
