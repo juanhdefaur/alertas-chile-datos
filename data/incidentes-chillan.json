@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2094572983952056349",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Blanco Sur / Las Canchas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.84103125,
-    "longitude": -73.05735845,
-    "fecha": "2026-08-31T23:48:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094572983952056349"
-  },
-  {
-    "id": "viper-auto-2094575700720095729",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01201825,
-    "longitude": -73.53038875,
-    "fecha": "2026-08-31T23:58:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2094575700720095729"
-  },
-  {
-    "id": "viper-auto-2094575134472311173",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01201825,
-    "longitude": -73.53038875,
-    "fecha": "2026-08-31T23:56:42.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2094575134472311173"
-  },
-  {
     "id": "viper-auto-2094647970201285015",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Calle 4 / Avenida Libertador Bernardo O'higgins, Chillán",
@@ -50,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094647970201285015"
-  },
-  {
-    "id": "viper-auto-2094603219305439377",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Bulnes / Rosas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60283435,
-    "longitude": -72.10951614999999,
-    "fecha": "2026-09-01T01:48:17.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094603219305439377"
   },
   {
     "id": "viper-auto-2094647506453893536",
@@ -91,29 +39,16 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2094629047082905616"
   },
   {
-    "id": "viper-auto-2094586063658303777",
+    "id": "viper-auto-2094761741406154859",
     "tipo": "incidente",
-    "titulo": "Incendio de árbol o vegetación — Colo Colo / Ejército, Concepción",
+    "titulo": "emergencia por presunta emanación de gas — Campana Del 79 / Alcalde Flores Millan, Chillán",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -36.8139968,
-    "longitude": -73.0581545,
-    "fecha": "2026-09-01T00:40:07.000Z",
+    "latitude": -36.598856549999994,
+    "longitude": -72.09376985,
+    "fecha": "2026-09-01T12:18:12.000Z",
     "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094586063658303777"
-  },
-  {
-    "id": "viper-auto-2094584435962216865",
-    "tipo": "incidente",
-    "titulo": "Incendio de árbol o vegetación — Colo Colo / Ejército, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8139968,
-    "longitude": -73.0581545,
-    "fecha": "2026-09-01T00:33:39.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094584435962216865"
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094761741406154859"
   }
 ]
