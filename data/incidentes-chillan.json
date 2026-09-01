@@ -63,5 +63,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de La Serena",
     "tweetUrl": "https://x.com/central_cbc/status/2094823678622011637"
+  },
+  {
+    "id": "viper-auto-2094857135515402388",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Circunvalacion Monjitas Oriente / Pasaje Koyan, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.8698798,
+    "longitude": -71.23241469999999,
+    "fecha": "2026-09-01T18:37:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2094857135515402388"
   }
 ]
