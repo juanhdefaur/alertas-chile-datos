@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2094647970201285015",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Calle 4 / Avenida Libertador Bernardo O'higgins, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6098355,
-    "longitude": -72.1119953,
-    "fecha": "2026-09-01T04:46:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094647970201285015"
-  },
-  {
-    "id": "viper-auto-2094647506453893536",
-    "tipo": "incidente",
-    "titulo": "emergencia por fuego en un vehículo — Irarrazabal / Alsacia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.80800205,
-    "longitude": -73.02718189999999,
-    "fecha": "2026-09-01T04:44:16.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094647506453893536"
-  },
-  {
-    "id": "viper-auto-2094629047082905616",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Fresia, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81729435,
-    "longitude": -73.0367775,
-    "fecha": "2026-09-01T03:30:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094629047082905616"
-  },
-  {
     "id": "viper-auto-2094761741406154859",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Campana Del 79 / Alcalde Flores Millan, Chillán",
@@ -50,5 +11,57 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094761741406154859"
+  },
+  {
+    "id": "viper-auto-2094823117889622479",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Rengo / Freire, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82623695,
+    "longitude": -73.05671745000001,
+    "fecha": "2026-09-01T16:22:05.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094823117889622479"
+  },
+  {
+    "id": "viper-auto-2094822991859195928",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Rengo / Freire, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82623695,
+    "longitude": -73.05671745000001,
+    "fecha": "2026-09-01T16:21:35.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094822991859195928"
+  },
+  {
+    "id": "viper-auto-2094846891116601703",
+    "tipo": "incidente",
+    "titulo": "fuego en microbasural — Arturo Prat / Balmaceda, Coihueco",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.628554550000004,
+    "longitude": -71.83030875,
+    "fecha": "2026-09-01T17:56:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coihueco",
+    "tweetUrl": "https://x.com/cbcoihueco/status/2094846891116601703"
+  },
+  {
+    "id": "viper-auto-2094823678622011637",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriel Gonzalez Videla / Los Perales, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.931753999999998,
+    "longitude": -71.25156430000001,
+    "fecha": "2026-09-01T16:24:19.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2094823678622011637"
   }
 ]
