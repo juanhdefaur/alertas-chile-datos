@@ -76,5 +76,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de La Serena",
     "tweetUrl": "https://x.com/central_cbc/status/2094857135515402388"
+  },
+  {
+    "id": "viper-auto-2094902647765504190",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Las Rosas / Adonis, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.59162295,
+    "longitude": -72.11194705,
+    "fecha": "2026-09-01T21:38:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094902647765504190"
+  },
+  {
+    "id": "viper-auto-2094907887122301283",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Collao / Terrazas De Collao, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8203029,
+    "longitude": -73.0133007,
+    "fecha": "2026-09-01T21:58:56.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094907887122301283"
+  },
+  {
+    "id": "viper-auto-2094901462274842836",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Victor Lamas / Serrano, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.83291805,
+    "longitude": -73.0548186,
+    "fecha": "2026-09-01T21:33:24.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094901462274842836"
   }
 ]
