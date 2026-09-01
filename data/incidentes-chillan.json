@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2094399018746929566"
   },
   {
-    "id": "viper-auto-2094394428400062874",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Gamero / 18 De Septiembre, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60128505,
-    "longitude": -72.10340385,
-    "fecha": "2026-08-31T11:58:38.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094394428400062874"
-  },
-  {
     "id": "viper-auto-2094414537420100092",
     "tipo": "incidente",
     "titulo": "rescate vehicular — Arturo Prat / Juan Martínez De Rozas, Concepción",
@@ -63,5 +50,83 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094451258501353719"
+  },
+  {
+    "id": "viper-auto-2094530614460334165",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Bulnes / Rosas, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60283435,
+    "longitude": -72.10951614999999,
+    "fecha": "2026-08-31T20:59:47.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094530614460334165"
+  },
+  {
+    "id": "viper-auto-2094572983952056349",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Blanco Sur / Las Canchas, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.84103125,
+    "longitude": -73.05735845,
+    "fecha": "2026-08-31T23:48:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094572983952056349"
+  },
+  {
+    "id": "viper-auto-2094542295215353907",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Nonguén / Lo Pequen, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8249415,
+    "longitude": -73.0321429,
+    "fecha": "2026-08-31T21:46:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094542295215353907"
+  },
+  {
+    "id": "viper-auto-2094528315734331769",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Ongolmo / Avenida Chacabuco, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.828831449999996,
+    "longitude": -73.04453380000001,
+    "fecha": "2026-08-31T20:50:39.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094528315734331769"
+  },
+  {
+    "id": "viper-auto-2094575700720095729",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01201825,
+    "longitude": -73.53038875,
+    "fecha": "2026-08-31T23:58:57.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2094575700720095729"
+  },
+  {
+    "id": "viper-auto-2094575134472311173",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01201825,
+    "longitude": -73.53038875,
+    "fecha": "2026-08-31T23:56:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2094575134472311173"
   }
 ]
