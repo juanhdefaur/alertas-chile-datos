@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2094520630599131216",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Avenida Brasil / Gamero, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.600749,
-    "longitude": -72.1097258,
-    "fecha": "2026-08-31T20:20:07.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094520630599131216"
-  },
-  {
-    "id": "viper-auto-2094530614460334165",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Bulnes / Rosas, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60283435,
-    "longitude": -72.10951614999999,
-    "fecha": "2026-08-31T20:59:47.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094530614460334165"
-  },
-  {
     "id": "viper-auto-2094572983952056349",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Blanco Sur / Las Canchas, Concepción",
@@ -37,32 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2094572983952056349"
-  },
-  {
-    "id": "viper-auto-2094542295215353907",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Nonguén / Lo Pequen, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8249415,
-    "longitude": -73.0321429,
-    "fecha": "2026-08-31T21:46:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094542295215353907"
-  },
-  {
-    "id": "viper-auto-2094528315734331769",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Ongolmo / Avenida Chacabuco, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.828831449999996,
-    "longitude": -73.04453380000001,
-    "fecha": "2026-08-31T20:50:39.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094528315734331769"
   },
   {
     "id": "viper-auto-2094575700720095729",
