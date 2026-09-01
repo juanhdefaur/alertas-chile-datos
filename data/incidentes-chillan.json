@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2094399018746929566",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Itata / Claudio Arrau, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.603064849999996,
-    "longitude": -72.10575985,
-    "fecha": "2026-08-31T12:16:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094399018746929566"
-  },
-  {
-    "id": "viper-auto-2094414537420100092",
-    "tipo": "incidente",
-    "titulo": "rescate vehicular — Arturo Prat / Juan Martínez De Rozas, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82517715,
-    "longitude": -73.06155485,
-    "fecha": "2026-08-31T13:18:32.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094414537420100092"
-  },
-  {
     "id": "viper-auto-2094520630599131216",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Avenida Brasil / Gamero, Chillán",
@@ -37,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2094520630599131216"
-  },
-  {
-    "id": "viper-auto-2094451258501353719",
-    "tipo": "incidente",
-    "titulo": "emergencia No Clasificada — Dos Sur / Uno Oriente, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.615513750000005,
-    "longitude": -72.12631865,
-    "fecha": "2026-08-31T15:44:27.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094451258501353719"
   },
   {
     "id": "viper-auto-2094530614460334165",
@@ -128,5 +89,83 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2094575134472311173"
+  },
+  {
+    "id": "viper-auto-2094647970201285015",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Calle 4 / Avenida Libertador Bernardo O'higgins, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6098355,
+    "longitude": -72.1119953,
+    "fecha": "2026-09-01T04:46:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094647970201285015"
+  },
+  {
+    "id": "viper-auto-2094603219305439377",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Bulnes / Rosas, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60283435,
+    "longitude": -72.10951614999999,
+    "fecha": "2026-09-01T01:48:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2094603219305439377"
+  },
+  {
+    "id": "viper-auto-2094647506453893536",
+    "tipo": "incidente",
+    "titulo": "emergencia por fuego en un vehículo — Irarrazabal / Alsacia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.80800205,
+    "longitude": -73.02718189999999,
+    "fecha": "2026-09-01T04:44:16.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094647506453893536"
+  },
+  {
+    "id": "viper-auto-2094629047082905616",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Avenida Los Carrera / Fresia, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81729435,
+    "longitude": -73.0367775,
+    "fecha": "2026-09-01T03:30:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094629047082905616"
+  },
+  {
+    "id": "viper-auto-2094586063658303777",
+    "tipo": "incidente",
+    "titulo": "Incendio de árbol o vegetación — Colo Colo / Ejército, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8139968,
+    "longitude": -73.0581545,
+    "fecha": "2026-09-01T00:40:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094586063658303777"
+  },
+  {
+    "id": "viper-auto-2094584435962216865",
+    "tipo": "incidente",
+    "titulo": "Incendio de árbol o vegetación — Colo Colo / Ejército, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8139968,
+    "longitude": -73.0581545,
+    "fecha": "2026-09-01T00:33:39.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094584435962216865"
   }
 ]
