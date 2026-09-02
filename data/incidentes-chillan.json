@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2094931023821754467",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Castellón / Avenida Manuel Rodriguez, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.817815949999996,
-    "longitude": -73.05371185,
-    "fecha": "2026-09-01T23:30:52.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094931023821754467"
-  },
-  {
     "id": "viper-auto-2095018247456178316",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — El Volcan / Cerro Capis, Chillán",
@@ -26,16 +13,16 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2095018247456178316"
   },
   {
-    "id": "viper-auto-2094972117469044969",
+    "id": "viper-auto-2095110625579950243",
     "tipo": "incidente",
-    "titulo": "emergencia — Avenida 21 De Mayo / Argomedo, Concepción",
+    "titulo": "Rescate en accidente de tránsito — Camilo Henriquez / Cardenio Avello, Concepción",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -36.81386835,
-    "longitude": -73.07104375,
-    "fecha": "2026-09-02T02:14:10.000Z",
+    "latitude": -36.813039950000004,
+    "longitude": -73.03643385000001,
+    "fecha": "2026-09-02T11:24:33.000Z",
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094972117469044969"
+    "tweetUrl": "https://x.com/CentralCBC/status/2095110625579950243"
   }
 ]
