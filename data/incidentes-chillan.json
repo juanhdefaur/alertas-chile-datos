@@ -50,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2095248911464071364"
+  },
+  {
+    "id": "viper-auto-2095265209342402658",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Los Notros / Los Robles, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.986209349999996,
+    "longitude": -73.162604,
+    "fecha": "2026-09-02T21:38:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2095265209342402658"
   }
 ]
