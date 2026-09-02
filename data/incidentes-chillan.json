@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095018247456178316",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — El Volcan / Cerro Capis, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.619570100000004,
-    "longitude": -72.0847785,
-    "fecha": "2026-09-02T05:17:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095018247456178316"
-  },
-  {
     "id": "viper-auto-2095110625579950243",
     "tipo": "incidente",
     "titulo": "Rescate en accidente de tránsito — Camilo Henriquez / Cardenio Avello, Concepción",
@@ -24,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095110625579950243"
+  },
+  {
+    "id": "viper-auto-2095157026015907877",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Colo Colo / Avenida Los Carrera, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82284705,
+    "longitude": -73.05156475000001,
+    "fecha": "2026-09-02T14:28:55.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095157026015907877"
   }
 ]
