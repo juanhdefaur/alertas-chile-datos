@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2094761741406154859",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Campana Del 79 / Alcalde Flores Millan, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.598856549999994,
-    "longitude": -72.09376985,
-    "fecha": "2026-09-01T12:18:12.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2094761741406154859"
-  },
-  {
     "id": "viper-auto-2094823117889622479",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Rengo / Freire, Concepción",
@@ -115,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2094901462274842836"
+  },
+  {
+    "id": "viper-auto-2094931023821754467",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Castellón / Avenida Manuel Rodriguez, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.817815949999996,
+    "longitude": -73.05371185,
+    "fecha": "2026-09-01T23:30:52.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094931023821754467"
   }
 ]
