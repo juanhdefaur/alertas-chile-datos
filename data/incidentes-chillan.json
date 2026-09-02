@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2094823117889622479",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Rengo / Freire, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82623695,
-    "longitude": -73.05671745000001,
-    "fecha": "2026-09-01T16:22:05.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094823117889622479"
-  },
-  {
-    "id": "viper-auto-2094822991859195928",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Rengo / Freire, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82623695,
-    "longitude": -73.05671745000001,
-    "fecha": "2026-09-01T16:21:35.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2094822991859195928"
-  },
-  {
     "id": "viper-auto-2094846891116601703",
     "tipo": "incidente",
     "titulo": "fuego en microbasural — Arturo Prat / Balmaceda, Coihueco",
@@ -37,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coihueco",
     "tweetUrl": "https://x.com/cbcoihueco/status/2094846891116601703"
-  },
-  {
-    "id": "viper-auto-2094823678622011637",
-    "tipo": "incidente",
-    "titulo": "apoyo fuera de nuestra jurisdicción — Avenida Gabriel Gonzalez Videla / Los Perales, La Serena",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.931753999999998,
-    "longitude": -71.25156430000001,
-    "fecha": "2026-09-01T16:24:19.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de La Serena",
-    "tweetUrl": "https://x.com/central_cbc/status/2094823678622011637"
   },
   {
     "id": "viper-auto-2094857135515402388",
@@ -115,5 +76,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2094931023821754467"
+  },
+  {
+    "id": "viper-auto-2095018247456178316",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — El Volcan / Cerro Capis, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.619570100000004,
+    "longitude": -72.0847785,
+    "fecha": "2026-09-02T05:17:28.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095018247456178316"
+  },
+  {
+    "id": "viper-auto-2094972117469044969",
+    "tipo": "incidente",
+    "titulo": "emergencia — Avenida 21 De Mayo / Argomedo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81386835,
+    "longitude": -73.07104375,
+    "fecha": "2026-09-02T02:14:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2094972117469044969"
   }
 ]
