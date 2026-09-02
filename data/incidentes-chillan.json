@@ -24,5 +24,31 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095157026015907877"
+  },
+  {
+    "id": "viper-auto-2095213604777660585",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Avenida San Andrés / Francisco Lasso De La Vega, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.79120745,
+    "longitude": -73.05895484999999,
+    "fecha": "2026-09-02T18:13:45.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095213604777660585"
+  },
+  {
+    "id": "viper-auto-2095248911464071364",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Avenida Santa Maria Goretti / Avenida Padre Cupertino Cortes, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.01734395,
+    "longitude": -71.26640309999999,
+    "fecha": "2026-09-02T20:34:02.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095248911464071364"
   }
 ]
