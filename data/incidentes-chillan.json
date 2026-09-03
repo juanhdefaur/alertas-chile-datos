@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2095378529189785945",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Las Heras / Janequeo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.820020299999996,
-    "longitude": -73.04478345,
-    "fecha": "2026-09-03T05:09:06.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095378529189785945"
-  },
-  {
-    "id": "viper-auto-2095377187813666917",
-    "tipo": "incidente",
-    "titulo": "emergencia por Accidente eléctrico — Los Boldos / Buena Vista, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8381189,
-    "longitude": -73.0013694,
-    "fecha": "2026-09-03T05:03:46.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095377187813666917"
-  },
-  {
     "id": "viper-auto-2095498953894641976",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — La Espiga / Avenida Paul Harris, Chillán",
@@ -63,5 +37,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2095489590979072410"
+  },
+  {
+    "id": "viper-auto-2095560614076665859",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Carrera / Avenida Collin, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.61432859999999,
+    "longitude": -72.1082432,
+    "fecha": "2026-09-03T17:12:38.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095560614076665859"
   }
 ]
