@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095157026015907877",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Colo Colo / Avenida Los Carrera, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.82284705,
-    "longitude": -73.05156475000001,
-    "fecha": "2026-09-02T14:28:55.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095157026015907877"
-  },
-  {
     "id": "viper-auto-2095213604777660585",
     "tipo": "incidente",
     "titulo": "Emanación de gas — Avenida San Andrés / Francisco Lasso De La Vega, Concepción",
@@ -63,5 +50,44 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2095300575998914825"
+  },
+  {
+    "id": "viper-auto-2095378529189785945",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Las Heras / Janequeo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.820020299999996,
+    "longitude": -73.04478345,
+    "fecha": "2026-09-03T05:09:06.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095378529189785945"
+  },
+  {
+    "id": "viper-auto-2095377187813666917",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Los Boldos / Buena Vista, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8381189,
+    "longitude": -73.0013694,
+    "fecha": "2026-09-03T05:03:46.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095377187813666917"
+  },
+  {
+    "id": "viper-auto-2095321121520288140",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Avenida Chacabuco / Angol, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8305713,
+    "longitude": -73.04679335,
+    "fecha": "2026-09-03T01:20:59.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095321121520288140"
   }
 ]
