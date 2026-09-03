@@ -1,44 +1,5 @@
 [
   {
-    "id": "viper-auto-2095213604777660585",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Avenida San Andrés / Francisco Lasso De La Vega, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.79120745,
-    "longitude": -73.05895484999999,
-    "fecha": "2026-09-02T18:13:45.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095213604777660585"
-  },
-  {
-    "id": "viper-auto-2095248911464071364",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Avenida Santa Maria Goretti / Avenida Padre Cupertino Cortes, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -30.01734395,
-    "longitude": -71.26640309999999,
-    "fecha": "2026-09-02T20:34:02.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2095248911464071364"
-  },
-  {
-    "id": "viper-auto-2095265209342402658",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Los Notros / Los Robles, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.986209349999996,
-    "longitude": -73.162604,
-    "fecha": "2026-09-02T21:38:48.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2095265209342402658"
-  },
-  {
     "id": "viper-auto-2095300575998914825",
     "tipo": "incidente",
     "titulo": "emergencia por presunta emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
