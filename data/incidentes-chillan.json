@@ -50,5 +50,70 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2095560614076665859"
+  },
+  {
+    "id": "viper-auto-2095592157335703825",
+    "tipo": "incidente",
+    "titulo": "Otros servicios (no es una emergencia) — Avenida Francisco Ramirez / Avenida Coihueco, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60834885,
+    "longitude": -72.08743435,
+    "fecha": "2026-09-03T19:17:59.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095592157335703825"
+  },
+  {
+    "id": "viper-auto-2095609386911560143",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Avenida Manuel Rodríguez / Pasaje Caupolican, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81790425,
+    "longitude": -73.05886045,
+    "fecha": "2026-09-03T20:26:27.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095609386911560143"
+  },
+  {
+    "id": "viper-auto-2095604798393381308",
+    "tipo": "incidente",
+    "titulo": "Rescate Animal — Avenida Manuel Rodríguez / Pasaje Caupolican, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81790425,
+    "longitude": -73.05886045,
+    "fecha": "2026-09-03T20:08:13.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095604798393381308"
+  },
+  {
+    "id": "viper-auto-2095613758852792781",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Ruta 160 / Pasarela Sename, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.989940250000004,
+    "longitude": -73.14383935000001,
+    "fecha": "2026-09-03T20:43:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2095613758852792781"
+  },
+  {
+    "id": "viper-auto-2095594671489610171",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Del Solar / El Milagro, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.94279245,
+    "longitude": -71.2371971,
+    "fecha": "2026-09-03T19:27:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2095594671489610171"
   }
 ]
