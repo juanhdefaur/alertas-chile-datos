@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095300575998914825",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.63071035,
-    "longitude": -72.08371389999999,
-    "fecha": "2026-09-02T23:59:20.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095300575998914825"
-  },
-  {
     "id": "viper-auto-2095378529189785945",
     "tipo": "incidente",
     "titulo": "inflamación de ducto de chimenea — Las Heras / Janequeo, Concepción",
@@ -39,16 +26,42 @@
     "tweetUrl": "https://x.com/CentralCBC/status/2095377187813666917"
   },
   {
-    "id": "viper-auto-2095321121520288140",
+    "id": "viper-auto-2095498953894641976",
     "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Avenida Chacabuco / Angol, Concepción",
+    "titulo": "Otros servicios (no es una emergencia) — La Espiga / Avenida Paul Harris, Chillán",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -36.8305713,
-    "longitude": -73.04679335,
-    "fecha": "2026-09-03T01:20:59.000Z",
+    "latitude": -36.5889913,
+    "longitude": -72.0882225,
+    "fecha": "2026-09-03T13:07:37.000Z",
     "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095321121520288140"
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095498953894641976"
+  },
+  {
+    "id": "viper-auto-2095505633801797971",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Varela / Portales, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.964595199999998,
+    "longitude": -71.3393106,
+    "fecha": "2026-09-03T13:34:10.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095505633801797971"
+  },
+  {
+    "id": "viper-auto-2095489590979072410",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Costanera / Avenida Francisco Varela, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.95776975,
+    "longitude": -71.3279995,
+    "fecha": "2026-09-03T12:30:25.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095489590979072410"
   }
 ]
