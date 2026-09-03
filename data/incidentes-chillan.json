@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095110625579950243",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Camilo Henriquez / Cardenio Avello, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.813039950000004,
-    "longitude": -73.03643385000001,
-    "fecha": "2026-09-02T11:24:33.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095110625579950243"
-  },
-  {
     "id": "viper-auto-2095157026015907877",
     "tipo": "incidente",
     "titulo": "rescate de persona (s) — Colo Colo / Avenida Los Carrera, Concepción",
@@ -63,5 +50,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coronel",
     "tweetUrl": "https://x.com/centralcor132/status/2095265209342402658"
+  },
+  {
+    "id": "viper-auto-2095300575998914825",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Diagonal Las Termas / Rio Viejo, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.63071035,
+    "longitude": -72.08371389999999,
+    "fecha": "2026-09-02T23:59:20.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095300575998914825"
   }
 ]
