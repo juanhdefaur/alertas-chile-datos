@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095498953894641976",
-    "tipo": "incidente",
-    "titulo": "Otros servicios (no es una emergencia) — La Espiga / Avenida Paul Harris, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.5889913,
-    "longitude": -72.0882225,
-    "fecha": "2026-09-03T13:07:37.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095498953894641976"
-  },
-  {
     "id": "viper-auto-2095505633801797971",
     "tipo": "incidente",
     "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Varela / Portales, Coquimbo",
@@ -24,19 +11,6 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2095505633801797971"
-  },
-  {
-    "id": "viper-auto-2095489590979072410",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Costanera / Avenida Francisco Varela, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.95776975,
-    "longitude": -71.3279995,
-    "fecha": "2026-09-03T12:30:25.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2095489590979072410"
   },
   {
     "id": "viper-auto-2095560614076665859",
@@ -128,5 +102,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095627539452436934"
+  },
+  {
+    "id": "viper-auto-2095680135512859110",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Lastarria / Desiderio Sanhueza, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.8269168,
+    "longitude": -73.06575430000001,
+    "fecha": "2026-09-04T01:07:34.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095680135512859110"
   }
 ]
