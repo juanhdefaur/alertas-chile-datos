@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095680135512859110",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Lastarria / Desiderio Sanhueza, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.8269168,
-    "longitude": -73.06575430000001,
-    "fecha": "2026-09-04T01:07:34.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095680135512859110"
-  },
-  {
     "id": "viper-auto-2095711124754698470",
     "tipo": "incidente",
     "titulo": "Incendio de árbol o vegetación — Juan Martínez De Rozas / Ongolmo, Concepción",
@@ -24,5 +11,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095711124754698470"
+  },
+  {
+    "id": "viper-auto-2095888208412160179",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Angol / San Martin, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.831060199999996,
+    "longitude": -73.05440200000001,
+    "fecha": "2026-09-04T14:54:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095888208412160179"
   }
 ]
