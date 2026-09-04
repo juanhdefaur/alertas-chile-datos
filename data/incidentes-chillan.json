@@ -1,31 +1,5 @@
 [
   {
-    "id": "viper-auto-2095505633801797971",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Avenida Varela / Portales, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.964595199999998,
-    "longitude": -71.3393106,
-    "fecha": "2026-09-03T13:34:10.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2095505633801797971"
-  },
-  {
-    "id": "viper-auto-2095560614076665859",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Carrera / Avenida Collin, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.61432859999999,
-    "longitude": -72.1082432,
-    "fecha": "2026-09-03T17:12:38.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095560614076665859"
-  },
-  {
     "id": "viper-auto-2095592157335703825",
     "tipo": "incidente",
     "titulo": "Otros servicios (no es una emergencia) — Avenida Francisco Ramirez / Avenida Coihueco, Chillán",
@@ -115,5 +89,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095680135512859110"
+  },
+  {
+    "id": "viper-auto-2095711124754698470",
+    "tipo": "incidente",
+    "titulo": "Incendio de árbol o vegetación — Juan Martínez De Rozas / Ongolmo, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.81737785,
+    "longitude": -73.0479835,
+    "fecha": "2026-09-04T03:10:43.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2095711124754698470"
   }
 ]
