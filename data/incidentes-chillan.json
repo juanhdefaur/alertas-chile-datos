@@ -1,18 +1,5 @@
 [
   {
-    "id": "viper-auto-2095711124754698470",
-    "tipo": "incidente",
-    "titulo": "Incendio de árbol o vegetación — Juan Martínez De Rozas / Ongolmo, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.81737785,
-    "longitude": -73.0479835,
-    "fecha": "2026-09-04T03:10:43.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095711124754698470"
-  },
-  {
     "id": "viper-auto-2095888208412160179",
     "tipo": "incidente",
     "titulo": "emergencia por rescate de persona (s) — Angol / San Martin, Concepción",
@@ -24,5 +11,109 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Concepción",
     "tweetUrl": "https://x.com/CentralCBC/status/2095888208412160179"
+  },
+  {
+    "id": "viper-auto-2095916084117332320",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — El Roble / Paseo Las Palmeras, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.60884395,
+    "longitude": -72.1033982,
+    "fecha": "2026-09-04T16:45:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095916084117332320"
+  },
+  {
+    "id": "viper-auto-2095904404738019622",
+    "tipo": "incidente",
+    "titulo": "rescate de persona (s) — Camino A Boyen, Km 3, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6344488,
+    "longitude": -72.0739196,
+    "fecha": "2026-09-04T15:58:44.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095904404738019622"
+  },
+  {
+    "id": "viper-auto-2095897269698547929",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Avenida Libertador Bernardo O'higgins / Camino Nahueltoro, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.56388565,
+    "longitude": -72.09184110000001,
+    "fecha": "2026-09-04T15:30:23.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2095897269698547929"
+  },
+  {
+    "id": "viper-auto-2095922582033752272",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Quilacan / Luis Hermosilla, Coihueco",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6241797,
+    "longitude": -71.82966875,
+    "fecha": "2026-09-04T17:10:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coihueco",
+    "tweetUrl": "https://x.com/cbcoihueco/status/2095922582033752272"
+  },
+  {
+    "id": "viper-auto-2095937976094138561",
+    "tipo": "incidente",
+    "titulo": "emergencia donde estan involucrados Materiales Peligrosos — Doctor Moukarzel / Eduardo Spencer, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.968136899999998,
+    "longitude": -71.3375967,
+    "fecha": "2026-09-04T18:12:08.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095937976094138561"
+  },
+  {
+    "id": "viper-auto-2095936838770815191",
+    "tipo": "incidente",
+    "titulo": "emergencia de Materiales peligrosos — Urgencias Hospital San Pablo De Coquimbo, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.968463,
+    "longitude": -71.3362545,
+    "fecha": "2026-09-04T18:07:37.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095936838770815191"
+  },
+  {
+    "id": "viper-auto-2095935088907125099",
+    "tipo": "incidente",
+    "titulo": "emergencia de Materiales peligrosos — Urgencias Hospital San Pablo De Coquimbo, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.968463,
+    "longitude": -71.3362545,
+    "fecha": "2026-09-04T18:00:40.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095935088907125099"
+  },
+  {
+    "id": "viper-auto-2095929183746605540",
+    "tipo": "incidente",
+    "titulo": "emergencia por Accidente eléctrico — Dolores Endeiza / Valle Del Limari, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -30.2631215,
+    "longitude": -71.49193604999999,
+    "fecha": "2026-09-04T17:37:12.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095929183746605540"
   }
 ]
