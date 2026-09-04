@@ -115,5 +115,18 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Coquimbo",
     "tweetUrl": "https://x.com/central_cbc/status/2095929183746605540"
+  },
+  {
+    "id": "viper-auto-2095943004175376571",
+    "tipo": "incidente",
+    "titulo": "emergencia de Materiales peligrosos — Doctor Moukarzel / Eduardo Spencer, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.968136899999998,
+    "longitude": -71.3375967,
+    "fecha": "2026-09-04T18:32:07.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2095943004175376571"
   }
 ]
