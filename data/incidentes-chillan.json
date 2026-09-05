@@ -1,57 +1,5 @@
 [
   {
-    "id": "viper-auto-2095888208412160179",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Angol / San Martin, Concepción",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.831060199999996,
-    "longitude": -73.05440200000001,
-    "fecha": "2026-09-04T14:54:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Concepción",
-    "tweetUrl": "https://x.com/CentralCBC/status/2095888208412160179"
-  },
-  {
-    "id": "viper-auto-2095916084117332320",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — El Roble / Paseo Las Palmeras, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60884395,
-    "longitude": -72.1033982,
-    "fecha": "2026-09-04T16:45:09.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095916084117332320"
-  },
-  {
-    "id": "viper-auto-2095904404738019622",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Camino A Boyen, Km 3, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6344488,
-    "longitude": -72.0739196,
-    "fecha": "2026-09-04T15:58:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095904404738019622"
-  },
-  {
-    "id": "viper-auto-2095897269698547929",
-    "tipo": "incidente",
-    "titulo": "Rescate en accidente de tránsito — Avenida Libertador Bernardo O'higgins / Camino Nahueltoro, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.56388565,
-    "longitude": -72.09184110000001,
-    "fecha": "2026-09-04T15:30:23.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2095897269698547929"
-  },
-  {
     "id": "viper-auto-2095922582033752272",
     "tipo": "incidente",
     "titulo": "emergencia por Accidente eléctrico — Quilacan / Luis Hermosilla, Coihueco",
