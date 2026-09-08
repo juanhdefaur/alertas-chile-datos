@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "viper-auto-2096948804805067175",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Barros Arana / Galvarino, Concepción",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.82155765,
+    "longitude": -73.03994915000001,
+    "fecha": "2026-09-07T13:08:49.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Concepción",
+    "tweetUrl": "https://x.com/CentralCBC/status/2096948804805067175"
+  },
+  {
+    "id": "viper-auto-2097036858593087709",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Juan De Dios Melgarejo / Avenida Francisco Varela, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.955354399999997,
+    "longitude": -71.33787265,
+    "fecha": "2026-09-07T18:58:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2097036858593087709"
+  },
+  {
+    "id": "viper-auto-2097036694541250976",
+    "tipo": "incidente",
+    "titulo": "prestar apoyo en un incidente que no es una emergencia — Juan De Dios Melgarejo / Avenida Francisco Varela, Coquimbo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.955354399999997,
+    "longitude": -71.33787265,
+    "fecha": "2026-09-07T18:58:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coquimbo",
+    "tweetUrl": "https://x.com/central_cbc/status/2097036694541250976"
+  }
+]
