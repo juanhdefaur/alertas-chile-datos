@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2097137511621439706",
-    "tipo": "incidente",
-    "titulo": "emergencia de Materiales peligrosos — Avenida Argentina / Avenida Libertad, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6086235,
-    "longitude": -72.0940571,
-    "fecha": "2026-09-08T01:38:40.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2097137511621439706"
-  }
-]
+[]
