@@ -1,28 +1,15 @@
 [
   {
-    "id": "viper-auto-2097036858593087709",
+    "id": "viper-auto-2097137511621439706",
     "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Juan De Dios Melgarejo / Avenida Francisco Varela, Coquimbo",
+    "titulo": "emergencia de Materiales peligrosos — Avenida Argentina / Avenida Libertad, Chillán",
     "nivelAlerta": "amarilla",
     "estado": "en_atencion",
-    "latitude": -29.955354399999997,
-    "longitude": -71.33787265,
-    "fecha": "2026-09-07T18:58:42.000Z",
+    "latitude": -36.6086235,
+    "longitude": -72.0940571,
+    "fecha": "2026-09-08T01:38:40.000Z",
     "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2097036858593087709"
-  },
-  {
-    "id": "viper-auto-2097036694541250976",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Juan De Dios Melgarejo / Avenida Francisco Varela, Coquimbo",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -29.955354399999997,
-    "longitude": -71.33787265,
-    "fecha": "2026-09-07T18:58:03.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coquimbo",
-    "tweetUrl": "https://x.com/central_cbc/status/2097036694541250976"
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2097137511621439706"
   }
 ]
