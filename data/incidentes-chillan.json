@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "viper-auto-2098139725873782858",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Camino A Boyen, Km 1, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6344488,
+    "longitude": -72.0739196,
+    "fecha": "2026-09-10T20:01:06.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2098139725873782858"
+  },
+  {
+    "id": "viper-auto-2098081021312836050",
+    "tipo": "incidente",
+    "titulo": "inflamación de ducto de chimenea — Cerro Puntiagudo / Cerro Robles, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6175178,
+    "longitude": -72.07555275,
+    "fecha": "2026-09-10T16:07:50.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2098081021312836050"
+  },
+  {
+    "id": "viper-auto-2098031854284640468",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Los Manios / Los Avellanos, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.596610749999996,
+    "longitude": -72.0902623,
+    "fecha": "2026-09-10T12:52:28.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2098031854284640468"
+  },
+  {
+    "id": "viper-auto-2098159319866872223",
+    "tipo": "incidente",
+    "titulo": "apoyo fuera de nuestra jurisdicción — Santa Monica / Santa Magdalena, La Serena",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -29.9759342,
+    "longitude": -71.12137935,
+    "fecha": "2026-09-10T21:18:58.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de La Serena",
+    "tweetUrl": "https://x.com/central_cbc/status/2098159319866872223"
+  }
+]
