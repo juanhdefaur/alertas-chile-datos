@@ -13,19 +13,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2098139725873782858"
   },
   {
-    "id": "viper-auto-2098081021312836050",
-    "tipo": "incidente",
-    "titulo": "inflamación de ducto de chimenea — Cerro Puntiagudo / Cerro Robles, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6175178,
-    "longitude": -72.07555275,
-    "fecha": "2026-09-10T16:07:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2098081021312836050"
-  },
-  {
     "id": "viper-auto-2098159319866872223",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Santa Monica / Santa Magdalena, La Serena",
