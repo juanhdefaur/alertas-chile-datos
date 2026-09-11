@@ -26,19 +26,6 @@
     "tweetUrl": "https://x.com/bomberoschillan/status/2098081021312836050"
   },
   {
-    "id": "viper-auto-2098031854284640468",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Los Manios / Los Avellanos, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.596610749999996,
-    "longitude": -72.0902623,
-    "fecha": "2026-09-10T12:52:28.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2098031854284640468"
-  },
-  {
     "id": "viper-auto-2098159319866872223",
     "tipo": "incidente",
     "titulo": "apoyo fuera de nuestra jurisdicción — Santa Monica / Santa Magdalena, La Serena",
