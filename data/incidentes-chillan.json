@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "viper-auto-2102399104068313537",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Juan Francisco Fresno / Los Robles, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.976560449999994,
+    "longitude": -73.161472,
+    "fecha": "2026-09-22T14:06:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2102399104068313537"
+  },
+  {
+    "id": "viper-auto-2102368451880710620",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Bilbao / Democracia, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.029670249999995,
+    "longitude": -73.14203965,
+    "fecha": "2026-09-22T12:04:33.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2102368451880710620"
+  },
+  {
+    "id": "viper-auto-2102366550233608379",
+    "tipo": "incidente",
+    "titulo": "Emanación de gas — Bilbao / Democracia, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.029670249999995,
+    "longitude": -73.14203965,
+    "fecha": "2026-09-22T11:57:00.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2102366550233608379"
+  }
+]
