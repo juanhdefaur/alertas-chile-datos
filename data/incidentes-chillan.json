@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2102399104068313537",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Juan Francisco Fresno / Los Robles, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.976560449999994,
-    "longitude": -73.161472,
-    "fecha": "2026-09-22T14:06:21.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2102399104068313537"
-  }
-]
+[]
