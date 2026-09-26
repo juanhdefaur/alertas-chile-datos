@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "viper-auto-2103654470865346570",
+    "tipo": "incidente",
+    "titulo": "rescate vehicular — Escuadrón / Profesor Adrian Perez, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.9790755,
+    "longitude": -73.15233065000001,
+    "fecha": "2026-09-26T01:14:44.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2103654470865346570"
+  }
+]
