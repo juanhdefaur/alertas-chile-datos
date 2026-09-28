@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2104315467762463000",
-    "tipo": "incidente",
-    "titulo": "emergencia por rescate de persona (s) — Rio Viejo / Lincoyan, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.62756915,
-    "longitude": -72.0922338,
-    "fecha": "2026-09-27T21:01:18.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2104315467762463000"
-  }
-]
+[]
