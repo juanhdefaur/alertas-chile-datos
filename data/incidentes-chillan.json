@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2105657947955065256",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — Lautaro / Cerro Corcovado, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.0271178,
-    "longitude": -73.1351556,
-    "fecha": "2026-10-01T13:55:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2105657947955065256"
-  }
-]
+[]
