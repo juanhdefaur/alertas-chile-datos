@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "viper-auto-2108573374058213505",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Lastarria / 2 Oriente, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.62034265,
+    "longitude": -72.0994424,
+    "fecha": "2026-10-09T15:00:42.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2108573374058213505"
+  }
+]
