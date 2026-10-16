@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2110884222030250051",
-    "tipo": "incidente",
-    "titulo": "fuego en árbol o pastizal — Pasaje El Girasol / Victor Llanos, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.01468375,
-    "longitude": -73.1672694,
-    "fecha": "2026-10-16T00:03:11.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2110884222030250051"
-  }
-]
+[]
