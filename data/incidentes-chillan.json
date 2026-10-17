@@ -24,18 +24,5 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2111138270369153480"
-  },
-  {
-    "id": "viper-auto-2111080931750526998",
-    "tipo": "incidente",
-    "titulo": "prestar apoyo en un incidente que no es una emergencia — Schleyer / Avenida Libertador Bernardo O'higgins, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.6151902,
-    "longitude": -72.1126517,
-    "fecha": "2026-10-16T13:04:50.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2111080931750526998"
   }
 ]
