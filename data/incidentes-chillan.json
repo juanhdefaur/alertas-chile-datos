@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "viper-auto-2114745943513776601",
+    "tipo": "incidente",
+    "titulo": "Rescate en accidente de tránsito — Ruta 5 Sur, Puente Ñuble, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.55019,
+    "longitude": -72.0930616,
+    "fecha": "2026-10-26T15:48:17.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2114745943513776601"
+  },
+  {
+    "id": "viper-auto-2114750601510703361",
+    "tipo": "incidente",
+    "titulo": "fuego en árbol o pastizal — Camino Al Guayo / Corcovado, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.029981750000005,
+    "longitude": -73.1258024,
+    "fecha": "2026-10-26T16:06:48.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2114750601510703361"
+  }
+]
