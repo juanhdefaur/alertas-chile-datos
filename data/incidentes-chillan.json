@@ -11,31 +11,5 @@
     "curadoManualmente": false,
     "fuente": "Bomberos de Chillán",
     "tweetUrl": "https://x.com/bomberoschillan/status/2122345433846411278"
-  },
-  {
-    "id": "viper-auto-2122229338581995894",
-    "tipo": "incidente",
-    "titulo": "Emanación de gas — Maipon / Arauco, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.608568149999996,
-    "longitude": -72.10531284999999,
-    "fecha": "2026-11-16T07:24:38.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2122229338581995894"
-  },
-  {
-    "id": "viper-auto-2122193553715581286",
-    "tipo": "incidente",
-    "titulo": "emergencia por fuego en un vehículo — Jorge Rojas Miranda / Alcalde De Mar Primitivo Riffo Arrepol, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -37.02334175,
-    "longitude": -73.15513225000001,
-    "fecha": "2026-11-16T05:02:26.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2122193553715581286"
   }
 ]
