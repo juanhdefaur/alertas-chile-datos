@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2122345433846411278",
-    "tipo": "incidente",
-    "titulo": "rescate de persona (s) — El Roble / 5 De Abril, Chillán",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.60771165,
-    "longitude": -72.1032895,
-    "fecha": "2026-11-16T15:05:57.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Chillán",
-    "tweetUrl": "https://x.com/bomberoschillan/status/2122345433846411278"
-  }
-]
+[]
