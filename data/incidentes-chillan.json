@@ -1,15 +1,1 @@
-[
-  {
-    "id": "viper-auto-2124544621879443483",
-    "tipo": "incidente",
-    "titulo": "emergencia por presunta emanación de gas — Los Pinos / Los Quillayes, Coronel",
-    "nivelAlerta": "amarilla",
-    "estado": "en_atencion",
-    "latitude": -36.986513,
-    "longitude": -73.16169465,
-    "fecha": "2026-11-22T16:44:44.000Z",
-    "curadoManualmente": false,
-    "fuente": "Bomberos de Coronel",
-    "tweetUrl": "https://x.com/centralcor132/status/2124544621879443483"
-  }
-]
+[]
