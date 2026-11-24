@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "viper-auto-2125259414600876513",
+    "tipo": "incidente",
+    "titulo": "emergencia por rescate de persona (s) — Lago Lanalhue / Lago Lleu-lleu, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.612904549999996,
+    "longitude": -72.07775749999999,
+    "fecha": "2026-11-24T16:05:04.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2125259414600876513"
+  },
+  {
+    "id": "viper-auto-2125217833558692187",
+    "tipo": "incidente",
+    "titulo": "simulacro — Ruta 5 Sur, Km 409, Chillán Viejo",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6788761,
+    "longitude": -72.2505402,
+    "fecha": "2026-11-24T13:19:50.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán Viejo",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2125217833558692187"
+  },
+  {
+    "id": "viper-auto-2125256139696664963",
+    "tipo": "incidente",
+    "titulo": "emergencia estructural — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01201825,
+    "longitude": -73.53038875,
+    "fecha": "2026-11-24T15:52:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2125256139696664963"
+  },
+  {
+    "id": "viper-auto-2125255157772341369",
+    "tipo": "incidente",
+    "titulo": "Incendio estructural — Camino A Playa \"las Tres Cuevas\" / Camino Puerto Norte - Puerto Sur, Coronel",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -37.01201825,
+    "longitude": -73.53038875,
+    "fecha": "2026-11-24T15:48:09.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Coronel",
+    "tweetUrl": "https://x.com/centralcor132/status/2125255157772341369"
+  }
+]
