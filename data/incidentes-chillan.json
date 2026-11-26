@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "viper-auto-2125926885464969350",
+    "tipo": "incidente",
+    "titulo": "simulacro — El Roble / Isabel Riquelme, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.6108473,
+    "longitude": -72.09864440000001,
+    "fecha": "2026-11-26T12:17:21.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2125926885464969350"
+  },
+  {
+    "id": "viper-auto-2125767506983854568",
+    "tipo": "incidente",
+    "titulo": "emergencia por presunta emanación de gas — Matucana / Avenida Padre Alberto Hurtado, Chillán",
+    "nivelAlerta": "amarilla",
+    "estado": "en_atencion",
+    "latitude": -36.5941187,
+    "longitude": -72.0961481,
+    "fecha": "2026-11-26T01:44:03.000Z",
+    "curadoManualmente": false,
+    "fuente": "Bomberos de Chillán",
+    "tweetUrl": "https://x.com/bomberoschillan/status/2125767506983854568"
+  }
+]
